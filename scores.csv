@@ -1,0 +1,4918 @@
+movie_title,numreviews,imdb_score
+Avatar,723.0,7.9
+Pirates of the Caribbean: At World's End,302.0,7.1
+Spectre,602.0,6.8
+The Dark Knight Rises,813.0,8.5
+John Carter,462.0,6.6
+Spider-Man 3,392.0,6.2
+Tangled,324.0,7.8
+Avengers: Age of Ultron,635.0,7.5
+Harry Potter and the Half-Blood Prince,375.0,7.5
+Batman v Superman: Dawn of Justice,673.0,6.9
+Superman Returns,434.0,6.1
+Quantum of Solace,403.0,6.7
+Pirates of the Caribbean: Dead Man's Chest,313.0,7.3
+The Lone Ranger,450.0,6.5
+Man of Steel,733.0,7.2
+The Chronicles of Narnia: Prince Caspian,258.0,6.6
+The Avengers,703.0,8.1
+Pirates of the Caribbean: On Stranger Tides,448.0,6.7
+Men in Black 3,451.0,6.8
+The Hobbit: The Battle of the Five Armies,422.0,7.5
+The Amazing Spider-Man,599.0,7.0
+Robin Hood,343.0,6.7
+The Hobbit: The Desolation of Smaug,509.0,7.9
+The Golden Compass,251.0,6.1
+King Kong,446.0,7.2
+Titanic,315.0,7.7
+Captain America: Civil War,516.0,8.2
+Battleship,377.0,5.9
+Jurassic World,644.0,7.0
+Skyfall,750.0,7.8
+Spider-Man 2,300.0,7.3
+Iron Man 3,608.0,7.2
+Alice in Wonderland,451.0,6.5
+X-Men: The Last Stand,334.0,6.8
+Monsters University,376.0,7.3
+Transformers: Revenge of the Fallen,366.0,6.0
+Transformers: Age of Extinction,378.0,5.7
+Oz the Great and Powerful,525.0,6.4
+The Amazing Spider-Man 2,495.0,6.7
+TRON: Legacy,469.0,6.8
+Cars 2,304.0,6.3
+Green Lantern,436.0,5.6
+Toy Story 3,453.0,8.3
+Terminator Salvation,422.0,6.6
+Furious 7,424.0,7.2
+World War Z,654.0,7.0
+X-Men: Days of Future Past,539.0,8.0
+Star Trek Into Darkness,590.0,7.8
+Jack the Giant Slayer,338.0,6.3
+The Great Gatsby,490.0,7.3
+Prince of Persia: The Sands of Time,306.0,6.6
+Pacific Rim,575.0,7.0
+Transformers: Dark of the Moon,428.0,6.3
+Indiana Jones and the Kingdom of the Crystal Skull,470.0,6.2
+The Good Dinosaur,298.0,6.8
+Brave,488.0,7.2
+Star Trek Beyond,322.0,7.5
+WALL·E,421.0,8.4
+Rush Hour 3,162.0,6.2
+2012,367.0,5.8
+A Christmas Carol,240.0,6.8
+Jupiter Ascending,384.0,5.4
+The Legend of Tarzan,248.0,6.6
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",284.0,6.9
+X-Men: Apocalypse,396.0,7.3
+The Dark Knight,645.0,9.0
+Up,408.0,8.3
+Monsters vs. Aliens,219.0,6.5
+Iron Man,486.0,7.9
+Hugo,682.0,7.5
+Wild Wild West,85.0,4.8
+The Mummy: Tomb of the Dragon Emperor,264.0,5.2
+Suicide Squad,418.0,6.9
+Evan Almighty,186.0,5.4
+Edge of Tomorrow,585.0,7.9
+Waterworld,91.0,6.1
+G.I. Joe: The Rise of Cobra,250.0,5.8
+Inside Out,536.0,8.3
+The Jungle Book,370.0,7.8
+Iron Man 2,453.0,7.0
+Snow White and the Huntsman,416.0,6.1
+Maleficent,401.0,7.0
+Dawn of the Planet of the Apes,521.0,7.6
+The Lovers,10.0,4.5
+47 Ronin,218.0,6.3
+Captain America: The Winter Soldier,576.0,7.8
+Shrek Forever After,226.0,6.4
+Tomorrowland,443.0,6.5
+Big Hero 6,384.0,7.9
+Wreck-It Ralph,377.0,7.8
+The Polar Express,188.0,6.6
+Independence Day: Resurgence,286.0,5.5
+How to Train Your Dragon,288.0,8.2
+Terminator 3: Rise of the Machines,280.0,6.4
+Guardians of the Galaxy,653.0,8.1
+Interstellar,712.0,8.6
+Inception,642.0,8.8
+Godzilla Resurgence,1.0,8.2
+The Hobbit: An Unexpected Journey,645.0,7.9
+The Fast and the Furious,187.0,6.7
+The Curious Case of Benjamin Button,362.0,7.8
+X-Men: First Class,500.0,7.8
+The Hunger Games: Mockingjay - Part 2,389.0,6.6
+The Sorcerer's Apprentice,235.0,6.1
+Poseidon,231.0,5.6
+Alice Through the Looking Glass,218.0,6.4
+Shrek the Third,227.0,6.1
+Warcraft,275.0,7.3
+Terminator Genisys,474.0,6.6
+The Chronicles of Narnia: The Voyage of the Dawn Treader,228.0,6.3
+Pearl Harbor,191.0,6.1
+Transformers,396.0,7.1
+Alexander,248.0,5.5
+Harry Potter and the Order of the Phoenix,329.0,7.5
+Harry Potter and the Goblet of Fire,295.0,7.6
+Hancock,318.0,6.4
+I Am Legend,323.0,7.2
+Charlie and the Chocolate Factory,276.0,6.7
+Ratatouille,318.0,8.0
+Batman Begins,478.0,8.3
+Madagascar: Escape 2 Africa,167.0,6.7
+Night at the Museum: Battle of the Smithsonian,185.0,5.9
+X-Men Origins: Wolverine,350.0,6.7
+The Matrix Revolutions,245.0,6.7
+Frozen,406.0,7.6
+The Matrix Reloaded,275.0,7.2
+Thor: The Dark World,486.0,7.1
+Mad Max: Fury Road,739.0,8.1
+Angels & Demons,298.0,6.7
+Thor,516.0,7.0
+Bolt,225.0,6.9
+G-Force,145.0,5.1
+Wrath of the Titans,310.0,5.8
+Dark Shadows,526.0,6.2
+Mission: Impossible - Rogue Nation,465.0,7.4
+The Wolfman,357.0,5.8
+The Legend of Tarzan,248.0,6.6
+Bee Movie,194.0,6.2
+Kung Fu Panda 2,284.0,7.3
+The Last Airbender,280.0,4.2
+Mission: Impossible III,310.0,6.9
+White House Down,339.0,6.4
+Mars Needs Moms,132.0,5.4
+Flushed Away,135.0,6.7
+Pan,256.0,5.8
+Mr. Peabody & Sherman,196.0,6.9
+Troy,220.0,7.2
+Madagascar 3: Europe's Most Wanted,211.0,6.9
+Die Another Day,264.0,6.1
+Ghostbusters,464.0,5.5
+Armageddon,167.0,6.6
+Men in Black II,208.0,6.1
+Beowulf,287.0,6.3
+Kung Fu Panda 3,210.0,7.2
+Mission: Impossible - Ghost Protocol,432.0,7.4
+Rise of the Guardians,256.0,7.3
+Fun with Dick and Jane,135.0,6.1
+The Last Samurai,190.0,7.7
+Exodus: Gods and Kings,314.0,6.1
+Star Trek,518.0,8.0
+Spider-Man,291.0,7.3
+How to Train Your Dragon 2,292.0,7.9
+Gods of Egypt,184.0,5.5
+Stealth,145.0,5.0
+Watchmen,451.0,7.7
+Lethal Weapon 4,141.0,6.6
+Hulk,267.0,5.7
+G.I. Joe: Retaliation,351.0,5.8
+Sahara,163.0,6.0
+Final Fantasy: The Spirits Within,166.0,6.4
+Captain America: The First Avenger,510.0,6.9
+The World Is Not Enough,197.0,6.4
+Master and Commander: The Far Side of the World,244.0,7.4
+The Twilight Saga: Breaking Dawn - Part 2,322.0,5.5
+Happy Feet 2,156.0,5.9
+The Incredible Hulk,354.0,6.8
+The BFG,252.0,6.8
+The Revenant,556.0,8.1
+Turbo,166.0,6.5
+Rango,362.0,7.2
+Penguins of Madagascar,153.0,6.7
+The Bourne Ultimatum,329.0,8.1
+Kung Fu Panda,266.0,7.6
+Ant-Man,517.0,7.4
+The Hunger Games: Catching Fire,502.0,7.6
+The Twilight Saga: Breaking Dawn - Part 2,322.0,5.5
+Home,165.0,6.7
+War of the Worlds,401.0,6.5
+Bad Boys II,94.0,6.6
+Puss in Boots,246.0,6.7
+Salt,330.0,6.4
+Noah,434.0,5.8
+The Adventures of Tintin,440.0,7.4
+Harry Potter and the Prisoner of Azkaban,274.0,7.8
+Australia,245.0,6.6
+After Earth,349.0,4.9
+Dinosaur,145.0,6.5
+Harry Potter and the Deathly Hallows: Part II,1.0,7.5
+Night at the Museum: Secret of the Tomb,154.0,6.2
+Megamind,233.0,7.3
+Harry Potter and the Sorcerer's Stone,258.0,7.5
+R.I.P.D.,208.0,5.6
+Godzilla Resurgence,1.0,8.2
+Pirates of the Caribbean: The Curse of the Black Pearl,271.0,8.1
+Harry Potter and the Deathly Hallows: Part I,4.0,6.4
+The Hunger Games: Mockingjay - Part 1,403.0,6.7
+The Da Vinci Code,294.0,6.6
+Rio 2,159.0,6.4
+X-Men 2,289.0,7.5
+Fast Five,342.0,7.3
+Sherlock Holmes: A Game of Shadows,382.0,7.5
+Clash of the Titans,344.0,5.8
+Total Recall,196.0,7.5
+The 13th Warrior,85.0,6.6
+The Bourne Legacy,436.0,6.7
+Batman & Robin,183.0,3.7
+How the Grinch Stole Christmas,175.0,6.0
+The Day After Tomorrow,239.0,6.4
+Mission: Impossible II,237.0,6.1
+The Perfect Storm,231.0,6.4
+Fantastic 4: Rise of the Silver Surfer,262.0,5.6
+Life of Pi,552.0,8.0
+Ghost Rider,276.0,5.2
+Jason Bourne,267.0,7.1
+Charlie's Angels: Full Throttle,102.0,4.8
+Prometheus,775.0,7.0
+Stuart Little 2,71.0,5.4
+Elysium,476.0,6.6
+The Chronicles of Riddick,207.0,6.7
+RoboCop,492.0,6.2
+Speed Racer,284.0,6.1
+How Do You Know,168.0,5.3
+Knight and Day,283.0,6.3
+Oblivion,539.0,7.0
+Star Wars: Episode III - Revenge of the Sith,359.0,7.6
+Star Wars: Episode II - Attack of the Clones,284.0,6.7
+"Monsters, Inc.",250.0,8.1
+The Wolverine,440.0,6.7
+Star Wars: Episode I - The Phantom Menace,320.0,6.5
+The Croods,257.0,7.3
+Asterix at the Olympic Games,33.0,5.1
+Windtalkers,152.0,6.0
+The Huntsman: Winter's War,231.0,6.1
+Teenage Mutant Ninja Turtles,348.0,5.9
+Gravity,738.0,7.8
+Dante's Peak,93.0,5.8
+Teenage Mutant Ninja Turtles: Out of the Shadows,181.0,6.3
+Fantastic Four,369.0,4.3
+Night at the Museum,179.0,6.4
+San Andreas,358.0,6.1
+Tomorrow Never Dies,160.0,6.5
+The Patriot,192.0,7.1
+Ocean's Twelve,198.0,6.4
+Mr. & Mrs. Smith,233.0,6.5
+Insurgent,263.0,6.3
+The Aviator,267.0,7.5
+Gulliver's Travels,184.0,4.9
+The Green Hornet,447.0,5.8
+300: Rise of an Empire,366.0,6.2
+The Smurfs,172.0,5.5
+Home on the Range,104.0,5.4
+Allegiant,181.0,5.8
+Real Steel,327.0,7.1
+The Smurfs 2,125.0,5.4
+Speed 2: Cruise Control,79.0,3.7
+Ender's Game,326.0,6.7
+Live Free or Die Hard,354.0,7.2
+The Lord of the Rings: The Fellowship of the Ring,297.0,8.8
+Around the World in 80 Days,188.0,5.8
+Ali,174.0,6.8
+The Cat in the Hat,109.0,3.8
+"I, Robot",225.0,7.1
+Kingdom of Heaven,239.0,7.2
+Stuart Little,101.0,5.9
+The Princess and the Frog,228.0,7.1
+The Martian,568.0,8.1
+The Island,257.0,6.9
+Town & Country,62.0,4.4
+Gone in Sixty Seconds,175.0,6.5
+Gladiator,265.0,8.5
+Minority Report,252.0,7.7
+Harry Potter and the Chamber of Secrets,232.0,7.4
+Casino Royale,400.0,8.0
+Planet of the Apes,230.0,5.7
+Terminator 2: Judgment Day,210.0,8.5
+Public Enemies,357.0,7.0
+American Gangster,300.0,7.8
+True Lies,94.0,7.2
+The Taking of Pelham 1 2 3,267.0,6.4
+Little Fockers,180.0,5.5
+The Other Guys,265.0,6.7
+Eraser,81.0,6.1
+Django Unchained,765.0,8.5
+The Hunchback of Notre Dame,80.0,6.9
+The Emperor's New Groove,141.0,7.3
+The Expendables 2,383.0,6.7
+National Treasure,193.0,6.9
+Eragon,170.0,5.1
+Where the Wild Things Are,333.0,6.8
+Pan,256.0,5.8
+Epic,203.0,6.7
+The Tourist,321.0,6.0
+End of Days,174.0,5.7
+Blood Diamond,166.0,8.0
+The Wolf of Wall Street,606.0,8.2
+Batman Forever,144.0,5.4
+Starship Troopers,192.0,7.2
+Cloud Atlas,511.0,7.5
+Legend of the Guardians: The Owls of Ga'Hoole,188.0,7.0
+Catwoman,212.0,3.3
+Hercules,245.0,6.0
+Treasure Planet,127.0,7.1
+Land of the Lost,167.0,5.4
+The Expendables 3,320.0,6.1
+Point Break,163.0,5.3
+Son of the Mask,78.0,2.2
+In the Heart of the Sea,289.0,7.0
+The Adventures of Pluto Nash,66.0,3.8
+Green Zone,266.0,6.9
+The Peanuts Movie,208.0,7.2
+The Spanish Prisoner,97.0,7.3
+The Mummy Returns,202.0,6.3
+Gangs of New York,233.0,7.5
+The Flowers of War,136.0,7.6
+Surf's Up,154.0,6.8
+The Stepford Wives,169.0,5.2
+Black Hawk Down,200.0,7.7
+The Campaign,255.0,6.2
+The Fifth Element,173.0,7.7
+Sex and the City 2,221.0,4.3
+The Road to El Dorado,82.0,6.9
+Ice Age: Continental Drift,233.0,6.6
+Cinderella,343.0,7.0
+The Lovely Bones,308.0,6.7
+Finding Nemo,301.0,8.2
+The Lord of the Rings: The Return of the King,328.0,8.9
+The Lord of the Rings: The Two Towers,294.0,8.7
+Seventh Son,175.0,5.5
+Lara Croft: Tomb Raider,199.0,5.7
+Transcendence,355.0,6.3
+Jurassic Park III,198.0,5.9
+Rise of the Planet of the Apes,529.0,7.6
+The Spiderwick Chronicles,198.0,6.6
+A Good Day to Die Hard,412.0,5.3
+The Alamo,106.0,6.0
+The Incredibles,283.0,8.0
+Cutthroat Island,61.0,5.6
+Percy Jackson & the Olympians: The Lightning Thief,217.0,5.9
+Men in Black,175.0,7.3
+Toy Story 2,191.0,7.9
+Unstoppable,316.0,6.8
+Rush Hour 2,127.0,6.6
+What Lies Beneath,185.0,6.6
+Cloudy with a Chance of Meatballs,191.0,7.0
+Ice Age: Dawn of the Dinosaurs,188.0,7.0
+The Secret Life of Walter Mitty,362.0,7.3
+Charlie's Angels,181.0,5.5
+The Departed,352.0,8.5
+Mulan,143.0,7.5
+Tropic Thunder,308.0,7.0
+The Girl with the Dragon Tattoo,517.0,7.8
+Die Hard with a Vengeance,148.0,7.6
+Sherlock Holmes,415.0,7.6
+Ben-Hur,1.0,6.1
+Atlantis: The Lost Empire,146.0,6.8
+Alvin and the Chipmunks: The Road Chip,70.0,5.0
+Valkyrie,269.0,7.1
+You Don't Mess with the Zohan,198.0,5.5
+Pixels,253.0,5.6
+A.I. Artificial Intelligence,281.0,7.1
+The Haunted Mansion,122.0,4.9
+Contact,159.0,7.4
+Hollow Man,180.0,5.7
+The Interpreter,227.0,6.4
+Percy Jackson: Sea of Monsters,183.0,5.9
+Lara Croft Tomb Raider: The Cradle of Life,157.0,5.5
+Now You See Me 2,196.0,6.9
+The Saint,64.0,6.2
+Spy Game,142.0,7.0
+Mission to Mars,181.0,5.6
+Rio,240.0,7.0
+Bicentennial Man,93.0,6.8
+Volcano,84.0,5.4
+The Devil's Own,66.0,6.1
+K-19: The Widowmaker,136.0,6.7
+Fantastic Four,369.0,4.3
+Conan the Barbarian,166.0,6.9
+Cinderella Man,201.0,8.0
+The Nutcracker in 3D,47.0,4.4
+Seabiscuit,175.0,7.3
+Twister,114.0,6.3
+The Fast and the Furious,187.0,6.7
+Cast Away,221.0,7.7
+Happy Feet,206.0,6.5
+The Bourne Supremacy,239.0,7.8
+Air Force One,142.0,6.4
+Ocean's Eleven,186.0,7.8
+The Three Musketeers,228.0,5.8
+Hotel Transylvania,256.0,7.1
+Enchanted,222.0,7.1
+Safe House,298.0,6.8
+102 Dalmatians,84.0,4.8
+Tower Heist,236.0,6.2
+The Holiday,157.0,6.9
+Enemy of the State,81.0,7.3
+It's Complicated,187.0,6.6
+Ocean's Thirteen,238.0,6.9
+Open Season,107.0,6.2
+Divergent,459.0,6.7
+Enemy at the Gates,187.0,7.6
+The Rundown,151.0,6.7
+Last Action Hero,80.0,6.2
+Memoirs of a Geisha,229.0,7.3
+The Fast and the Furious: Tokyo Drift,158.0,6.0
+Arthur Christmas,190.0,7.1
+Meet Joe Black,98.0,7.1
+Collateral Damage,135.0,5.5
+All That Jazz,84.0,7.8
+Mirror Mirror,382.0,5.6
+Scott Pilgrim vs. the World,393.0,7.5
+The Core,149.0,5.4
+Nutty Professor II: The Klumps,94.0,4.3
+Scooby-Doo,138.0,4.9
+Dredd,432.0,7.1
+Click,173.0,6.4
+Creepshow,127.0,6.9
+Cats & Dogs: The Revenge of Kitty Galore,91.0,4.3
+Jumper,238.0,6.1
+Hellboy II: The Golden Army,345.0,7.0
+Zodiac,377.0,7.7
+The 6th Day,170.0,5.9
+Bruce Almighty,191.0,6.7
+The Expendables,424.0,6.5
+Mission: Impossible,154.0,7.1
+The Hunger Games,673.0,7.3
+The Hangover Part II,383.0,6.5
+Batman Returns,153.0,7.0
+Over the Hedge,166.0,6.8
+Lilo & Stitch,180.0,7.2
+Charlotte's Web,120.0,6.4
+Deep Impact,125.0,6.1
+RED 2,234.0,6.7
+The Longest Yard,134.0,6.4
+Alvin and the Chipmunks: Chipwrecked,91.0,4.4
+Grown Ups 2,139.0,5.4
+Get Smart,265.0,6.5
+Something's Gotta Give,145.0,6.7
+Shutter Island,490.0,8.1
+Four Christmases,141.0,5.6
+Robots,163.0,6.3
+Face/Off,155.0,7.3
+Bedtime Stories,144.0,6.1
+Road to Perdition,226.0,7.7
+Just Go with It,204.0,6.4
+Con Air,139.0,6.8
+Eagle Eye,215.0,6.6
+Cold Mountain,198.0,7.2
+The Book of Eli,325.0,6.9
+Flubber,53.0,5.2
+The Haunting,167.0,4.9
+Space Jam,46.0,6.3
+The Pink Panther,147.0,5.6
+The Day the Earth Stood Still,276.0,5.5
+Conspiracy Theory,80.0,6.7
+Fury,406.0,7.6
+Six Days Seven Nights,97.0,5.7
+Yogi Bear,143.0,4.6
+Spirit: Stallion of the Cimarron,106.0,7.0
+Zookeeper,178.0,5.2
+Lost in Space,102.0,5.1
+The Manchurian Candidate,209.0,6.6
+Déjà Vu,19.0,7.0
+Hotel Transylvania 2,152.0,6.7
+Fantasia 2000,129.0,7.3
+The Time Machine,124.0,5.9
+Mighty Joe Young,35.0,5.6
+Swordfish,166.0,6.5
+The Legend of Zorro,137.0,5.9
+What Dreams May Come,121.0,7.0
+Little Nicky,87.0,5.3
+The Brothers Grimm,233.0,5.9
+Mars Attacks!,132.0,6.3
+Evolution,63.0,6.4
+The Edge,95.0,6.9
+Surrogates,258.0,6.3
+Thirteen Days,162.0,7.3
+Daylight,61.0,5.8
+Walking with Dinosaurs 3D,113.0,5.2
+Battlefield Earth,174.0,2.4
+Looney Tunes: Back in Action,101.0,5.7
+Nine,205.0,5.8
+Timeline,123.0,5.6
+The Postman,79.0,6.0
+Babe: Pig in the City,61.0,5.8
+The Last Witch Hunter,202.0,6.0
+Red Planet,145.0,5.7
+Arthur and the Invisibles,101.0,6.0
+Oceans,113.0,7.8
+A Sound of Thunder,113.0,4.2
+Pompeii,272.0,5.6
+Top Cat Begins,3.0,4.4
+A Beautiful Mind,205.0,8.2
+The Lion King,186.0,8.5
+Journey 2: The Mysterious Island,178.0,5.8
+Cloudy with a Chance of Meatballs 2,169.0,6.5
+Red Dragon,210.0,7.2
+Hidalgo,140.0,6.7
+Jack and Jill,156.0,3.4
+2 Fast 2 Furious,150.0,5.9
+The Little Prince,119.0,7.8
+The Invasion,232.0,5.9
+The Adventures of Rocky & Bullwinkle,49.0,4.1
+The Secret Life of Pets,165.0,6.8
+The League of Extraordinary Gentlemen,202.0,5.8
+Despicable Me 2,306.0,7.5
+Independence Day,185.0,6.9
+The Lost World: Jurassic Park,177.0,6.5
+Madagascar,181.0,6.9
+Children of Men,372.0,7.9
+X-Men,290.0,7.4
+Wanted,316.0,6.7
+The Rock,122.0,7.4
+Ice Age: The Meltdown,164.0,6.9
+50 First Dates,147.0,6.8
+Hairspray,219.0,6.7
+Exorcist: The Beginning,167.0,5.1
+Inspector Gadget,70.0,4.1
+Now You See Me,384.0,7.3
+Grown Ups,179.0,6.0
+The Terminal,151.0,7.3
+Hotel for Dogs,107.0,5.4
+Vertical Limit,134.0,5.9
+Charlie Wilson's War,269.0,7.1
+Shark Tale,143.0,6.0
+Dreamgirls,241.0,6.5
+Be Cool,161.0,5.7
+Munich,298.0,7.6
+Tears of the Sun,89.0,6.6
+Killers,140.0,5.4
+The Man from U.N.C.L.E.,362.0,7.3
+Spanglish,124.0,6.5
+Monster House,190.0,6.6
+Bandits,132.0,6.6
+First Knight,53.0,5.9
+Anna and the King,91.0,6.7
+Immortals,284.0,6.1
+Hostage,152.0,6.6
+Titan A.E.,131.0,6.6
+Hollywood Homicide,132.0,5.3
+Soldier,67.0,6.0
+Carriers,130.0,6.0
+Monkeybone,74.0,4.7
+Flight of the Phoenix,114.0,6.1
+Unbreakable,294.0,7.2
+Minions,308.0,6.4
+Sucker Punch,435.0,6.1
+Snake Eyes,117.0,5.9
+Sphere,108.0,6.0
+The Angry Birds Movie,141.0,6.3
+Fool's Gold,176.0,5.6
+Funny People,230.0,6.4
+The Kingdom,234.0,7.1
+Talladega Nights: The Ballad of Ricky Bobby,164.0,6.6
+Dr. Dolittle 2,91.0,4.6
+Braveheart,132.0,8.4
+Jarhead,262.0,7.1
+The Simpsons Movie,299.0,7.4
+The Majestic,128.0,6.9
+Driven,109.0,4.5
+Two Brothers,88.0,7.1
+The Village,261.0,6.5
+Doctor Dolittle,73.0,5.3
+Signs,208.0,6.7
+Shrek 2,205.0,7.2
+Cars,256.0,7.2
+Runaway Bride,103.0,5.5
+xXx,191.0,5.8
+The SpongeBob Movie: Sponge Out of Water,147.0,6.0
+Ransom,79.0,6.6
+Inglourious Basterds,486.0,8.3
+Hook,75.0,6.7
+Hercules,245.0,6.0
+Die Hard 2,142.0,7.1
+S.W.A.T.,144.0,6.0
+Vanilla Sky,153.0,6.9
+Lady in the Water,284.0,5.6
+AVP: Alien vs. Predator,247.0,5.6
+Alvin and the Chipmunks: The Squeakquel,107.0,4.5
+We Were Soldiers,141.0,7.1
+Olympus Has Fallen,358.0,6.5
+Star Trek: Insurrection,160.0,6.4
+Battle Los Angeles,355.0,5.8
+Big Fish,235.0,8.0
+Wolf,59.0,6.2
+War Horse,388.0,7.2
+The Monuments Men,371.0,6.1
+The Abyss,82.0,7.6
+Wall Street: Money Never Sleeps,297.0,6.3
+Dracula Untold,261.0,6.3
+The Siege,120.0,6.3
+Stardust,228.0,7.7
+Seven Years in Tibet,76.0,7.0
+The Dilemma,185.0,5.3
+Bad Company,128.0,5.6
+Doom,237.0,5.2
+I Spy,105.0,5.4
+Underworld: Awakening,242.0,6.4
+Rock of Ages,360.0,5.9
+Hart's War,112.0,6.3
+Killer Elite,189.0,6.5
+Rollerball,151.0,3.0
+Ballistic: Ecks vs. Sever,92.0,3.6
+Hard Rain,79.0,5.8
+Osmosis Jones,81.0,6.2
+Legends of Oz: Dorothy's Return,51.0,5.6
+Blackhat,261.0,5.4
+Sky Captain and the World of Tomorrow,197.0,6.1
+Basic Instinct 2,159.0,4.2
+Escape Plan,286.0,6.7
+The Legend of Hercules,156.0,4.2
+The Sum of All Fears,176.0,6.4
+The Twilight Saga: Eclipse,293.0,4.9
+The Score,141.0,6.8
+Despicable Me,304.0,7.7
+Money Train,40.0,5.6
+Ted 2,280.0,6.4
+Agora,180.0,7.2
+Mystery Men,125.0,6.0
+Hall Pass,237.0,5.9
+The Insider,209.0,7.9
+The Finest Hours,178.0,6.8
+Body of Lies,238.0,7.1
+Dinner for Schmucks,190.0,5.9
+Abraham Lincoln: Vampire Hunter,393.0,5.9
+Entrapment,138.0,6.2
+The X Files,142.0,7.0
+The Last Legion,90.0,5.4
+Saving Private Ryan,219.0,8.6
+Need for Speed,327.0,6.5
+What Women Want,149.0,6.4
+Ice Age,193.0,7.6
+Dreamcatcher,175.0,5.5
+Lincoln,538.0,7.4
+The Matrix,313.0,8.7
+Apollo 13,159.0,7.6
+Total Recall,196.0,7.5
+The Santa Clause 2,80.0,5.5
+Les Misérables,488.0,7.6
+You've Got Mail,153.0,6.5
+Step Brothers,173.0,6.9
+The Mask of Zorro,156.0,6.7
+Due Date,307.0,6.6
+Unbroken,322.0,7.2
+Space Cowboys,169.0,6.4
+Cliffhanger,74.0,6.4
+Broken Arrow,72.0,6.0
+The Kid,86.0,6.1
+World Trade Center,242.0,6.0
+Mona Lisa Smile,141.0,6.4
+The Dictator,313.0,6.4
+Eyes Wide Shut,280.0,7.3
+Annie,176.0,5.2
+Focus,279.0,6.6
+This Means War,241.0,6.3
+Blade: Trinity,185.0,5.9
+Red Dawn,97.0,6.4
+Primary Colors,117.0,6.7
+Resident Evil: Retribution,239.0,5.4
+Death Race,230.0,6.4
+The Long Kiss Goodnight,94.0,6.7
+Proof of Life,134.0,6.2
+Zathura: A Space Adventure,136.0,6.1
+Fight Club,315.0,8.8
+We Are Marshall,96.0,7.1
+Hudson Hawk,60.0,5.7
+Lucky Numbers,60.0,5.0
+"I, Frankenstein",308.0,5.1
+Oliver Twist,127.0,6.9
+Elektra,196.0,4.8
+Sin City: A Dame to Kill For,339.0,6.5
+Random Hearts,96.0,5.1
+Everest,361.0,7.1
+Perfume: The Story of a Murderer,226.0,7.5
+Austin Powers in Goldmember,194.0,6.2
+Astro Boy,138.0,6.3
+Jurassic Park,308.0,8.1
+Wyatt Earp,40.0,6.6
+Clear and Present Danger,42.0,6.9
+Dragon Blade,68.0,6.1
+Littleman,78.0,4.3
+U-571,178.0,6.6
+The American President,75.0,6.8
+The Love Guru,150.0,3.8
+3000 Miles to Graceland,113.0,5.9
+The Hateful Eight,596.0,7.9
+Blades of Glory,191.0,6.3
+Hop,156.0,5.5
+300,460.0,7.7
+Meet the Fockers,141.0,6.3
+Marley & Me,180.0,7.1
+The Green Mile,186.0,8.5
+Wild Hogs,177.0,5.9
+Chicken Little,161.0,5.8
+Gone Girl,568.0,8.1
+The Bourne Identity,249.0,7.9
+GoldenEye,137.0,7.2
+The General's Daughter,113.0,6.3
+The Truman Show,213.0,8.1
+The Prince of Egypt,120.0,7.0
+Daddy Day Care,81.0,5.5
+2 Guns,265.0,6.7
+Cats & Dogs,105.0,5.2
+The Italian Job,155.0,7.0
+Two Weeks Notice,118.0,6.1
+Antz,131.0,6.6
+Couples Retreat,166.0,5.5
+Days of Thunder,60.0,5.9
+Cheaper by the Dozen 2,77.0,5.4
+The Scorch Trials,249.0,6.4
+Eat Pray Love,213.0,5.7
+The Family Man,121.0,6.7
+RED,315.0,7.1
+Any Given Sunday,171.0,6.8
+The Horse Whisperer,96.0,6.5
+Collateral,299.0,7.6
+The Scorpion King,167.0,5.5
+Ladder 49,125.0,6.5
+Jack Reacher,387.0,7.0
+Deep Blue Sea,199.0,5.8
+This Is It,136.0,7.3
+Contagion,436.0,6.6
+Kangaroo Jack,73.0,4.4
+Coraline,310.0,7.7
+The Happening,323.0,5.0
+Man on Fire,171.0,7.7
+The Shaggy Dog,76.0,4.4
+Starsky & Hutch,173.0,6.1
+Jingle All the Way,81.0,5.4
+Hellboy,242.0,6.8
+A Civil Action,110.0,6.5
+ParaNorman,328.0,7.0
+The Jackal,83.0,6.3
+Paycheck,196.0,6.3
+Up Close & Personal,34.0,6.1
+The Tale of Despereaux,118.0,6.1
+The Tuxedo,81.0,5.3
+Under Siege 2: Dark Territory,47.0,5.4
+Jack Ryan: Shadow Recruit,313.0,6.2
+Joy,315.0,6.6
+London Has Fallen,225.0,5.9
+Alien: Resurrection,223.0,6.3
+Shooter,198.0,7.2
+The Boxtrolls,219.0,6.8
+Practical Magic,92.0,6.1
+The Lego Movie,435.0,7.8
+Miss Congeniality 2: Armed and Fabulous,111.0,5.0
+Reign of Fire,138.0,6.2
+Gangster Squad,415.0,6.7
+Year One,170.0,4.9
+Invictus,306.0,7.4
+State of Play,252.0,7.1
+Duplicity,211.0,6.2
+My Favorite Martian,49.0,4.9
+The Sentinel,161.0,6.1
+Planet 51,156.0,6.1
+Star Trek: Nemesis,172.0,6.4
+Intolerable Cruelty,161.0,6.3
+Trouble with the Curve,239.0,6.8
+Edge of Darkness,258.0,6.6
+The Relic,95.0,5.7
+Analyze That,105.0,5.9
+Righteous Kill,198.0,6.0
+Mercury Rising,79.0,6.1
+The Soloist,210.0,6.7
+The Legend of Bagger Vance,125.0,6.7
+Almost Famous,149.0,7.9
+Garfield 2,77.0,5.0
+xXx: State of the Union,77.0,4.3
+Priest,225.0,5.7
+Sinbad: Legend of the Seven Seas,98.0,6.7
+Event Horizon,172.0,6.7
+The Avengers,703.0,8.1
+Dragonfly,117.0,6.1
+The Black Dahlia,240.0,5.6
+Flyboys,123.0,6.6
+The Last Castle,110.0,6.9
+Supernova,100.0,4.8
+Winter's Tale,189.0,6.2
+The Mortal Instruments: City of Bones,212.0,6.0
+Meet Dave,127.0,4.9
+Dark Water,196.0,5.6
+Edtv,115.0,6.1
+Inkheart,161.0,6.1
+The Spirit,223.0,4.8
+Mortdecai,181.0,5.5
+In the Name of the King: A Dungeon Siege Tale,140.0,3.8
+Beyond Borders,54.0,6.5
+Xi you ji zhi: Sun Wukong san da Baigu Jing,14.0,6.0
+The Great Raid,81.0,6.7
+Deadpool,579.0,8.1
+Holy Man,56.0,4.9
+American Sniper,490.0,7.3
+Goosebumps,218.0,6.4
+Just Like Heaven,142.0,6.7
+The Flintstones in Viva Rock Vegas,57.0,3.6
+Rambo III,84.0,5.7
+Leatherheads,186.0,6.0
+The Ridiculous 6,53.0,4.9
+Did You Hear About the Morgans?,133.0,4.7
+The Internship,246.0,6.3
+Resident Evil: Afterlife,253.0,5.9
+Red Tails,144.0,5.9
+The Devil's Advocate,117.0,7.5
+That's My Boy,157.0,5.6
+DragonHeart,60.0,6.4
+After the Sunset,117.0,6.3
+Ghost Rider: Spirit of Vengeance,287.0,4.3
+Captain Corelli's Mandolin,96.0,5.9
+The Pacifier,125.0,5.5
+Walking Tall,117.0,6.2
+Forrest Gump,149.0,8.8
+Alvin and the Chipmunks,131.0,5.2
+Meet the Parents,150.0,7.0
+Pocahontas,92.0,6.6
+Superman,169.0,7.3
+The Nutty Professor,57.0,5.6
+Hitch,171.0,6.6
+George of the Jungle,53.0,5.4
+American Wedding,153.0,6.3
+Captain Phillips,491.0,7.9
+Date Night,247.0,6.3
+Casper,26.0,6.0
+The Equalizer,292.0,7.2
+Maid in Manhattan,114.0,5.1
+Crimson Tide,82.0,7.3
+The Pursuit of Happyness,201.0,8.0
+Flightplan,231.0,6.2
+Disclosure,55.0,6.0
+City of Angels,110.0,6.7
+Kill Bill: Vol. 1,354.0,8.1
+Bowfinger,140.0,6.4
+Kill Bill: Vol. 2,304.0,8.0
+Tango & Cash,45.0,6.3
+Death Becomes Her,49.0,6.4
+Shanghai Noon,146.0,6.6
+Executive Decision,60.0,6.4
+Mr. Popper's Penguins,189.0,6.0
+The Forbidden Kingdom,206.0,6.6
+Free Birds,118.0,5.9
+Alien 3,210.0,6.4
+Evita,76.0,6.3
+Ronin,149.0,7.3
+The Ghost and the Darkness,62.0,6.8
+Paddington,224.0,7.2
+The Watch,265.0,5.7
+The Hunted,135.0,6.0
+Instinct,100.0,6.5
+Stuck on You,123.0,5.8
+Semi-Pro,164.0,5.8
+The Pirates! Band of Misfits,238.0,6.7
+Changeling,264.0,7.8
+Chain Reaction,47.0,5.6
+The Fan,50.0,5.8
+The Phantom of the Opera,153.0,7.4
+Elizabeth: The Golden Age,202.0,6.9
+Æon Flux,178.0,5.5
+Gods and Generals,84.0,6.3
+Turbulence,44.0,4.7
+Imagine That,93.0,5.6
+Muppets Most Wanted,277.0,6.4
+Thunderbirds,76.0,4.2
+Burlesque,197.0,6.4
+A Very Long Engagement,186.0,7.7
+Lolita,103.0,7.7
+Eye See You,66.0,5.3
+Blade II,224.0,6.7
+Seven Pounds,202.0,7.7
+Bullet to the Head,279.0,5.7
+The Godfather: Part III,110.0,7.6
+Elizabethtown,190.0,6.4
+"You, Me and Dupree",136.0,5.6
+Superman II,121.0,6.8
+Gigli,131.0,2.4
+All the King's Men,127.0,6.2
+Shaft,160.0,5.9
+Anastasia,78.0,7.1
+Moulin Rouge!,209.0,7.6
+Domestic Disturbance,98.0,5.5
+Black Mass,391.0,7.0
+Flags of Our Fathers,279.0,7.1
+Law Abiding Citizen,216.0,7.4
+Grindhouse,250.0,7.6
+Beloved,78.0,5.9
+Lucky You,106.0,5.9
+Catch Me If You Can,194.0,8.0
+Zero Dark Thirty,558.0,7.4
+The Break-Up,183.0,5.8
+Mamma Mia!,238.0,6.3
+Valentine's Day,186.0,5.7
+The Dukes of Hazzard,144.0,5.1
+The Thin Red Line,156.0,7.6
+The Change-Up,215.0,6.4
+Man on the Moon,140.0,7.4
+Casino,133.0,8.2
+From Paris with Love,203.0,6.5
+Bulletproof Monk,127.0,5.5
+"Me, Myself & Irene",155.0,6.5
+Barnyard,98.0,5.6
+Deck the Halls,71.0,4.9
+The Twilight Saga: New Moon,299.0,4.6
+Shrek,212.0,7.9
+The Adjustment Bureau,413.0,7.1
+Robin Hood: Prince of Thieves,67.0,6.9
+Jerry Maguire,109.0,7.3
+Ted,457.0,7.0
+As Good as It Gets,156.0,7.7
+Patch Adams,55.0,6.7
+Anchorman 2: The Legend Continues,272.0,6.3
+Mr. Deeds,117.0,5.8
+Super 8,539.0,7.1
+Erin Brockovich,169.0,7.3
+How to Lose a Guy in 10 Days,140.0,6.4
+22 Jump Street,330.0,7.1
+Interview with the Vampire: The Vampire Chronicles,120.0,7.6
+Yes Man,190.0,6.8
+Central Intelligence,177.0,6.6
+Stepmom,65.0,6.7
+Daddy's Home,145.0,6.1
+Into the Woods,321.0,6.0
+Inside Man,230.0,7.6
+Payback,143.0,7.1
+Congo,55.0,5.0
+We Bought a Zoo,257.0,7.1
+Knowing,279.0,6.2
+Failure to Launch,143.0,5.6
+The Ring Two,196.0,5.4
+"Crazy, Stupid, Love.",310.0,7.4
+Garfield,116.0,5.0
+Christmas with the Kranks,105.0,5.2
+Moneyball,419.0,7.6
+Outbreak,64.0,6.6
+Non-Stop,359.0,7.0
+Race to Witch Mountain,166.0,5.7
+V for Vendetta,525.0,8.2
+Shanghai Knights,165.0,6.2
+Curious George,87.0,6.6
+Herbie Fully Loaded,117.0,4.7
+Don't Say a Word,113.0,6.3
+Hansel & Gretel: Witch Hunters,349.0,6.1
+Unfaithful,152.0,6.7
+I Am Number Four,288.0,6.1
+Syriana,358.0,7.0
+13 Hours,204.0,7.4
+The Book of Life,156.0,7.3
+Firewall,171.0,5.8
+Absolute Power,76.0,6.7
+G.I. Jane,97.0,5.8
+The Game,157.0,7.8
+Silent Hill,267.0,6.6
+The Replacements,118.0,6.5
+American Reunion,291.0,6.7
+The Negotiator,68.0,7.3
+Into the Storm,228.0,5.8
+Beverly Hills Cop III,36.0,5.5
+Gremlins 2: The New Batch,105.0,6.3
+The Judge,276.0,7.4
+The Peacemaker,93.0,5.9
+Resident Evil: Apocalypse,191.0,6.2
+Bridget Jones: The Edge of Reason,143.0,5.9
+Out of Time,124.0,6.5
+On Deadly Ground,47.0,4.4
+The Adventures of Sharkboy and Lavagirl 3-D,66.0,3.5
+The Beach,118.0,6.6
+Raising Helen,93.0,6.0
+Ninja Assassin,235.0,6.4
+For Love of the Game,113.0,6.5
+Striptease,51.0,4.3
+Marmaduke,98.0,4.2
+Hereafter,315.0,6.5
+Murder by Numbers,136.0,6.1
+Assassins,61.0,6.3
+Hannibal Rising,209.0,6.2
+The Story of Us,99.0,5.9
+The Host,298.0,5.9
+Basic,131.0,6.5
+Blood Work,146.0,6.4
+The International,245.0,6.5
+Escape from L.A.,104.0,5.7
+The Iron Giant,162.0,8.0
+The Life Aquatic with Steve Zissou,259.0,7.3
+Free State of Jones,79.0,6.7
+The Life of David Gale,141.0,7.5
+Man of the House,59.0,5.4
+Run All Night,236.0,6.6
+Eastern Promises,356.0,7.7
+Into the Blue,120.0,5.8
+The Messenger: The Story of Joan of Arc,111.0,6.4
+Your Highness,208.0,5.6
+Dream House,174.0,6.0
+Mad City,59.0,6.2
+Baby's Day Out,22.0,5.9
+The Scarlet Letter,34.0,5.1
+Fair Game,214.0,6.8
+Domino,186.0,6.0
+Jade,50.0,5.1
+Gamer,180.0,5.8
+Beautiful Creatures,231.0,6.2
+Death to Smoochy,105.0,6.4
+Zoolander 2,226.0,4.8
+The Big Bounce,75.0,4.9
+What Planet Are You From?,82.0,5.6
+Drive Angry,296.0,5.5
+Street Fighter: The Legend of Chun-Li,103.0,3.7
+The One,98.0,5.9
+The Adventures of Ford Fairlane,48.0,6.3
+Pirate Radio,195.0,7.4
+Traffic,223.0,7.6
+Indiana Jones and the Last Crusade,149.0,8.3
+Anna Karenina,324.0,6.6
+Chappie,371.0,6.9
+The Bone Collector,75.0,6.7
+Panic Room,233.0,6.8
+The Tooth Fairy,32.0,4.6
+Three Kings,150.0,7.1
+Child 44,172.0,6.4
+Rat Race,103.0,6.4
+K-PAX,140.0,7.4
+Kate & Leopold,125.0,6.4
+Bedazzled,125.0,6.0
+The Cotton Club,36.0,6.5
+3:10 to Yuma,295.0,7.8
+Taken 3,222.0,6.0
+Out of Sight,158.0,7.0
+The Cable Guy,72.0,6.0
+Earth,34.0,7.8
+Dick Tracy,72.0,6.1
+The Thomas Crown Affair,152.0,6.8
+Riding in Cars with Boys,89.0,6.4
+First Blood,145.0,7.7
+Solaris,144.0,8.1
+Happily N'Ever After,93.0,4.5
+Mary Reilly,46.0,5.8
+My Best Friend's Wedding,84.0,6.3
+America's Sweethearts,142.0,5.7
+Insomnia,185.0,7.2
+Star Trek: First Contact,143.0,7.6
+Jonah Hex,178.0,4.7
+Courage Under Fire,65.0,6.6
+Liar Liar,73.0,6.8
+The Infiltrator,72.0,7.3
+Inchon,10.0,2.7
+The Flintstones,35.0,4.8
+Taken 2,358.0,6.3
+Scary Movie 3,151.0,5.5
+Miss Congeniality,140.0,6.2
+Journey to the Center of the Earth,201.0,5.8
+The Princess Diaries 2: Royal Engagement,77.0,5.7
+The Pelican Brief,43.0,6.5
+The Client,39.0,6.7
+The Bucket List,207.0,7.4
+Patriot Games,47.0,6.9
+Monster-in-Law,132.0,5.5
+Prisoners,454.0,8.1
+Training Day,109.0,7.7
+Galaxy Quest,213.0,7.3
+Scary Movie 2,127.0,5.2
+The Muppets,398.0,7.1
+Blade,184.0,7.1
+Coach Carter,127.0,7.2
+Changing Lanes,167.0,6.5
+Anaconda,119.0,4.6
+Coyote Ugly,155.0,5.6
+Love Actually,218.0,7.7
+A Bug's Life,117.0,7.2
+From Hell,208.0,6.8
+The Specialist,38.0,5.4
+Tin Cup,48.0,6.3
+"Yours, Mine and Ours",8.0,7.2
+Kicking & Screaming,94.0,5.6
+The Hitchhiker's Guide to the Galaxy,276.0,6.8
+Fat Albert,59.0,4.3
+Resident Evil: Extinction,216.0,6.3
+Blended,173.0,6.5
+Last Holiday,99.0,6.4
+The River Wild,42.0,6.3
+The Indian in the Cupboard,25.0,5.9
+Savages,339.0,6.5
+Cellular,127.0,6.5
+Johnny English,122.0,6.1
+The Ant Bully,105.0,5.9
+Dune,144.0,6.6
+Across the Universe,156.0,7.4
+Revolutionary Road,323.0,7.3
+16 Blocks,199.0,6.6
+Babylon A.D.,164.0,5.6
+The Glimmer Man,39.0,5.3
+Multiplicity,43.0,6.0
+Aliens in the Attic,82.0,5.4
+The Pledge,150.0,6.8
+The Producers,168.0,6.4
+Dredd,432.0,7.1
+The Phantom,60.0,4.9
+All the Pretty Horses,85.0,5.8
+Nixon,83.0,7.1
+The Ghost Writer,343.0,7.2
+Deep Rising,106.0,6.0
+Miracle at St. Anna,158.0,6.0
+Curse of the Golden Flower,189.0,7.0
+Bangkok Dangerous,125.0,5.4
+Big Trouble,87.0,6.5
+Love in the Time of Cholera,115.0,6.4
+Shadow Conspiracy,24.0,4.9
+Johnny English Reborn,152.0,6.3
+Foodfight!,12.0,1.7
+Argo,656.0,7.7
+The Fugitive,119.0,7.8
+The Bounty Hunter,161.0,5.5
+Sleepers,73.0,7.5
+Rambo: First Blood Part II,96.0,6.4
+The Juror,28.0,5.6
+Pinocchio,105.0,7.5
+Heaven's Gate,102.0,6.8
+Underworld: Evolution,206.0,6.8
+Victor Frankenstein,159.0,6.0
+Finding Forrester,137.0,7.3
+28 Days,116.0,6.0
+Unleashed,177.0,7.0
+The Sweetest Thing,99.0,5.1
+The Firm,56.0,6.8
+Charlie St. Cloud,117.0,6.5
+The Mechanic,252.0,6.6
+21 Jump Street,375.0,7.2
+Notting Hill,150.0,7.0
+Chicken Run,187.0,7.0
+Along Came Polly,108.0,5.9
+Boomerang,21.0,5.4
+The Heat,270.0,6.6
+Cleopatra,72.0,7.0
+Here Comes the Boom,154.0,6.5
+High Crimes,114.0,6.3
+The Mirror Has Two Faces,27.0,6.5
+The Mothman Prophecies,166.0,6.5
+Brüno,288.0,5.8
+Licence to Kill,117.0,6.6
+Red Riding Hood,291.0,5.4
+15 Minutes,151.0,6.1
+Super Mario Bros.,36.0,4.0
+Lord of War,168.0,7.6
+Hero,283.0,7.9
+One for the Money,127.0,5.3
+The Interview,293.0,6.6
+The Warrior's Way,95.0,6.3
+Micmacs,213.0,7.2
+8 Mile,119.0,7.0
+Animal Kingdom: Let's go Ape,9.0,4.9
+A Knight's Tale,167.0,6.9
+The Medallion,98.0,5.2
+The Sixth Sense,234.0,8.1
+Man on a Ledge,258.0,6.6
+The Big Year,108.0,6.2
+The Karate Kid,81.0,7.2
+American Hustle,538.0,7.3
+The Proposal,224.0,6.7
+Double Jeopardy,129.0,6.4
+Back to the Future Part II,125.0,7.8
+Lucy,433.0,6.4
+Fifty Shades of Grey,362.0,4.1
+Spy Kids 3-D: Game Over,93.0,4.1
+A Time to Kill,71.0,7.4
+Cheaper by the Dozen,104.0,5.8
+Lone Survivor,319.0,7.6
+A League of Their Own,41.0,7.2
+The Conjuring 2,300.0,7.8
+The Social Network,556.0,7.7
+He's Just Not That Into You,161.0,6.4
+Scary Movie 4,151.0,5.1
+Scream 3,212.0,5.5
+Back to the Future Part III,111.0,7.4
+Get Hard,173.0,6.0
+Bram Stoker's Dracula,181.0,7.5
+Julie & Julia,252.0,7.0
+42,216.0,7.5
+The Talented Mr. Ripley,203.0,7.3
+Dumb and Dumber To,218.0,5.7
+Eight Below,118.0,7.3
+The Intern,241.0,7.2
+Ride Along 2,119.0,5.9
+The Last of the Mohicans,89.0,7.8
+Ray,209.0,7.7
+Sin City,374.0,8.1
+Vantage Point,235.0,6.6
+"I Love You, Man",215.0,7.1
+Shallow Hal,109.0,5.9
+JFK,125.0,8.0
+Big Momma's House 2,65.0,4.6
+The Mexican,125.0,6.1
+Unbroken,322.0,7.2
+17 Again,191.0,6.4
+The Other Woman,191.0,6.0
+The Final Destination,221.0,5.2
+Bridge of Spies,459.0,7.6
+Behind Enemy Lines,131.0,6.4
+Get Him to the Greek,222.0,6.4
+Shall We Dance,118.0,6.1
+Small Soldiers,100.0,6.1
+Spawn,70.0,5.2
+The Count of Monte Cristo,138.0,7.7
+The Lincoln Lawyer,274.0,7.3
+Unknown,349.0,6.9
+The Prestige,341.0,8.5
+Horrible Bosses 2,196.0,6.3
+Escape from Planet Earth,83.0,5.9
+Apocalypto,283.0,7.8
+The Living Daylights,105.0,6.7
+Predators,351.0,6.4
+Legal Eagles,16.0,5.9
+Secret Window,195.0,6.6
+The Lake House,175.0,6.8
+The Skeleton Key,193.0,6.5
+The Odd Life of Timothy Green,169.0,6.6
+Made of Honor,128.0,5.8
+Jersey Boys,249.0,6.9
+The Rainmaker,91.0,7.1
+Gothika,207.0,5.8
+Amistad,77.0,7.2
+Medicine Man,25.0,6.0
+Aliens vs. Predator: Requiem,211.0,4.7
+Ri¢hie Ri¢h,19.0,5.2
+Autumn in New York,101.0,5.5
+Music and Lyrics,175.0,6.5
+Paul,342.0,7.0
+The Guilt Trip,147.0,5.8
+Scream 4,420.0,6.2
+8MM,138.0,6.5
+The Doors,82.0,7.2
+Sex Tape,201.0,5.1
+Hanging Up,82.0,4.7
+Final Destination 5,277.0,5.9
+Mickey Blue Eyes,90.0,5.8
+Pay It Forward,157.0,7.2
+Fever Pitch,124.0,6.2
+Drillbit Taylor,146.0,5.7
+A Million Ways to Die in the West,303.0,6.1
+The Shadow,70.0,6.0
+Extremely Loud & Incredibly Close,283.0,6.9
+Morning Glory,212.0,6.5
+Get Rich or Die Tryin',98.0,5.0
+The Art of War,110.0,5.7
+Rent,146.0,7.0
+Bless the Child,100.0,5.1
+The Out-of-Towners,62.0,5.3
+The Island of Dr. Moreau,70.0,4.4
+The Musketeer,107.0,4.7
+The Other Boleyn Girl,169.0,6.7
+Sweet November,94.0,6.7
+The Reaping,190.0,5.7
+Mean Streets,112.0,7.4
+Renaissance Man,12.0,6.1
+Colombiana,201.0,6.4
+The Magic Sword: Quest for Camelot,34.0,6.2
+City by the Sea,104.0,6.2
+At First Sight,55.0,5.9
+Torque,86.0,4.0
+City Hall,50.0,6.2
+Showgirls,181.0,4.6
+Marie Antoinette,260.0,6.4
+Kiss of Death,40.0,5.9
+Get Carter,102.0,5.1
+The Impossible,371.0,7.6
+Ishtar,49.0,4.2
+Fantastic Mr. Fox,335.0,7.8
+Life or Something Like It,86.0,5.8
+Memoirs of an Invisible Man,40.0,5.9
+Amélie,242.0,8.4
+New York Minute,70.0,4.8
+Alfie,135.0,6.2
+Big Miracle,125.0,6.5
+The Deep End of the Ocean,54.0,6.3
+Feardotcom,104.0,3.3
+Cirque du Freak: The Vampire's Assistant,157.0,5.9
+Victor Frankenstein,159.0,6.0
+Duplex,78.0,5.8
+Soul Men,88.0,6.5
+Raise the Titanic,32.0,4.7
+Universal Soldier: The Return,75.0,4.1
+Pandorum,219.0,6.8
+Impostor,83.0,6.2
+Extreme Ops,53.0,4.5
+Just Visiting,61.0,5.8
+Sunshine,308.0,7.3
+A Thousand Words,70.0,5.9
+Delgo,41.0,4.4
+The Gunman,224.0,5.8
+Alex Rider: Operation Stormbreaker,66.0,5.1
+Disturbia,253.0,6.9
+Hackers,79.0,6.2
+The Hunting Party,94.0,6.9
+The Hudsucker Proxy,77.0,7.3
+The Warlords,106.0,7.1
+Nomad: The Warrior,30.0,6.0
+Snowpiercer,488.0,7.0
+A Monster in Paris,63.0,6.8
+The Last Shot,42.0,5.7
+The Crow,118.0,7.6
+Baahubali: The Beginning,44.0,8.4
+The Time Traveler's Wife,214.0,7.1
+Because I Said So,110.0,5.6
+The Fast and the Furious,187.0,6.7
+Frankenweenie,370.0,7.0
+Serenity,276.0,8.0
+Against the Ropes,76.0,5.3
+Superman III,95.0,4.9
+Grudge Match,211.0,6.4
+Red Cliff,160.0,7.4
+Sweet Home Alabama,97.0,6.1
+The Ugly Truth,174.0,6.5
+Sgt. Bilko,23.0,5.7
+Spy Kids 2: Island of Lost Dreams,103.0,5.1
+Star Trek: Generations,98.0,6.6
+The Grandmaster,273.0,6.5
+Water for Elephants,279.0,6.9
+Dragon Nest: Warriors' Dawn,4.0,6.4
+The Hurricane,65.0,7.6
+Enough,98.0,5.6
+Heartbreakers,116.0,6.2
+Paul Blart: Mall Cop 2,76.0,4.4
+Angel Eyes,106.0,5.6
+Joe Somebody,55.0,5.5
+The Ninth Gate,172.0,6.7
+Extreme Measures,47.0,6.1
+Rock Star,107.0,6.2
+Precious,323.0,7.3
+White Squall,37.0,6.6
+The Thing,297.0,8.2
+Riddick,302.0,6.4
+Switchback,38.0,6.4
+Texas Rangers,31.0,5.2
+City of Ember,118.0,6.5
+The Master,546.0,7.1
+Virgin Territory,21.0,4.8
+The Express,86.0,7.3
+The 5th Wave,194.0,5.2
+Creed,437.0,7.7
+The Town,378.0,7.6
+What to Expect When You're Expecting,170.0,5.7
+Burn After Reading,341.0,7.0
+Nim's Island,139.0,6.0
+Rush,393.0,8.1
+Magnolia,224.0,8.0
+Cop Out,203.0,5.6
+How to Be Single,148.0,6.1
+Dolphin Tale,131.0,6.9
+Twilight,350.0,5.2
+John Q,129.0,7.0
+Blue Streak,40.0,6.3
+We're the Millers,289.0,7.0
+Obitaemyy ostrov,14.0,5.3
+Breakdown,72.0,6.9
+Never Say Never Again,89.0,6.2
+Hot Tub Time Machine,265.0,6.4
+Dolphin Tale 2,54.0,6.4
+Reindeer Games,126.0,5.7
+A Man Apart,110.0,6.1
+Aloha,138.0,5.4
+Ghosts of Mississippi,31.0,6.7
+Snow Falling on Cedars,95.0,6.8
+The Rite,267.0,6.0
+Gattaca,175.0,7.8
+Isn't She Great,63.0,5.3
+Space Chimps,85.0,4.5
+Head of State,44.0,5.4
+The Hangover,334.0,7.8
+Ip Man 3,78.0,7.2
+Austin Powers: The Spy Who Shagged Me,199.0,6.6
+Batman,186.0,7.6
+There Be Dragons,77.0,5.9
+Lethal Weapon 3,68.0,6.7
+The Blind Side,261.0,7.7
+Spy Kids,122.0,5.4
+Horrible Bosses,340.0,6.9
+True Grit,493.0,7.7
+The Devil Wears Prada,208.0,6.8
+Star Trek: The Motion Picture,134.0,6.4
+Identity Thief,275.0,5.7
+Cape Fear,120.0,7.3
+21,144.0,6.8
+Trainwreck,332.0,6.3
+Guess Who,104.0,5.9
+The English Patient,116.0,7.4
+L.A. Confidential,177.0,8.3
+Sky High,127.0,6.2
+In & Out,83.0,6.3
+Species,97.0,5.8
+A Nightmare on Elm Street,256.0,7.5
+The Cell,225.0,6.3
+The Man in the Iron Mask,83.0,6.4
+Secretariat,160.0,7.2
+TMNT,191.0,6.3
+Radio,74.0,6.9
+Friends with Benefits,238.0,6.6
+Neighbors 2: Sorority Rising,177.0,6.0
+Saving Mr. Banks,405.0,7.5
+Malcolm X,61.0,7.7
+This Is 40,285.0,6.2
+Old Dogs,124.0,5.4
+Underworld: Rise of the Lycans,164.0,6.6
+License to Wed,120.0,5.3
+The Benchwarmers,90.0,5.6
+Must Love Dogs,120.0,5.9
+Donnie Brasco,117.0,7.8
+Resident Evil,226.0,6.7
+Poltergeist,223.0,7.4
+The Ladykillers,193.0,6.2
+Max Payne,228.0,5.4
+In Time,360.0,6.7
+The Back-up Plan,148.0,5.3
+Something Borrowed,128.0,5.9
+Black Knight,46.0,4.8
+The Bad News Bears,40.0,7.3
+Street Fighter,63.0,3.8
+The Pianist,193.0,8.5
+From Hell,208.0,6.8
+The Nativity Story,122.0,6.8
+House of Wax,228.0,5.3
+Closer,212.0,7.3
+J. Edgar,392.0,6.6
+Mirrors,208.0,6.2
+Queen of the Damned,137.0,5.2
+Predator 2,119.0,6.2
+Untraceable,195.0,6.2
+Blast from the Past,95.0,6.6
+Flash Gordon,100.0,6.4
+Jersey Girl,164.0,6.2
+Alex Cross,211.0,5.1
+Midnight in the Garden of Good and Evil,91.0,6.6
+Heist,44.0,6.1
+Nanny McPhee Returns,97.0,6.1
+Hoffa,32.0,6.6
+The X Files: I Want to Believe,270.0,5.9
+Ella Enchanted,89.0,6.3
+Concussion,219.0,7.1
+Abduction,180.0,5.0
+Valiant,93.0,5.6
+Wonder Boys,173.0,7.4
+Superhero Movie,121.0,4.5
+Broken City,298.0,6.2
+Cursed,158.0,5.0
+Premium Rush,248.0,6.5
+Hot Pursuit,155.0,5.1
+The Four Feathers,105.0,6.5
+Parker,224.0,6.2
+Wimbledon,129.0,6.3
+Furry Vengeance,101.0,3.8
+Bait,145.0,5.2
+Krull,57.0,6.0
+Lions for Lambs,227.0,6.2
+Flight of the Intruder,13.0,5.7
+Walk Hard: The Dewey Cox Story,171.0,6.7
+The Shipping News,119.0,6.8
+American Outlaws,44.0,6.0
+The Young Victoria,188.0,7.3
+Whiteout,166.0,5.5
+The Tree of Life,584.0,6.7
+Knock Off,67.0,4.8
+Sabotage,233.0,5.7
+The Order,112.0,5.1
+Punisher: War Zone,151.0,6.0
+Zoom,63.0,4.2
+The Walk,335.0,7.4
+Warriors of Virtue,24.0,4.6
+A Good Year,147.0,6.9
+Radio Flyer,10.0,6.9
+"Blood In, Blood Out",12.0,8.0
+Smilla's Sense of Snow,50.0,6.4
+Femme Fatale,149.0,6.3
+Lion of the Desert,24.0,8.4
+The Horseman on the Roof,28.0,7.1
+Ride with the Devil,95.0,6.8
+Biutiful,288.0,7.5
+The Lovers,10.0,4.5
+Bandidas,58.0,5.7
+Black Water Transit,,7.2
+The Maze Runner,297.0,6.8
+Unfinished Business,90.0,5.4
+The Age of Innocence,56.0,7.2
+The Fountain,274.0,7.3
+Chill Factor,68.0,5.2
+Stolen,98.0,5.5
+Ponyo,256.0,7.7
+The Longest Ride,117.0,7.1
+The Astronaut's Wife,107.0,5.3
+I Dreamed of Africa,52.0,5.6
+Playing for Keeps,135.0,5.7
+Mandela: Long Walk to Freedom,211.0,7.1
+Reds,57.0,7.5
+A Few Good Men,81.0,7.6
+Exit Wounds,107.0,5.5
+Big Momma's House,100.0,5.1
+Thunder and the House of Magic,60.0,6.3
+The Darkest Hour,195.0,4.9
+Step Up Revolution,121.0,6.5
+Snakes on a Plane,285.0,5.6
+The Watcher,103.0,5.3
+The Punisher,192.0,6.5
+Goal! The Dream Begins,90.0,6.8
+Safe,258.0,6.5
+Pushing Tin,56.0,6.0
+Star Wars: Episode VI - Return of the Jedi,197.0,8.4
+Doomsday,254.0,6.0
+The Reader,299.0,7.6
+Wanderlust,163.0,5.6
+Elf,152.0,6.9
+Phenomenon,53.0,6.4
+Snow Dogs,67.0,5.1
+Scrooged,88.0,7.0
+Nacho Libre,163.0,5.7
+Bridesmaids,371.0,6.8
+This Is the End,418.0,6.7
+Stigmata,131.0,6.2
+Men of Honor,98.0,7.2
+Takers,119.0,6.2
+The Big Wedding,133.0,5.6
+"Big Mommas: Like Father, Like Son",88.0,4.4
+Source Code,522.0,7.5
+Alive,43.0,7.1
+The Number 23,224.0,6.4
+The Young and Prodigious T.S. Spivet,122.0,7.1
+1941,56.0,5.9
+Dreamer: Inspired by a True Story,75.0,6.9
+A History of Violence,441.0,7.5
+Transporter 2,163.0,6.3
+The Quick and the Dead,63.0,6.4
+Laws of Attraction,90.0,5.9
+Bringing Out the Dead,163.0,6.8
+Repo Men,197.0,6.3
+Dragon Wars: D-War,93.0,3.6
+Bogus,15.0,5.3
+The Incredible Burt Wonderstone,260.0,5.9
+Cats Don't Dance,18.0,6.9
+Cradle Will Rock,70.0,6.9
+The Good German,183.0,6.1
+George and the Dragon,12.0,5.7
+Apocalypse Now,261.0,8.5
+Going the Distance,167.0,6.3
+Mr. Holland's Opus,42.0,7.3
+Criminal,130.0,6.3
+Out of Africa,66.0,7.2
+Flight,449.0,7.3
+Moonraker,121.0,6.3
+The Grand Budapest Hotel,536.0,8.1
+Hearts in Atlantis,135.0,6.9
+Arachnophobia,74.0,6.3
+Frequency,168.0,7.3
+Ghostbusters,464.0,5.5
+Vacation,204.0,6.1
+Get Shorty,96.0,6.9
+Chicago,223.0,7.2
+Big Daddy,112.0,6.4
+American Pie 2,142.0,6.4
+Toy Story,166.0,8.3
+Speed,114.0,7.2
+The Vow,214.0,6.8
+Extraordinary Measures,126.0,6.5
+Remember the Titans,157.0,7.8
+The Hunt for Red October,104.0,7.6
+Lee Daniels' The Butler,304.0,7.2
+Dodgeball: A True Underdog Story,191.0,6.7
+The Addams Family,55.0,6.8
+Ace Ventura: When Nature Calls,59.0,6.3
+The Princess Diaries,108.0,6.2
+The First Wives Club,50.0,6.2
+Se7en,216.0,8.6
+District 9,472.0,8.0
+The SpongeBob SquarePants Movie,89.0,7.0
+Mystic River,229.0,8.0
+Million Dollar Baby,268.0,8.1
+Analyze This,145.0,6.7
+The Notebook,177.0,7.9
+27 Dresses,175.0,6.1
+Hannah Montana: The Movie,131.0,4.2
+Rugrats in Paris: The Movie,41.0,6.1
+The Prince of Tides,30.0,6.6
+Legends of the Fall,57.0,7.5
+Up in the Air,391.0,7.4
+About Schmidt,217.0,7.2
+Warm Bodies,452.0,6.9
+Looper,589.0,7.4
+Down to Earth,61.0,5.4
+Babe,79.0,6.8
+Hope Springs,234.0,6.3
+Forgetting Sarah Marshall,253.0,7.2
+Four Brothers,123.0,6.9
+Baby Mama,145.0,6.0
+Hope Floats,65.0,5.9
+Bride Wars,152.0,5.4
+Without a Paddle,94.0,5.9
+13 Going on 30,119.0,6.1
+Midnight in Paris,487.0,7.7
+The Nut Job,121.0,5.8
+Blow,147.0,7.6
+Message in a Bottle,85.0,6.1
+Star Trek V: The Final Frontier,98.0,5.4
+Like Mike,39.0,5.1
+Naked Gun 33 1/3: The Final Insult,43.0,6.4
+A View to a Kill,108.0,6.3
+The Curse of the Were-Rabbit,209.0,7.5
+P.S. I Love You,131.0,7.1
+Racing Stripes,73.0,5.2
+Atonement,316.0,7.8
+Letters to Juliet,159.0,6.5
+Black Rain,63.0,6.6
+The Three Stooges,162.0,5.1
+Corpse Bride,267.0,7.4
+Glory Road,95.0,7.2
+Sicario,478.0,7.6
+Southpaw,305.0,7.5
+Drag Me to Hell,397.0,6.6
+The Age of Adaline,214.0,7.2
+Secondhand Lions,82.0,7.6
+Step Up 3D,138.0,6.2
+Blue Crush,69.0,5.6
+Stranger Than Fiction,253.0,7.6
+30 Days of Night,304.0,6.6
+The Cabin in the Woods,634.0,7.0
+Meet the Spartans,111.0,2.7
+Midnight Run,77.0,7.6
+The Running Man,120.0,6.6
+Little Shop of Horrors,63.0,6.9
+Hanna,417.0,6.8
+Mortal Kombat: Annihilation,59.0,3.7
+Larry Crowne,218.0,6.1
+Carrie,359.0,5.9
+Take the Lead,101.0,6.7
+Gridiron Gang,85.0,6.9
+What's the Worst That Could Happen?,64.0,5.5
+9,263.0,7.1
+Side Effects,450.0,7.1
+The Prince and Me,85.0,5.9
+Winnie the Pooh,162.0,7.3
+Dumb and Dumberer: When Harry Met Lloyd,85.0,3.4
+Bulworth,110.0,6.8
+Get on Up,165.0,6.9
+One True Thing,64.0,7.0
+Virtuosity,44.0,5.5
+My Super Ex-Girlfriend,147.0,5.1
+Deliver Us from Evil,242.0,6.2
+Sanctum,244.0,5.9
+Little Black Book,73.0,5.2
+The Five-Year Engagement,232.0,6.2
+Mr 3000,63.0,5.5
+The Next Three Days,239.0,7.4
+Ultraviolet,158.0,4.4
+Assault on Precinct 13,152.0,6.3
+The Replacement Killers,105.0,6.1
+Fled,36.0,5.3
+Eight Legged Freaks,181.0,5.4
+Love & Other Drugs,219.0,6.7
+88 Minutes,158.0,5.9
+North Country,155.0,7.3
+The Whole Ten Yards,74.0,5.5
+Splice,368.0,5.8
+Howard the Duck,81.0,4.6
+Pride and Glory,154.0,6.7
+The Cave,140.0,5.1
+Alex & Emma,73.0,5.6
+Wicker Park,98.0,7.0
+Fright Night,358.0,6.4
+The New World,222.0,6.7
+Wing Commander,85.0,4.1
+In Dreams,62.0,5.5
+Dragonball: Evolution,130.0,2.7
+The Last Stand,376.0,6.4
+Godsend,130.0,4.8
+Chasing Liberty,65.0,6.1
+Hoodwinked Too! Hood vs. Evil,77.0,4.8
+An Unfinished Life,107.0,7.0
+The Imaginarium of Doctor Parnassus,292.0,6.8
+Barney's Version,193.0,7.3
+Runner Runner,184.0,5.6
+Antitrust,123.0,6.1
+Glory,60.0,7.9
+Once Upon a Time in America,111.0,8.4
+Dead Man Down,217.0,6.5
+The Merchant of Venice,117.0,7.1
+The Good Thief,105.0,6.6
+Supercross,41.0,4.0
+Miss Potter,124.0,7.0
+The Promise,90.0,5.6
+DOA: Dead or Alive,110.0,4.8
+The Assassination of Jesse James by the Coward Robert Ford,273.0,7.5
+1911,63.0,6.0
+Little Nicholas,56.0,7.2
+Wild Card,130.0,5.6
+Machine Gun Preacher,134.0,6.8
+Animals United,36.0,4.9
+The Color of Freedom,46.0,7.1
+United Passions,7.0,2.0
+Grace of Monaco,132.0,5.7
+A Warrior's Tail,5.0,4.1
+Ripley's Game,56.0,6.7
+Sausage Party,65.0,7.5
+Pitch Perfect 2,221.0,6.5
+Walk the Line,291.0,7.9
+Keeping the Faith,148.0,6.4
+The Borrowers,42.0,5.8
+Frost/Nixon,302.0,7.7
+Confessions of a Dangerous Mind,181.0,7.1
+Serving Sara,64.0,5.3
+The Boss,154.0,5.3
+Cry Freedom,17.0,7.5
+Mumford,65.0,6.9
+Seed of Chucky,148.0,4.9
+The Jacket,161.0,7.1
+Aladdin,124.0,8.0
+Straight Outta Compton,349.0,7.9
+Indiana Jones and the Temple of Doom,148.0,7.6
+The Rugrats Movie,45.0,5.9
+Along Came a Spider,133.0,6.3
+Florence Foster Jenkins,87.0,7.1
+Once Upon a Time in Mexico,178.0,6.4
+Die Hard,233.0,8.2
+Role Models,173.0,6.9
+The Big Short,426.0,7.8
+Taking Woodstock,210.0,6.7
+Miracle,129.0,7.5
+Dawn of the Dead,287.0,7.4
+The Wedding Planner,108.0,5.2
+Harlock: Space Pirate,62.0,6.5
+The Royal Tenenbaums,220.0,7.6
+Identity,136.0,7.3
+Last Vegas,222.0,6.6
+For Your Eyes Only,112.0,6.8
+Serendipity,122.0,6.9
+Timecop,62.0,5.8
+Zoolander,135.0,6.6
+Safe Haven,184.0,6.7
+Hocus Pocus,36.0,6.7
+No Reservations,171.0,6.3
+Kick-Ass,447.0,7.7
+30 Minutes or Less,220.0,6.1
+Dracula 2000,122.0,4.9
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",119.0,6.2
+Pride & Prejudice,177.0,7.8
+Blade Runner,302.0,8.2
+Rob Roy,44.0,6.9
+3 Days to Kill,211.0,6.2
+We Own the Night,222.0,6.9
+Lost Souls,100.0,4.8
+Just My Luck,98.0,5.3
+"Mystery, Alaska",74.0,6.7
+The Spy Next Door,97.0,5.4
+A Simple Wish,21.0,5.4
+Ghosts of Mars,156.0,4.9
+Our Brand Is Crisis,125.0,6.1
+Pride and Prejudice and Zombies,225.0,5.8
+Kundun,85.0,7.0
+How to Lose Friends & Alienate People,135.0,6.5
+Kick-Ass 2,350.0,6.6
+Captain Alatriste: The Spanish Musketeer,31.0,6.1
+Brick Mansions,177.0,5.7
+Octopussy,106.0,6.6
+Knocked Up,251.0,7.0
+My Sister's Keeper,148.0,7.4
+"Welcome Home, Roscoe Jenkins",76.0,5.3
+A Passage to India,52.0,7.4
+Notes on a Scandal,220.0,7.4
+Rendition,131.0,6.8
+Star Trek VI: The Undiscovered Country,112.0,7.2
+Divine Secrets of the Ya-Ya Sisterhood,93.0,6.0
+The Jungle Book,370.0,7.8
+Kiss the Girls,83.0,6.6
+The Blues Brothers,125.0,7.9
+The Sisterhood of the Traveling Pants 2,73.0,6.2
+Joyful Noise,98.0,5.7
+About a Boy,158.0,7.1
+Lake Placid,152.0,5.6
+Lucky Number Slevin,202.0,7.8
+The Right Stuff,80.0,7.9
+Anonymous,288.0,6.9
+The NeverEnding Story,99.0,7.4
+Dark City,222.0,7.7
+The Duchess,194.0,6.9
+Return to Oz,56.0,6.7
+The Newton Boys,63.0,6.0
+Case 39,167.0,6.2
+Suspect Zero,101.0,5.9
+Martian Child,118.0,6.8
+Spy Kids: All the Time in the World in 4D,76.0,3.6
+Money Monster,268.0,6.7
+Formula 51,95.0,6.3
+Flawless,78.0,6.4
+Mindhunters,127.0,6.4
+What Just Happened,137.0,5.7
+The Statement,54.0,6.2
+The Magic Flute,38.0,6.6
+Paul Blart: Mall Cop,167.0,5.2
+Freaky Friday,129.0,6.1
+The 40-Year-Old Virgin,217.0,7.1
+Shakespeare in Love,134.0,7.2
+A Walk Among the Tombstones,253.0,6.5
+Kindergarten Cop,46.0,6.0
+Pineapple Express,232.0,7.0
+Ever After: A Cinderella Story,92.0,7.0
+Open Range,153.0,7.5
+Flatliners,49.0,6.6
+A Bridge Too Far,56.0,7.4
+Red Eye,224.0,6.5
+Final Destination 2,175.0,6.2
+"O Brother, Where Art Thou?",197.0,7.8
+Legion,226.0,5.2
+Pain & Gain,335.0,6.5
+In Good Company,157.0,6.5
+Clockstoppers,69.0,5.2
+Silverado,46.0,7.2
+Brothers,217.0,7.1
+Agent Cody Banks 2: Destination London,55.0,4.5
+New Year's Eve,200.0,5.7
+Original Sin,93.0,6.0
+The Raven,265.0,6.4
+Welcome to Mooseport,82.0,5.2
+Highlander: The Final Dimension,32.0,4.3
+Blood and Wine,42.0,6.1
+Snow White: A Tale of Terror,22.0,6.3
+The Curse of the Jade Scorpion,116.0,6.8
+Accidental Love,56.0,4.0
+Flipper,23.0,5.2
+Self/less,178.0,6.5
+The Constant Gardener,226.0,7.5
+The Passion of the Christ,406.0,7.1
+Mrs. Doubtfire,57.0,6.9
+Rain Man,100.0,8.0
+Gran Torino,366.0,8.2
+W.,242.0,6.4
+Taken,309.0,7.9
+The Best of Me,85.0,6.7
+The Bodyguard,48.0,6.1
+Schindler's List,174.0,8.9
+The Help,373.0,8.1
+The Fifth Estate,224.0,6.2
+Scooby-Doo 2: Monsters Unleashed,94.0,4.9
+Viy,25.0,5.4
+Freddy vs. Jason,273.0,5.8
+The Face of an Angel,78.0,4.7
+Jimmy Neutron: Boy Genius,66.0,6.0
+Cloverfield,459.0,7.0
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,68.0,6.0
+The Untouchables,123.0,7.9
+No Country for Old Men,488.0,8.1
+Ride Along,146.0,6.2
+Bridget Jones's Diary,168.0,6.7
+Chocolat,152.0,7.3
+"Legally Blonde 2: Red, White & Blonde",133.0,4.6
+Parental Guidance,139.0,6.1
+No Strings Attached,245.0,6.2
+Tombstone,84.0,7.8
+Romeo Must Die,70.0,6.1
+The Omen,154.0,7.6
+Final Destination 3,216.0,5.8
+The Lucky One,170.0,6.5
+Bridge to Terabithia,181.0,7.2
+Finding Neverland,226.0,7.8
+A Madea Christmas,24.0,4.7
+The Grey,408.0,6.8
+Hide and Seek,180.0,5.9
+Anchorman: The Legend of Ron Burgundy,181.0,7.2
+Goodfellas,192.0,8.7
+Agent Cody Banks,79.0,5.0
+Nanny McPhee,128.0,6.6
+Scarface,147.0,8.3
+Nothing to Lose,49.0,6.7
+The Last Emperor,75.0,7.8
+Contraband,270.0,6.5
+Money Talks,29.0,6.1
+There Will Be Blood,398.0,8.1
+The Wild Thornberrys Movie,38.0,5.2
+Rugrats Go Wild,45.0,5.6
+Undercover Brother,81.0,5.8
+The Sisterhood of the Traveling Pants,88.0,6.6
+Kiss of the Dragon,116.0,6.6
+The House Bunny,129.0,5.5
+Beauty Shop,72.0,5.5
+Million Dollar Arm,151.0,7.0
+The Giver,198.0,6.5
+What a Girl Wants,66.0,5.8
+Jeepers Creepers II,167.0,5.6
+Good Luck Chuck,127.0,5.6
+Cradle 2 the Grave,109.0,5.8
+The Hours,174.0,7.6
+She's the Man,91.0,6.4
+Mr. Bean's Holiday,151.0,6.3
+Anacondas: The Hunt for the Blood Orchid,94.0,4.6
+Blood Ties,91.0,6.5
+August Rush,148.0,7.5
+Elizabeth,141.0,7.5
+Bride of Chucky,114.0,5.3
+Tora! Tora! Tora!,79.0,7.5
+Spice World,33.0,3.3
+The Sitter,146.0,5.7
+Dance Flick,83.0,3.5
+The Shawshank Redemption,199.0,9.3
+Crocodile Dundee in Los Angeles,71.0,4.8
+Kingpin,62.0,6.9
+The Gambler,175.0,6.0
+August: Osage County,322.0,7.3
+Ice Princess,67.0,6.0
+A Lot Like Love,112.0,6.6
+Eddie the Eagle,216.0,7.5
+He Got Game,48.0,6.9
+Don Juan DeMarco,44.0,6.8
+Dear John,162.0,6.3
+The Losers,213.0,6.4
+Don't Be Afraid of the Dark,298.0,5.6
+War,119.0,6.3
+Punch-Drunk Love,251.0,7.3
+EuroTrip,92.0,6.6
+Half Past Dead,58.0,4.6
+Unaccompanied Minors,73.0,5.1
+"Bright Lights, Big City",28.0,5.6
+The Adventures of Pinocchio,19.0,5.3
+The Greatest Game Ever Played,86.0,7.5
+The Box,287.0,5.6
+The Ruins,233.0,5.9
+The Next Best Thing,86.0,4.7
+My Soul to Take,160.0,4.8
+The Girl Next Door,126.0,6.8
+Maximum Risk,50.0,5.4
+Stealing Harvard,52.0,5.1
+Legend,260.0,7.0
+Hot Rod,111.0,6.7
+Shark Night 3D,231.0,4.0
+Angela's Ashes,99.0,7.3
+Draft Day,159.0,6.8
+Lifeforce,159.0,6.1
+The Conspirator,199.0,7.0
+Lords of Dogtown,119.0,7.1
+The 33,120.0,6.9
+Big Trouble in Little China,180.0,7.3
+A Perfect Plan,58.0,6.3
+Warrior,317.0,8.2
+Michael Collins,44.0,7.1
+Gettysburg,22.0,7.7
+Stop-Loss,143.0,6.5
+Abandon,72.0,4.9
+Brokedown Palace,70.0,6.4
+The Possession,264.0,5.9
+Mrs. Winterbourne,20.0,6.2
+Straw Dogs,190.0,5.8
+The Hoax,142.0,6.7
+Stone Cold,27.0,5.9
+The Road,355.0,7.3
+Sheena,21.0,4.8
+Underclassman,31.0,4.1
+Say It Isn't So,87.0,4.9
+The World's Fastest Indian,126.0,7.9
+Snakes on a Plane,285.0,5.6
+Tank Girl,60.0,5.2
+King's Ransom,23.0,4.1
+Blindness,229.0,6.6
+BloodRayne,143.0,2.9
+Carnage,376.0,7.2
+Where the Truth Lies,97.0,6.5
+Cirque du Soleil: Worlds Away,73.0,6.8
+Without Limits,28.0,7.2
+Me and Orson Welles,160.0,6.8
+The Best Offer,124.0,7.8
+Bad Lieutenant: Port of Call New Orleans,280.0,6.7
+A Turtle's Tale: Sammy's Adventures,56.0,6.1
+Little White Lies,118.0,7.1
+Love Ranch,49.0,5.7
+The True Story of Puss'N Boots,4.0,2.9
+Space Dogs,16.0,5.2
+The Counselor,336.0,5.3
+Ironclad,91.0,6.2
+Waterloo,16.0,7.3
+Kung Fu Killer,65.0,6.5
+Red Sky,7.0,4.1
+Dangerous Liaisons,51.0,7.7
+On the Road,252.0,6.1
+Star Trek IV: The Voyage Home,106.0,7.3
+Rocky Balboa,285.0,7.2
+Point Break,163.0,5.3
+Scream 2,195.0,6.1
+Jane Got a Gun,123.0,5.8
+Think Like a Man Too,52.0,5.7
+The Whole Nine Yards,129.0,6.7
+Footloose,60.0,6.5
+Old School,123.0,7.2
+The Fisher King,84.0,7.6
+I Still Know What You Did Last Summer,125.0,4.6
+Return to Me,106.0,6.9
+Zack and Miri Make a Porno,247.0,6.6
+Nurse Betty,156.0,6.3
+The Men Who Stare at Goats,271.0,6.2
+Double Take,45.0,5.3
+"Girl, Interrupted",133.0,7.3
+Win a Date with Tad Hamilton!,84.0,5.6
+Muppets from Space,70.0,6.2
+The Wiz,32.0,5.2
+Ready to Rumble,51.0,5.3
+Play It to the Bone,73.0,5.4
+I Don't Know How She Does It,169.0,4.9
+Piranha 3D,365.0,5.5
+Beyond the Sea,113.0,6.7
+Meet the Deedles,18.0,3.9
+The Princess and the Cobbler,10.0,7.2
+The Bridge of San Luis Rey,16.0,5.1
+Faster,196.0,6.5
+Howl's Moving Castle,212.0,8.2
+Zombieland,445.0,7.7
+King Kong,446.0,7.2
+The Waterboy,108.0,6.1
+Star Wars: Episode V - The Empire Strikes Back,223.0,8.8
+Bad Boys,63.0,6.8
+The Naked Gun 2½: The Smell of Fear,43.0,6.8
+Final Destination,211.0,6.7
+The Ides of March,421.0,7.1
+Pitch Black,214.0,7.1
+Someone Like You...,92.0,6.1
+Her,574.0,8.0
+Eddie the Eagle,216.0,7.5
+Joy Ride,140.0,6.6
+The Adventurer: The Curse of the Midas Box,28.0,5.4
+Anywhere But Here,36.0,6.1
+Chasing Liberty,65.0,6.1
+The Crew,53.0,5.6
+Haywire,394.0,5.8
+Jaws: The Revenge,80.0,2.8
+Marvin's Room,45.0,6.7
+The Longshots,47.0,5.1
+The End of the Affair,90.0,7.2
+Harley Davidson and the Marlboro Man,30.0,6.0
+In the Valley of Elah,232.0,7.2
+Coco Before Chanel,165.0,6.7
+Forsaken,45.0,6.3
+Chéri,155.0,6.2
+Vanity Fair,118.0,6.2
+Bodyguards and Assassins,55.0,6.9
+1408,314.0,6.8
+Spaceballs,103.0,7.1
+The Water Diviner,183.0,7.1
+Ghost,77.0,7.0
+There's Something About Mary,171.0,7.1
+The Santa Clause,64.0,6.4
+The Rookie,92.0,7.0
+The Game Plan,112.0,6.2
+The Bridges of Madison County,69.0,7.5
+The Animal,75.0,4.8
+Gandhi,95.0,8.1
+The Hundred-Foot Journey,180.0,7.3
+The Net,53.0,5.8
+I Am Sam,129.0,7.6
+Son of God,61.0,5.6
+Underworld,226.0,7.0
+Derailed,116.0,6.6
+The Informant!,248.0,6.5
+Shadowlands,23.0,7.4
+Deuce Bigalow: European Gigolo,98.0,4.6
+Delivery Man,168.0,6.4
+Victor Frankenstein,159.0,6.0
+Our Kind of Traitor,134.0,6.4
+Saving Silverman,97.0,5.9
+Diary of a Wimpy Kid: Dog Days,88.0,6.4
+Summer of Sam,85.0,6.6
+Jay and Silent Bob Strike Back,181.0,6.9
+The Island,257.0,6.9
+The Glass House,95.0,5.8
+"Hail, Caesar!",423.0,6.4
+Josie and the Pussycats,93.0,5.3
+Homefront,203.0,6.5
+The Little Vampire,38.0,5.7
+I Heart Huckabees,183.0,6.7
+RoboCop 3,75.0,3.9
+Megiddo: The Omega Code 2,18.0,4.1
+Darling Lili,22.0,6.2
+Dudley Do-Right,41.0,3.8
+The Transporter Refueled,148.0,5.1
+The Libertine,111.0,6.4
+Black Book,231.0,7.8
+Joyeux Noel,115.0,7.8
+Hit and Run,176.0,6.1
+Mad Money,98.0,5.8
+Before I Go to Sleep,149.0,6.3
+Sorcerer,84.0,7.7
+Stone,138.0,5.4
+Molière,78.0,7.3
+Out of the Furnace,288.0,6.8
+Michael Clayton,299.0,7.3
+My Fellow Americans,27.0,6.5
+Arlington Road,155.0,7.2
+Underdogs,82.0,6.7
+To Rome with Love,275.0,6.3
+Firefox,43.0,5.9
+South Park: Bigger Longer & Uncut,163.0,7.8
+Death at a Funeral,168.0,7.4
+Teenage Mutant Ninja Turtles III,60.0,4.8
+Hardball,85.0,6.3
+Silver Linings Playbook,539.0,7.8
+Freedom Writers,84.0,7.5
+For Colored Girls,75.0,6.0
+The Transporter,171.0,6.8
+Never Back Down,140.0,6.6
+The Rage: Carrie 2,85.0,4.6
+Away We Go,217.0,7.1
+Swing Vote,131.0,6.1
+Moonlight Mile,111.0,6.7
+Tinker Tailor Soldier Spy,466.0,7.1
+Molly,16.0,5.8
+The Beaver,276.0,6.7
+The Best Little Whorehouse in Texas,11.0,5.8
+eXistenZ,196.0,6.8
+Raiders of the Lost Ark,234.0,8.5
+Home Alone 2: Lost in New York,37.0,6.6
+Close Encounters of the Third Kind,171.0,7.7
+Pulse,148.0,4.7
+Beverly Hills Cop II,50.0,6.4
+Bringing Down the House,121.0,5.5
+The Silence of the Lambs,185.0,8.6
+Wayne's World,61.0,7.0
+Jackass 3D,156.0,7.1
+Jaws 2,75.0,5.7
+Beverly Hills Chihuahua,100.0,3.7
+The Conjuring,511.0,7.5
+Are We There Yet?,75.0,4.6
+Tammy,148.0,4.9
+Disturbia,253.0,6.9
+School of Rock,204.0,7.1
+Mortal Kombat,72.0,5.8
+Wicker Park,98.0,7.0
+White Chicks,62.0,5.4
+The Descendants,549.0,7.3
+Holes,106.0,7.1
+The Last Song,123.0,5.8
+12 Years a Slave,597.0,8.1
+Drumline,64.0,5.7
+Why Did I Get Married Too?,40.0,4.4
+Edward Scissorhands,111.0,7.9
+Me Before You,151.0,7.6
+Madea's Witness Protection,31.0,4.8
+The French Connection,138.0,7.8
+Bad Moms,81.0,6.7
+Date Movie,99.0,2.7
+Return to Never Land,80.0,5.8
+Selma,364.0,7.5
+The Jungle Book 2,85.0,5.4
+Boogeyman,140.0,4.1
+Premonition,184.0,5.9
+The Tigger Movie,89.0,6.3
+Orphan,265.0,7.0
+Max,61.0,6.8
+Epic Movie,112.0,2.3
+Conan the Barbarian,166.0,6.9
+Spotlight,474.0,8.1
+Lakeview Terrace,165.0,6.1
+The Grudge 2,131.0,5.0
+How Stella Got Her Groove Back,29.0,5.5
+Bill & Ted's Bogus Journey,43.0,6.2
+Man of the Year,111.0,6.2
+The Black Hole,90.0,5.9
+The American,333.0,6.3
+Selena,37.0,6.7
+Vampires Suck,122.0,3.5
+Babel,285.0,7.5
+This Is Where I Leave You,156.0,6.6
+Doubt,293.0,7.5
+Team America: World Police,233.0,7.2
+Texas Chainsaw 3D,282.0,4.8
+Copycat,57.0,6.6
+Scary Movie 5,153.0,3.5
+Paint Your Wagon,20.0,6.7
+Milk,324.0,7.6
+Risen,122.0,6.3
+Ghost Ship,156.0,5.5
+A Very Harold & Kumar 3D Christmas,161.0,6.3
+Wild Things,69.0,6.5
+The Stepfather,121.0,5.6
+The Debt,258.0,6.9
+High Fidelity,174.0,7.6
+One Missed Call,141.0,3.9
+Eye for an Eye,31.0,6.1
+The Bank Job,222.0,7.3
+Eternal Sunshine of the Spotless Mind,273.0,8.3
+You Again,91.0,5.8
+Street Kings,190.0,6.8
+The World's End,427.0,7.0
+Nancy Drew,93.0,5.9
+Daybreakers,292.0,6.5
+She's Out of My League,180.0,6.4
+Monte Carlo,94.0,5.8
+Stay Alive,112.0,5.1
+Quigley Down Under,20.0,6.8
+Alpha and Omega,84.0,5.3
+The Covenant,120.0,5.3
+Stick It,90.0,6.4
+Shorts,103.0,4.9
+To Die For,59.0,6.8
+Nerve,86.0,7.1
+Appaloosa,190.0,6.8
+Vampires,114.0,6.1
+Psycho,290.0,8.5
+My Best Friend's Girl,80.0,5.9
+Endless Love,98.0,6.3
+Georgia Rule,88.0,5.9
+Under the Rainbow,13.0,5.4
+Ladyhawke,52.0,7.0
+Simon Birch,60.0,6.9
+Reign Over Me,154.0,7.5
+Into the Wild,274.0,8.2
+School for Scoundrels,110.0,5.9
+Silent Hill: Revelation 3D,173.0,5.0
+From Dusk Till Dawn,165.0,7.3
+Pooh's Heffalump Movie,45.0,6.4
+Home for the Holidays,45.0,6.6
+Kung Fu Hustle,377.0,7.8
+The Country Bears,43.0,4.0
+The Kite Runner,201.0,7.6
+21 Grams,192.0,7.7
+Paparazzi,77.0,5.8
+Twilight,350.0,5.2
+A Guy Thing,81.0,5.6
+Loser,81.0,5.3
+Capitalism: A Love Story,222.0,7.4
+The Greatest Story Ever Told,27.0,6.6
+Secret in Their Eyes,155.0,6.2
+Disaster Movie,111.0,1.9
+Armored,107.0,5.7
+The Man Who Knew Too Little,34.0,6.6
+What's Your Number?,151.0,6.0
+Lockout,289.0,6.1
+Envy,76.0,4.8
+Crank: High Voltage,150.0,6.2
+Bullets Over Broadway,67.0,7.5
+One Night with the King,36.0,6.3
+The Quiet American,149.0,7.1
+The Weather Man,156.0,6.6
+Undisputed,64.0,6.1
+Ghost Town,210.0,6.7
+12 Rounds,113.0,5.6
+Let Me In,390.0,7.2
+3 Ninjas Kick Back,5.0,4.3
+Be Kind Rewind,248.0,6.4
+Mrs Henderson Presents,137.0,7.1
+Triple 9,214.0,6.3
+Deconstructing Harry,104.0,7.4
+Three to Tango,81.0,6.1
+Burnt,175.0,6.6
+We're No Angels,20.0,6.0
+Everyone Says I Love You,69.0,6.8
+Death at a Funeral,168.0,7.4
+Death Sentence,166.0,6.8
+Everybody's Fine,160.0,7.2
+Superbabies: Baby Geniuses 2,32.0,1.9
+The Man,72.0,5.5
+Code Name: The Cleaner,53.0,4.5
+Connie and Carla,76.0,6.3
+Sweet Charity,15.0,7.0
+Inherent Vice,401.0,6.7
+Doogal,31.0,2.8
+Battle of the Year,65.0,5.0
+An American Carol,45.0,4.3
+Machete Kills,260.0,5.6
+Willard,129.0,6.2
+Strange Wilderness,58.0,5.3
+Topsy-Turvy,103.0,7.4
+Little Boy,45.0,7.4
+A Dangerous Method,345.0,6.5
+A Scanner Darkly,232.0,7.1
+Chasing Mavericks,116.0,7.2
+Alone in the Dark,148.0,2.3
+Bandslam,79.0,6.4
+Birth,167.0,6.1
+A Most Violent Year,350.0,7.0
+Passchendaele,25.0,6.5
+Flash of Genius,99.0,7.0
+I'm Not There.,231.0,7.0
+The Cold Light of Day,119.0,4.9
+The Brothers Bloom,182.0,6.9
+"Synecdoche, New York",245.0,7.5
+Princess Mononoke,174.0,8.4
+Bon voyage,69.0,6.9
+Can't Stop the Music,26.0,4.5
+The Proposition,168.0,7.4
+Courage,27.0,7.0
+Marci X,28.0,2.8
+Equilibrium,146.0,7.5
+The Children of Huang Shi,67.0,7.1
+The Yards,93.0,6.4
+The Oogieloves in the Big Balloon Adventure,28.0,6.7
+By the Sea,131.0,5.3
+Steamboy,105.0,6.9
+The Game of Their Lives,21.0,6.2
+All Good Things,140.0,6.3
+Rapa Nui,9.0,6.4
+CJ7,83.0,6.5
+Les couloirs du temps: Les visiteurs II,8.0,6.0
+Dylan Dog: Dead of Night,138.0,5.1
+People I Know,42.0,5.5
+The Tempest,92.0,5.4
+Regression,140.0,5.7
+The Touch,,5.2
+Three Kingdoms: Resurrection of the Dragon,29.0,6.2
+Shattered,29.0,6.7
+Zambezia,39.0,5.8
+Ramanujan,2.0,7.0
+Dwegons and Leprechauns,2.0,4.8
+Hands of Stone,,7.2
+Survivor,64.0,5.6
+The Frozen Ground,120.0,6.4
+The Painted Veil,143.0,7.5
+The Baader Meinhof Complex,160.0,7.4
+Dances with Wolves,92.0,8.0
+Bad Teacher,286.0,5.7
+Sea of Love,43.0,6.8
+A Cinderella Story,69.0,5.9
+Scream,242.0,7.2
+Thir13en Ghosts,149.0,5.5
+The Shining,253.0,8.4
+Back to the Future,198.0,8.5
+House on Haunted Hill,147.0,5.6
+I Can Do Bad All by Myself,36.0,4.1
+Fight Valley,6.0,5.0
+The Switch,181.0,6.1
+Just Married,97.0,5.4
+The Devil's Double,167.0,7.1
+Thomas and the Magic Railroad,47.0,3.6
+The Crazies,308.0,6.5
+Spirited Away,246.0,8.6
+Firestorm,23.0,6.2
+The Bounty,29.0,7.0
+The Book Thief,252.0,7.6
+Sex Drive,102.0,6.5
+Leap Year,134.0,6.4
+The Fall of the Roman Empire,30.0,6.7
+Take Me Home Tonight,136.0,6.3
+Won't Back Down,102.0,6.4
+The Nutcracker,10.0,5.7
+Kansas City,31.0,6.3
+Indignation,63.0,7.8
+The Amityville Horror,220.0,6.0
+Adaptation.,241.0,7.7
+Land of the Dead,252.0,6.2
+Out of Inferno,23.0,5.7
+Fear and Loathing in Las Vegas,156.0,7.7
+The Invention of Lying,192.0,6.4
+Neighbors,351.0,6.4
+The Mask,57.0,6.9
+Big,99.0,7.3
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,343.0,7.3
+Legally Blonde,163.0,6.2
+Star Trek III: The Search for Spock,110.0,6.6
+The Exorcism of Emily Rose,233.0,6.7
+Deuce Bigalow: Male Gigolo,91.0,5.7
+Left Behind,169.0,3.1
+The Family Stone,142.0,6.3
+Barbershop 2: Back in Business,50.0,5.7
+Bad Santa,195.0,7.1
+Austin Powers: International Man of Mystery,129.0,7.0
+My Big Fat Greek Wedding 2,156.0,6.1
+Diary of a Wimpy Kid: Rodrick Rules,103.0,6.6
+Predator,217.0,7.8
+Amadeus,134.0,8.3
+Prom Night,146.0,3.9
+Mean Girls,159.0,7.0
+Under the Tuscan Sun,111.0,6.7
+Gosford Park,187.0,7.3
+Peggy Sue Got Married,44.0,6.3
+Birdman or (The Unexpected Virtue of Ignorance),588.0,7.8
+Blue Jasmine,415.0,7.3
+United 93,279.0,7.6
+Honey,97.0,5.3
+Glory,60.0,7.9
+Spy Hard,27.0,5.3
+The Fog,212.0,6.8
+Soul Surfer,110.0,7.1
+Catch-22,45.0,7.2
+Observe and Report,190.0,5.8
+Conan the Destroyer,77.0,5.8
+Raging Bull,151.0,8.3
+Love Happens,111.0,5.6
+Young Sherlock Holmes,64.0,6.8
+Fame,134.0,5.0
+127 Hours,450.0,7.6
+Small Time Crooks,128.0,6.7
+Center Stage,68.0,6.7
+Love the Coopers,97.0,5.7
+Catch That Kid,54.0,5.2
+Life as a House,99.0,7.5
+Steve Jobs,412.0,7.2
+"I Love You, Beth Cooper",107.0,5.3
+Youth in Revolt,192.0,6.5
+The Legend of the Lone Ranger,25.0,5.0
+The Tailor of Panama,104.0,6.1
+Blow Out,120.0,7.4
+Getaway,146.0,4.4
+The Ice Storm,124.0,7.5
+And So It Goes,107.0,5.7
+Troop Beverly Hills,11.0,5.5
+Being Julia,93.0,7.1
+9½ Weeks,38.0,5.9
+Dragonslayer,60.0,6.7
+The Last Station,184.0,7.0
+Ed Wood,148.0,7.9
+Labor Day,217.0,6.9
+Mongol: The Rise of Genghis Khan,160.0,7.3
+RocknRolla,209.0,7.3
+Megaforce,40.0,3.5
+Hamlet,85.0,7.8
+Mao's Last Dancer,83.0,7.4
+Midnight Special,263.0,6.7
+Anything Else,128.0,6.4
+The Railway Man,186.0,7.1
+The White Ribbon,292.0,7.8
+Restoration,15.0,4.0
+The Wraith,70.0,5.9
+The Salton Sea,79.0,7.2
+Metallica Through the Never,103.0,7.2
+The Informers,97.0,5.1
+I Come with the Rain,59.0,5.5
+One Man's Hero,10.0,6.2
+Day of the Dead,184.0,7.2
+I Am Wrath,23.0,5.2
+Renaissance,112.0,6.7
+Forsaken,45.0,6.3
+Red Sonja,59.0,5.0
+Red Lights,195.0,6.2
+Superbad,256.0,7.6
+Madea Goes to Jail,44.0,4.1
+Wolves,59.0,5.3
+Step Up 2: The Streets,97.0,6.2
+Hoodwinked!,142.0,6.5
+Hotel Rwanda,187.0,8.1
+Hitman,193.0,6.3
+Black Nativity,40.0,4.4
+The Prince,46.0,4.6
+City of Ghosts,38.0,6.0
+The Others,239.0,7.6
+Aliens,250.0,8.4
+My Fair Lady,82.0,7.9
+I Know What You Did Last Summer,140.0,5.6
+Let's Be Cops,129.0,6.5
+Sideways,285.0,7.5
+Beerfest,91.0,6.3
+Halloween,318.0,7.9
+Hero,283.0,7.9
+Good Boy!,52.0,5.1
+The Best Man Holiday,56.0,6.7
+Smokin' Aces,186.0,6.7
+Saw 3D: The Final Chapter,178.0,5.6
+40 Days and 40 Nights,140.0,5.6
+TRON: Legacy,469.0,6.8
+A Night at the Roxbury,63.0,6.2
+Beastly,148.0,5.6
+The Hills Have Eyes,265.0,6.4
+Dickie Roberts: Former Child Star,75.0,5.6
+"McFarland, USA",113.0,7.4
+Lottery Ticket,62.0,4.9
+ATL,54.0,6.0
+Pitch Perfect,223.0,7.2
+Summer Catch,50.0,4.9
+A Simple Plan,125.0,7.5
+They,81.0,4.8
+Larry the Cable Guy: Health Inspector,37.0,3.1
+The Adventures of Elmo in Grouchland,44.0,5.8
+Brooklyn's Finest,197.0,6.7
+55 Days at Peking,15.0,6.8
+Evil Dead,543.0,6.5
+My Life in Ruins,112.0,5.9
+American Dreamz,153.0,5.5
+Superman IV: The Quest for Peace,94.0,3.6
+How She Move,62.0,3.3
+Running Scared,157.0,7.4
+Bobby Jones: Stroke of Genius,35.0,6.7
+Shanghai Surprise,21.0,3.0
+The Illusionist,236.0,7.6
+Roar,50.0,6.4
+Veronica Guerin,106.0,6.9
+Escobar: Paradise Lost,106.0,6.6
+Southland Tales,173.0,5.5
+Dragon Hunters,41.0,6.6
+Damnation Alley,41.0,5.2
+The Apparition,145.0,4.1
+My Girl,31.0,6.8
+Fur: An Imaginary Portrait of Diane Arbus,105.0,6.5
+The Illusionist,236.0,7.6
+Wall Street,114.0,7.4
+Sense and Sensibility,69.0,7.7
+Becoming Jane,150.0,7.1
+Sydney White,72.0,6.3
+House of Sand and Fog,158.0,7.6
+Dead Poets Society,96.0,8.0
+Dumb & Dumber,84.0,7.3
+When Harry Met Sally...,114.0,7.6
+The Verdict,79.0,7.8
+Road Trip,103.0,6.5
+Varsity Blues,67.0,6.4
+The Artist,576.0,8.0
+The Unborn,178.0,4.8
+Moonrise Kingdom,487.0,7.8
+The Texas Chainsaw Massacre: The Beginning,196.0,5.9
+The Young Messiah,24.0,5.4
+The Master of Disguise,56.0,3.3
+Pan's Labyrinth,406.0,8.2
+See Spot Run,51.0,5.4
+Baby Boy,41.0,6.4
+The Roommate,138.0,4.8
+Joe Dirt,78.0,5.9
+Double Impact,40.0,5.5
+Hot Fuzz,285.0,7.9
+The Women,124.0,4.9
+Vicky Cristina Barcelona,275.0,7.2
+Arn: The Knight Templar,34.0,6.6
+Bad Moms,81.0,6.7
+Boys and Girls,67.0,5.3
+White Oleander,103.0,7.2
+Jennifer's Body,300.0,5.1
+Drowning Mona,84.0,5.6
+Radio Days,64.0,7.6
+Left Behind,169.0,3.1
+Remember Me,158.0,7.2
+How to Deal,46.0,5.7
+My Stepmother Is an Alien,15.0,5.2
+Philadelphia,68.0,7.7
+The Thirteenth Floor,111.0,7.0
+The Cookout,21.0,3.6
+Meteor,42.0,4.9
+Duets,65.0,6.0
+Hollywood Ending,109.0,6.6
+Detroit Rock City,42.0,6.8
+Highlander,112.0,7.2
+Things We Lost in the Fire,146.0,7.2
+Steel,36.0,2.8
+The Immigrant,230.0,6.6
+The White Countess,64.0,6.7
+Trance,393.0,7.0
+Soul Plane,75.0,4.4
+Welcome to the Sticks,78.0,7.1
+Good,67.0,6.2
+Enter the Void,216.0,7.3
+Vamps,54.0,5.1
+Hachi: A Dog's Tale,84.0,8.1
+Zulu,69.0,6.7
+The Homesman,208.0,6.6
+Juwanna Mann,32.0,4.5
+Ararat,78.0,6.6
+Madison,21.0,6.5
+Slow Burn,40.0,5.9
+Wasabi,40.0,6.6
+Slither,251.0,6.5
+Beverly Hills Cop,94.0,7.3
+Home Alone,102.0,7.5
+3 Men and a Baby,21.0,5.9
+Tootsie,94.0,7.4
+Top Gun,173.0,6.9
+"Crouching Tiger, Hidden Dragon",287.0,7.9
+American Beauty,176.0,8.4
+The King's Speech,479.0,8.0
+Twins,27.0,6.0
+The Yellow Handkerchief,60.0,6.8
+The Color Purple,70.0,7.8
+Tidal Wave,43.0,5.7
+Ben-Hur,1.0,6.1
+The Imitation Game,454.0,8.1
+Private Benjamin,25.0,6.1
+Coal Miner's Daughter,46.0,7.5
+Diary of a Wimpy Kid,111.0,6.2
+Mama,393.0,6.2
+Halloween,318.0,7.9
+National Lampoon's Vacation,55.0,7.4
+Bad Grandpa,157.0,6.6
+The Queen,280.0,7.3
+Beetlejuice,109.0,7.5
+Why Did I Get Married?,41.0,5.6
+Little Women,27.0,7.3
+The Woman in Black,462.0,6.4
+When a Stranger Calls,152.0,5.0
+Big Fat Liar,69.0,5.4
+The Deer Hunter,140.0,8.2
+Wag the Dog,130.0,7.1
+The Lizzie McGuire Movie,66.0,5.3
+Snitch,238.0,6.5
+Krampus,198.0,6.2
+The Faculty,154.0,6.4
+What's Love Got to Do with It,19.0,7.2
+Cop Land,131.0,6.9
+Not Another Teen Movie,97.0,5.7
+End of Watch,355.0,7.7
+Aloha,138.0,5.4
+The Skulls,102.0,5.6
+The Theory of Everything,419.0,7.7
+Malibu's Most Wanted,37.0,5.1
+Where the Heart Is,78.0,6.8
+Lawrence of Arabia,181.0,8.4
+Halloween II,220.0,4.9
+Wild,349.0,7.1
+The Last House on the Left,241.0,6.6
+The Wedding Date,103.0,6.1
+Halloween: Resurrection,151.0,4.1
+Clash of the Titans,344.0,5.8
+The Princess Bride,185.0,8.1
+The Great Debaters,112.0,7.6
+Drive,676.0,7.8
+Confessions of a Teenage Drama Queen,74.0,4.6
+The Object of My Affection,65.0,6.0
+28 Weeks Later,274.0,7.0
+When the Game Stands Tall,50.0,6.7
+Because of Winn-Dixie,96.0,6.4
+Love & Basketball,68.0,7.2
+Grosse Pointe Blank,111.0,7.4
+All About Steve,128.0,4.8
+Book of Shadows: Blair Witch 2,160.0,4.0
+The Craft,93.0,6.2
+Match Point,278.0,7.7
+Ramona and Beezus,81.0,6.7
+The Remains of the Day,58.0,7.9
+Boogie Nights,153.0,7.9
+Nowhere to Run,25.0,5.5
+Flicka,46.0,6.2
+The Hills Have Eyes II,161.0,5.1
+Urban Legends: Final Cut,108.0,4.1
+Tuck Everlasting,69.0,6.7
+The Marine,78.0,4.7
+Keanu,129.0,6.4
+Country Strong,135.0,6.3
+Disturbing Behavior,96.0,5.5
+The Place Beyond the Pines,417.0,7.3
+The November Man,172.0,6.3
+Eye of the Beholder,88.0,4.9
+The Hurt Locker,388.0,7.6
+Firestarter,45.0,6.0
+Killing Them Softly,414.0,6.2
+A Most Wanted Man,291.0,6.8
+Freddy Got Fingered,97.0,4.5
+The Pirates Who Don't Do Anything: A VeggieTales Movie,37.0,5.7
+U2 3D,68.0,8.4
+Highlander: Endgame,90.0,4.6
+Idlewild,81.0,6.2
+One Day,221.0,7.0
+Whip It,230.0,6.9
+Knockaround Guys,57.0,6.1
+Confidence,119.0,6.7
+The Muse,97.0,5.6
+De-Lovely,119.0,6.6
+New York Stories,42.0,6.4
+Barney's Great Adventure,24.0,2.8
+The Man with the Iron Fists,208.0,5.4
+Home Fries,42.0,5.0
+Here on Earth,44.0,5.1
+Brazil,230.0,8.0
+Raise Your Voice,46.0,5.9
+The Big Lebowski,249.0,8.2
+Black Snake Moan,197.0,7.0
+Dark Blue,71.0,6.6
+A Mighty Heart,190.0,6.7
+Whatever It Takes,50.0,5.5
+Boat Trip,63.0,4.9
+The Importance of Being Earnest,104.0,6.9
+The Love Letter,,7.4
+Hoot,49.0,5.6
+In Bruges,300.0,8.0
+Peeples,43.0,5.3
+The Rocker,132.0,6.2
+Post Grad,97.0,5.3
+Promised Land,242.0,6.6
+Whatever Works,218.0,7.2
+The In Crowd,49.0,4.6
+Three Burials,172.0,7.5
+Jakob the Liar,68.0,6.5
+Kiss Kiss Bang Bang,223.0,7.6
+Idle Hands,59.0,6.2
+Mulholland Drive,252.0,8.0
+Blood and Chocolate,106.0,5.5
+You Will Meet a Tall Dark Stranger,223.0,6.3
+Never Let Me Go,328.0,7.2
+Transsiberian,150.0,6.7
+The Clan of the Cave Bear,21.0,5.3
+Crazy in Alabama,28.0,6.3
+Funny Games,250.0,6.5
+Listening,17.0,5.6
+Felicia's Journey,95.0,7.0
+Metropolis,260.0,8.3
+District B13,141.0,7.2
+Things to Do in Denver When You're Dead,52.0,6.8
+The Assassin,205.0,6.4
+Buffalo Soldiers,109.0,6.9
+The Return,103.0,8.0
+Ong-bak 2,110.0,6.2
+Centurion,195.0,6.4
+Silent Trigger,14.0,5.6
+The Midnight Meat Train,177.0,6.1
+Winnie Mandela,17.0,6.0
+The Son of No One,62.0,5.1
+All the Queen's Men,19.0,4.5
+The Good Night,50.0,5.9
+Bathory: Countess of Blood,25.0,6.0
+Khumba,39.0,5.8
+Automata,136.0,6.1
+Dungeons & Dragons: Wrath of the Dragon God,26.0,4.9
+Chiamatemi Francesco - Il Papa della gente,4.0,5.7
+Shinjuku Incident,53.0,7.1
+Pandaemonium,22.0,6.6
+Groundhog Day,147.0,8.1
+Magic Mike XXL,222.0,5.7
+Romeo + Juliet,106.0,6.8
+Sarah's Key,136.0,7.5
+Freedom,5.0,6.2
+Unforgiven,131.0,8.3
+Manderlay,140.0,7.4
+Slumdog Millionaire,418.0,8.0
+Fatal Attraction,94.0,6.9
+Pretty Woman,82.0,6.9
+Crocodile Dundee II,32.0,5.5
+Broken Horses,22.0,5.7
+Born on the Fourth of July,72.0,7.2
+Cool Runnings,39.0,6.9
+My Bloody Valentine,264.0,5.5
+The Possession,264.0,5.9
+First Blood,145.0,7.7
+Stomp the Yard,86.0,5.2
+The Spy Who Loved Me,112.0,7.1
+Urban Legend,101.0,5.5
+Dangerous Liaisons,51.0,7.7
+Good Deeds,42.0,5.4
+White Fang,10.0,6.7
+Superstar,43.0,5.0
+The Iron Lady,331.0,6.4
+Jonah: A VeggieTales Movie,38.0,6.6
+Poetic Justice,12.0,5.9
+All About the Benjamins,40.0,5.7
+Vampire in Brooklyn,34.0,4.5
+Exorcist II: The Heretic,82.0,3.7
+An American Haunting,125.0,5.0
+My Boss's Daughter,56.0,4.6
+A Perfect Getaway,160.0,6.5
+Our Family Wedding,71.0,4.9
+Dead Man on Campus,37.0,6.0
+Tea with Mussolini,62.0,6.9
+Thinner,73.0,5.7
+"New York, New York",59.0,6.7
+Crooklyn,25.0,6.9
+I Think I Love My Wife,97.0,5.5
+Jason X,205.0,4.4
+Big Fat Liar,69.0,5.4
+Bobby,195.0,7.0
+Head Over Heels,61.0,5.4
+Fun Size,77.0,5.4
+The Diving Bell and the Butterfly,259.0,8.0
+Little Children,251.0,7.6
+Gossip,63.0,5.9
+A Walk on the Moon,47.0,6.6
+Catch a Fire,108.0,6.7
+Soul Survivors,64.0,3.9
+Jefferson in Paris,20.0,5.7
+Easy Virtue,135.0,6.7
+Caravans,2.0,6.5
+Mr. Turner,262.0,6.8
+Wild Grass,129.0,6.3
+Amen.,69.0,7.3
+Reign of Assassins,50.0,6.9
+The Lucky Ones,57.0,7.0
+Margaret,116.0,6.5
+Stan Helsing,45.0,3.6
+Flipped,87.0,7.7
+Brokeback Mountain,357.0,7.7
+Teenage Mutant Ninja Turtles,348.0,5.9
+Clueless,88.0,6.8
+Far from Heaven,181.0,7.4
+Hot Tub Time Machine 2,107.0,5.1
+Quills,132.0,7.4
+Seven Psychopaths,401.0,7.2
+The Caveman's Valentine,58.0,6.0
+Downfall,192.0,8.3
+The Sea Inside,157.0,8.1
+Under the Skin,454.0,6.3
+"Good Morning, Vietnam",62.0,7.3
+The Last Godfather,4.0,3.6
+Justin Bieber: Never Say Never,84.0,1.6
+Black Swan,669.0,8.0
+RoboCop,492.0,6.2
+The Godfather: Part II,149.0,9.0
+Save the Last Dance,101.0,6.1
+A Nightmare on Elm Street 4: The Dream Master,102.0,5.7
+Miracles from Heaven,63.0,6.8
+"Dude, Where's My Car?",106.0,5.5
+Young Guns,50.0,6.8
+St. Vincent,275.0,7.3
+About Last Night,90.0,6.1
+10 Things I Hate About You,133.0,7.2
+The New Guy,49.0,5.9
+Loaded Weapon 1,19.0,6.1
+The Shallows,186.0,6.8
+The Butterfly Effect,185.0,7.7
+Snow Day,42.0,4.9
+This Christmas,37.0,6.1
+Baby Geniuses,45.0,2.5
+The Big Hit,57.0,6.1
+Harriet the Spy,25.0,5.9
+Child's Play 2,59.0,5.7
+No Good Deed,58.0,5.6
+The Mist,330.0,7.2
+Ex Machina,489.0,7.7
+Being John Malkovich,242.0,7.8
+Two Can Play That Game,40.0,6.1
+Earth to Echo,112.0,5.8
+Crazy/Beautiful,84.0,6.5
+Letters from Iwo Jima,251.0,7.9
+The Astronaut Farmer,113.0,6.3
+Woo,23.0,3.8
+Room,421.0,8.3
+Dirty Work,32.0,6.4
+Serial Mom,52.0,6.7
+Dick,81.0,6.1
+Light It Up,39.0,6.0
+54,63.0,5.8
+Bubble Boy,47.0,5.6
+Birthday Girl,111.0,6.1
+21 & Over,168.0,5.9
+"Paris, je t'aime",165.0,7.3
+Resurrecting the Champ,104.0,6.8
+Admission,150.0,5.7
+The Widow of Saint-Pierre,61.0,7.3
+Chloe,226.0,6.3
+Faithful,21.0,5.9
+Brothers,217.0,7.1
+Find Me Guilty,94.0,7.1
+The Perks of Being a Wallflower,364.0,8.0
+Excessive Force,19.0,5.1
+Infamous,129.0,7.1
+The Claim,71.0,6.5
+The Vatican Tapes,93.0,4.5
+Attack the Block,399.0,6.6
+In the Land of Blood and Honey,110.0,4.3
+The Call,285.0,6.7
+Operation Chromite,2.0,6.8
+The Crocodile Hunter: Collision Course,61.0,5.4
+I Love You Phillip Morris,242.0,6.6
+Quest for Fire,62.0,7.4
+Antwone Fisher,121.0,7.3
+The Emperor's Club,83.0,6.9
+True Romance,122.0,8.0
+Womb,88.0,6.4
+Glengarry Glen Ross,120.0,7.8
+The Killer Inside Me,225.0,6.1
+Cat People,130.0,6.1
+Sorority Row,167.0,5.1
+The Prisoner of Zenda,7.0,7.8
+Lars and the Real Girl,226.0,7.4
+The Boy in the Striped Pajamas,185.0,7.8
+Dancer in the Dark,177.0,8.0
+Oscar and Lucinda,28.0,6.7
+The Funeral,48.0,6.6
+Solitary Man,116.0,6.4
+Machete,391.0,6.7
+Casino Jack,117.0,6.2
+The Land Before Time,24.0,7.3
+Tae Guk Gi: The Brotherhood of War,86.0,8.1
+The Perfect Game,41.0,7.0
+The Exorcist,304.0,8.0
+Jaws,385.0,8.0
+American Pie,145.0,7.0
+Ernest & Celestine,99.0,7.9
+The Golden Child,29.0,5.9
+Think Like a Man,77.0,6.6
+Barbershop,91.0,6.3
+Star Trek II: The Wrath of Khan,148.0,7.7
+Ace Ventura: Pet Detective,61.0,6.9
+WarGames,84.0,7.1
+Witness,83.0,7.4
+Act of Valor,216.0,6.5
+Step Up,107.0,6.5
+Beavis and Butt-Head Do America,63.0,6.8
+Jackie Brown,140.0,7.5
+Harold & Kumar Escape from Guantanamo Bay,153.0,6.6
+Chronicle,414.0,7.1
+Yentl,16.0,6.6
+Time Bandits,139.0,7.0
+Crossroads,111.0,3.3
+Project X,229.0,6.7
+Patton,112.0,8.0
+One Hour Photo,207.0,6.8
+Quarantine,198.0,6.0
+The Eye,172.0,5.4
+Johnson Family Vacation,45.0,4.3
+How High,34.0,6.2
+The Muppet Christmas Carol,75.0,7.7
+Casino Royale,400.0,8.0
+Frida,128.0,7.4
+Katy Perry: Part of Me,68.0,5.9
+The Fault in Our Stars,326.0,7.8
+Rounders,128.0,7.4
+Top Five,161.0,6.5
+Prophecy,70.0,5.4
+Stir of Echoes,164.0,7.0
+Philomena,354.0,7.6
+The Upside of Anger,125.0,6.9
+The Boys from Brazil,55.0,7.0
+Aquamarine,66.0,5.3
+Paper Towns,191.0,6.4
+My Baby's Daddy,33.0,4.5
+Nebraska,433.0,7.8
+Tales from the Crypt: Demon Knight,66.0,6.7
+Max Keeble's Big Move,37.0,5.3
+Young Adult,325.0,6.3
+Crank,170.0,7.0
+How to Be a Player,11.0,5.3
+Living Out Loud,24.0,6.6
+Just Wright,70.0,5.8
+Rachel Getting Married,232.0,6.7
+The Postman Always Rings Twice,34.0,6.6
+Girl with a Pearl Earring,160.0,7.0
+Das Boot,96.0,8.4
+The Alamo,106.0,6.0
+Sorority Boys,53.0,5.4
+About Time,274.0,7.8
+House of Flying Daggers,248.0,7.6
+Arbitrage,288.0,6.6
+Project Almanac,177.0,6.4
+Cadillac Records,81.0,7.0
+Screwed,29.0,5.7
+Fortress,58.0,5.9
+For Your Consideration,144.0,6.3
+Celebrity,114.0,6.3
+Running with Scissors,132.0,6.2
+From Justin to Kelly,60.0,2.1
+Girl 6,30.0,5.0
+In the Cut,138.0,5.3
+Two Lovers,190.0,7.1
+Last Orders,61.0,7.0
+The Host,363.0,7.0
+The Pursuit of D.B. Cooper,2.0,5.7
+Ravenous,131.0,7.1
+Charlie Bartlett,146.0,7.0
+The Great Beauty,280.0,7.7
+The Dangerous Lives of Altar Boys,78.0,7.1
+Stoker,469.0,6.8
+2046,194.0,7.5
+Married Life,121.0,6.3
+Duma,38.0,7.3
+Ondine,123.0,6.8
+Brother,81.0,7.2
+Welcome to Collinwood,72.0,6.4
+Critical Care,25.0,6.0
+The Life Before Her Eyes,78.0,6.4
+Darling Companion,57.0,5.1
+Trade,69.0,7.5
+Fateless,73.0,7.1
+Breakfast of Champions,42.0,4.6
+"A Woman, a Gun and a Noodle Shop",101.0,5.7
+Cypher,82.0,6.8
+City of Life and Death,149.0,7.7
+Home,165.0,6.7
+Legend of Kung Fu Rabbit,5.0,3.2
+Space Battleship Yamato,44.0,6.1
+5 Days of War,74.0,5.6
+Triangle,156.0,6.9
+10 Days in a Madhouse,1.0,7.5
+Heaven Is for Real,82.0,5.8
+Snatch,151.0,8.3
+Dancin' It's On,3.0,2.8
+Pet Sematary,98.0,6.6
+Madadayo,25.0,7.5
+The Cry of the Owl,35.0,6.0
+A Tale of Three Cities,6.0,6.2
+Gremlins,183.0,7.2
+Star Wars: Episode IV - A New Hope,282.0,8.7
+Dirty Grandpa,158.0,6.0
+Doctor Zhivago,89.0,8.0
+Trash,101.0,7.2
+High School Musical 3: Senior Year,128.0,4.5
+The Fighter,410.0,7.9
+Jackass Number Two,104.0,7.1
+My Cousin Vinny,54.0,7.5
+If I Stay,141.0,6.8
+Drive Hard,30.0,4.3
+Major League,57.0,7.2
+St. Trinian's,56.0,5.8
+Phone Booth,216.0,7.1
+A Walk to Remember,80.0,7.4
+Dead Man Walking,77.0,7.6
+Cruel Intentions,101.0,6.9
+Saw VI,156.0,6.0
+History of the World: Part I,48.0,6.9
+The Secret Life of Bees,109.0,7.3
+Corky Romano,62.0,4.6
+Raising Cain,33.0,6.0
+F.I.S.T.,20.0,6.4
+Invaders from Mars,52.0,5.5
+Brooklyn,351.0,7.5
+Barry Lyndon,124.0,8.1
+Out Cold,37.0,6.3
+The Ladies Man,58.0,5.1
+Quartet,175.0,6.8
+Tomcats,75.0,5.3
+Frailty,161.0,7.3
+Woman in Gold,203.0,7.3
+Kinsey,188.0,7.1
+Army of Darkness,221.0,7.6
+Slackers,66.0,5.3
+What's Eating Gilbert Grape,80.0,7.8
+The Visual Bible: The Gospel of John,25.0,7.7
+Vera Drake,169.0,7.7
+The Guru,70.0,5.4
+The Perez Family,15.0,6.2
+Inside Llewyn Davis,535.0,7.4
+O,92.0,6.2
+Return to the Blue Lagoon,14.0,5.1
+The Molly Maguires,13.0,6.9
+Romance & Cigarettes,87.0,6.3
+Copying Beethoven,78.0,6.8
+Poltergeist,223.0,7.4
+Brighton Rock,136.0,5.7
+Saw V,160.0,5.8
+Machine Gun McCain,28.0,6.2
+LOL,54.0,4.3
+Jindabyne,75.0,6.4
+Kabhi Alvida Naa Kehna,20.0,6.0
+An Ideal Husband,105.0,6.9
+The Last Days on Mars,120.0,5.5
+Darkness,108.0,5.4
+2001: A Space Odyssey,285.0,8.3
+E.T. the Extra-Terrestrial,215.0,7.9
+In the Land of Women,81.0,6.5
+The Blue Butterfly,17.0,6.3
+There Goes My Baby,5.0,6.4
+Housefull,10.0,5.3
+September Dawn,43.0,5.8
+For Greater Glory: The True Story of Cristiada,43.0,6.6
+La Famille Bélier,94.0,7.4
+Good Will Hunting,161.0,8.3
+Misconduct,38.0,5.3
+Saw III,210.0,6.2
+Stripes,52.0,6.9
+Bring It On,139.0,5.9
+The Purge: Election Year,165.0,6.1
+She's All That,96.0,5.8
+Precious,323.0,7.3
+Saw IV,190.0,5.9
+White Noise,173.0,5.5
+Madea's Family Reunion,46.0,5.0
+The Color of Money,59.0,7.0
+The Longest Day,53.0,7.8
+The Mighty Ducks,22.0,6.4
+The Grudge,203.0,5.9
+Happy Gilmore,77.0,7.0
+Jeepers Creepers,190.0,6.1
+Bill & Ted's Excellent Adventure,81.0,6.9
+Oliver!,56.0,7.5
+The Best Exotic Marigold Hotel,264.0,7.3
+Recess: School's Out,44.0,6.5
+Mad Max Beyond Thunderdome,117.0,6.2
+Commando,124.0,6.7
+The Boy,159.0,6.0
+Devil,273.0,6.3
+Friday After Next,26.0,5.8
+Insidious: Chapter 3,242.0,6.1
+The Last Dragon,55.0,6.9
+Snatch,151.0,8.3
+The Lawnmower Man,48.0,5.4
+Nick and Norah's Infinite Playlist,166.0,6.7
+Dogma,206.0,7.4
+The Banger Sisters,92.0,5.6
+Twilight Zone: The Movie,78.0,6.5
+Road House,83.0,6.5
+A Low Down Dirty Shame,8.0,5.8
+Swimfan,86.0,5.0
+Employee of the Month,85.0,5.5
+Can't Hardly Wait,76.0,6.5
+The Outsiders,60.0,7.2
+Pete's Dragon,78.0,7.3
+The Dead Zone,112.0,7.2
+Sinister 2,189.0,5.2
+Sparkle,82.0,5.7
+Valentine,120.0,4.7
+The Fourth Kind,183.0,5.9
+A Prairie Home Companion,211.0,6.8
+Sugar Hill,14.0,5.9
+Invasion U.S.A.,54.0,5.3
+Roll Bounce,55.0,6.0
+Rushmore,179.0,7.7
+Skyline,221.0,4.4
+The Second Best Exotic Marigold Hotel,158.0,6.6
+Kit Kittredge: An American Girl,73.0,6.7
+The Perfect Man,65.0,5.5
+Mo' Better Blues,23.0,6.5
+Kung Pow: Enter the Fist,63.0,6.2
+Tremors,132.0,7.1
+Wrong Turn,191.0,6.1
+The Long Riders,52.0,7.1
+The Corruptor,91.0,6.0
+Mud,368.0,7.4
+Reno 911!: Miami,89.0,5.9
+One Direction: This Is Us,83.0,4.1
+"The Goods: Live Hard, Sell Hard",83.0,5.8
+Hey Arnold! The Movie,33.0,5.9
+My Week with Marilyn,386.0,7.0
+The Matador,191.0,6.8
+Love Jones,16.0,7.4
+The Gift,297.0,7.1
+End of the Spear,47.0,7.0
+Get Over It,63.0,5.8
+Office Space,144.0,7.8
+Drop Dead Gorgeous,77.0,6.5
+Big Eyes,325.0,7.0
+Very Bad Things,100.0,6.3
+Sleepover,52.0,5.3
+Body Double,98.0,6.8
+MacGruber,163.0,5.5
+Dirty Pretty Things,137.0,7.4
+Movie 43,180.0,4.3
+The Tourist,321.0,6.0
+Over Her Dead Body,100.0,5.2
+Seeking a Friend for the End of the World,265.0,6.7
+Cedar Rapids,212.0,6.3
+American History X,162.0,8.6
+The Collection,147.0,6.1
+Teacher's Pet,33.0,5.8
+The Red Violin,94.0,7.7
+The Straight Story,143.0,8.0
+Deuces Wild,38.0,5.6
+Bad Words,126.0,6.7
+"Run, Fatboy, Run",168.0,6.6
+Heartbeeps,19.0,4.2
+Black or White,91.0,6.6
+On the Line,46.0,4.1
+Rescue Dawn,198.0,7.3
+Danny Collins,139.0,7.1
+"Jeff, Who Lives at Home",182.0,6.5
+I Am Love,181.0,7.0
+Atlas Shrugged II: The Strike,23.0,5.5
+Romeo Is Bleeding,30.0,6.6
+The Limey,111.0,7.1
+Crash,287.0,7.9
+The House of Mirth,96.0,7.1
+Malone,27.0,5.6
+Peaceful Warrior,44.0,7.3
+Bucky Larson: Born to Be a Star,49.0,3.3
+Bamboozled,57.0,6.5
+The Forest,185.0,4.8
+Sphinx,2.0,5.2
+While We're Young,270.0,6.3
+A Better Life,94.0,7.2
+Spider,157.0,6.8
+Gun Shy,49.0,5.7
+Nicholas Nickleby,80.0,7.2
+The Iceman,221.0,6.9
+Krrish,20.0,6.3
+Cecil B. DeMented,90.0,6.2
+Killer Joe,376.0,6.7
+The Joneses,144.0,6.5
+Owning Mahowny,82.0,7.2
+The Brothers Solomon,51.0,5.3
+My Blueberry Nights,192.0,6.7
+Illuminata,36.0,6.2
+Swept Away,71.0,3.6
+"War, Inc.",79.0,5.7
+Shaolin Soccer,246.0,7.3
+The Brown Bunny,115.0,5.0
+The Swindle,34.0,6.6
+Rosewater,129.0,6.6
+The Chambermaid on the Titanic,22.0,6.8
+Coriolanus,196.0,6.2
+Imaginary Heroes,73.0,7.3
+High Heels and Low Lifes,43.0,6.2
+World's Greatest Dad,129.0,6.9
+Severance,200.0,6.6
+Edmond,79.0,6.3
+Welcome to the Rileys,112.0,7.0
+Police Academy: Mission to Moscow,17.0,3.3
+Blood Done Sign My Name,20.0,6.7
+"Cinco de Mayo, La Batalla",12.0,6.2
+Elsa & Fred,59.0,6.5
+An Alan Smithee Film: Burn Hollywood Burn,29.0,3.5
+The Open Road,23.0,5.5
+The Good Guy,22.0,5.9
+Motherhood,43.0,4.7
+Free Style,16.0,4.2
+Strangerland,84.0,5.2
+The Janky Promoters,4.0,5.2
+Blonde Ambition,20.0,3.9
+The Oxford Murders,71.0,6.1
+The Reef,102.0,5.8
+Eulogy,27.0,6.7
+White Noise 2: The Light,62.0,5.7
+You Got Served: Beat the World,5.0,4.5
+Fifty Dead Men Walking,76.0,6.9
+Jungle Shuffle,8.0,4.8
+Adam Resurrected,75.0,6.3
+Of Horses and Men,66.0,6.9
+It's a Wonderful Afterlife,31.0,5.4
+The Devil's Tomb,32.0,3.8
+Partition,17.0,7.0
+Good Intentions,4.0,5.2
+"The Good, the Bad, the Weird",152.0,7.3
+Nurse 3D,129.0,4.6
+Gunless,15.0,6.5
+Adventureland,248.0,6.8
+The Lost City,52.0,6.7
+Next Friday,55.0,6.1
+American Heist,30.0,5.2
+You Only Live Twice,130.0,6.9
+Plastic,29.0,6.0
+Amour,447.0,7.9
+Poltergeist III,66.0,4.5
+Re-Kill,18.0,5.1
+"It's a Mad, Mad, Mad, Mad World",61.0,7.6
+Volver,232.0,7.6
+Heavy Metal,62.0,6.7
+Gentlemen Broncos,106.0,6.1
+Richard III,56.0,7.5
+Into the Grizzly Maze,48.0,5.3
+Kites,41.0,6.0
+Melancholia,439.0,7.1
+Red Dog,54.0,7.5
+Jab Tak Hai Jaan,50.0,6.9
+Alien,392.0,8.5
+The Texas Chain Saw Massacre,277.0,7.5
+The Runaways,259.0,6.6
+Fiddler on the Roof,66.0,8.0
+Thunderball,129.0,7.0
+Detention,115.0,5.8
+Loose Cannons,81.0,7.3
+Set It Off,29.0,6.8
+The Best Man,32.0,6.7
+Child's Play,142.0,6.5
+Sicko,263.0,8.0
+The Purge: Anarchy,285.0,6.5
+Down to You,64.0,4.9
+Harold & Kumar Go to White Castle,150.0,7.1
+The Contender,136.0,7.0
+Boiler Room,132.0,7.0
+Trading Places,71.0,7.5
+Black Christmas,186.0,4.5
+Breakin' All the Rules,39.0,5.5
+Henry V,46.0,7.7
+The Savages,201.0,7.2
+Chasing Papi,32.0,4.8
+The Way of the Gun,117.0,6.7
+Igby Goes Down,136.0,7.0
+PCU,15.0,6.5
+The Ultimate Gift,46.0,7.4
+The Ice Pirates,41.0,5.7
+Gracie,65.0,6.2
+Trust the Man,100.0,5.7
+Hamlet 2,129.0,6.4
+Velvet Goldmine,103.0,7.0
+The Wailing,77.0,7.7
+Glee: The 3D Concert Movie,67.0,5.4
+The Legend of Suriyothai,31.0,6.6
+Two Evil Eyes,76.0,6.1
+Barbecue,17.0,6.1
+All or Nothing,81.0,7.6
+Princess Kaiulani,26.0,6.2
+Opal Dream,24.0,6.6
+Heist,44.0,6.1
+Flame and Citron,80.0,7.3
+Undiscovered,41.0,4.2
+Red Riding: In the Year of Our Lord 1974,91.0,7.1
+The Girl on the Train,66.0,6.0
+Veronika Decides to Die,19.0,6.5
+Crocodile Dundee,35.0,6.5
+"Ultramarines: A Warhammer 40,000 Movie",19.0,5.7
+The I Inside,33.0,6.1
+Beneath Hill 60,17.0,7.1
+Polisse,163.0,7.3
+Awake,133.0,6.5
+Skin Trade,66.0,5.7
+The Lost Boys,147.0,7.2
+Crazy Heart,273.0,7.3
+The Rose,32.0,6.9
+Baggage Claim,52.0,5.0
+Barbarella,107.0,5.9
+Shipwrecked,6.0,6.7
+Election,175.0,7.3
+The Namesake,167.0,7.6
+The DUFF,132.0,6.5
+Glitter,66.0,2.1
+The Haunting in Connecticut 2: Ghosts of Georgia,79.0,5.3
+Silmido,15.0,7.2
+Bright Star,222.0,7.0
+My Name Is Khan,210.0,8.0
+Footloose,60.0,6.5
+Limbo,46.0,7.1
+Namastey London,15.0,7.3
+The Wind That Shakes the Barley,169.0,7.5
+Yeh Jawaani Hai Deewani,25.0,6.9
+The Karate Kid,81.0,7.2
+Quo Vadis,54.0,7.2
+Repo! The Genetic Opera,147.0,6.7
+Valley of the Wolves: Iraq,16.0,6.0
+Pulp Fiction,215.0,8.9
+The Muppet Movie,63.0,7.7
+Nightcrawler,534.0,7.9
+Club Dread,66.0,5.6
+The Sound of Music,119.0,8.0
+Splash,43.0,6.2
+Little Miss Sunshine,270.0,7.9
+Stand by Me,99.0,8.1
+28 Days Later...,224.0,7.6
+You Got Served,58.0,3.5
+Escape from Alcatraz,53.0,7.6
+Brown Sugar,37.0,6.5
+A Thin Line Between Love and Hate,11.0,5.6
+50/50,327.0,7.7
+Shutter,135.0,5.2
+Creepshow,127.0,6.9
+That Awkward Moment,164.0,6.1
+Modern Problems,14.0,5.0
+Kicks,6.0,7.8
+Much Ado About Nothing,41.0,7.4
+On Her Majesty's Secret Service,143.0,6.8
+New Nightmare,109.0,6.4
+Drive Me Crazy,59.0,5.7
+Akeelah and the Bee,95.0,7.5
+Half Baked,40.0,6.7
+New in Town,121.0,5.6
+Syriana,358.0,7.0
+American Psycho,288.0,7.6
+The Good Girl,107.0,6.5
+Bon Cop Bad Cop,28.0,7.0
+The Boondock Saints II: All Saints Day,91.0,6.3
+The City of Your Final Destination,55.0,6.4
+Enough Said,231.0,7.1
+Easy A,262.0,7.1
+The Inkwell,7.0,6.5
+Shadow of the Vampire,196.0,6.9
+Prom,83.0,5.4
+The Pallbearer,18.0,4.9
+Held Up,11.0,5.1
+Woman on Top,72.0,5.3
+Howards End,51.0,7.5
+Anomalisa,328.0,7.3
+Another Year,248.0,7.3
+8 Women,128.0,7.1
+Showdown in Little Tokyo,45.0,6.0
+Clay Pigeons,49.0,6.6
+It's Kind of a Funny Story,163.0,7.2
+Made in Dagenham,163.0,7.2
+When Did You Last See Your Father?,90.0,6.9
+Prefontaine,23.0,6.8
+The Wicked Lady,17.0,4.0
+The Secret of Kells,118.0,7.7
+Begin Again,283.0,7.4
+Down in the Valley,74.0,6.5
+Brooklyn Rules,41.0,6.4
+Restless,17.0,7.2
+The Singing Detective,66.0,5.6
+The Land Girls,36.0,6.3
+Fido,140.0,6.8
+The Wendell Baker Story,32.0,5.5
+Wild Target,68.0,6.9
+Pathology,79.0,6.0
+10th & Wolf,26.0,6.4
+Dear Wendy,100.0,6.6
+Aloft,56.0,5.3
+Akira,150.0,8.1
+The Death and Life of Bobby Z,30.0,5.9
+The Rocket: The Legend of Rocket Richard,20.0,7.7
+Swelter,21.0,4.6
+My Lucky Star,11.0,5.1
+Imagine Me & You,85.0,6.9
+Mr. Church,5.0,8.0
+Swimming Pool,160.0,6.8
+Green Street 3: Never Back Down,25.0,5.4
+The Blood of Heroes,21.0,6.5
+Code of Honor,15.0,4.2
+Driving Miss Daisy,61.0,7.4
+Soul Food,34.0,6.9
+Rumble in the Bronx,62.0,6.7
+Far from Men,102.0,7.3
+Thank You for Smoking,239.0,7.6
+Hostel: Part II,252.0,5.4
+An Education,278.0,7.3
+Shopgirl,124.0,6.4
+The Hotel New Hampshire,9.0,6.0
+Narc,127.0,7.2
+Men with Brooms,9.0,6.0
+Witless Protection,35.0,3.1
+The Work and the Glory,6.0,6.9
+Extract,192.0,6.2
+Masked and Anonymous,51.0,5.5
+Alias Betty,38.0,6.9
+Code 46,133.0,6.3
+Outside Bet,4.0,4.8
+Crash,287.0,7.9
+Albert Nobbs,222.0,6.7
+Black November,6.0,5.6
+Ta Ra Rum Pum,16.0,5.4
+Persepolis,242.0,8.0
+The Hole,147.0,5.7
+The Wave,93.0,7.6
+The Neon Demon,253.0,7.0
+Harry Brown,224.0,7.2
+Spider-Man 3,392.0,6.2
+The Omega Code,39.0,3.5
+Juno,387.0,7.5
+Pound of Flesh,36.0,5.1
+Diamonds Are Forever,120.0,6.7
+The Godfather,208.0,9.2
+Flashdance,51.0,6.1
+500 Days of Summer,331.0,7.7
+The Piano,83.0,7.6
+Magic Mike,324.0,6.1
+Darkness Falls,140.0,4.9
+Live and Let Die,136.0,6.8
+My Dog Skip,79.0,7.0
+"Definitely, Maybe",160.0,7.2
+Jumping the Broom,52.0,5.7
+The Great Gatsby,490.0,7.3
+"Good Night, and Good Luck.",351.0,7.5
+Capote,271.0,7.4
+Desperado,93.0,7.2
+The Claim,71.0,6.5
+Logan's Run,112.0,6.8
+The Man with the Golden Gun,118.0,6.8
+Action Jackson,35.0,5.2
+The Descent,342.0,7.2
+Michael Jordan to the Max,14.0,7.5
+Devil's Due,137.0,4.0
+Flirting with Disaster,50.0,6.8
+The Devil's Rejects,261.0,6.9
+Dope,180.0,7.3
+In Too Deep,28.0,6.1
+Skyfall,750.0,7.8
+House of 1000 Corpses,202.0,6.0
+Alien Zone,8.0,4.1
+A Serious Man,341.0,7.0
+Get Low,160.0,7.1
+Warlock,31.0,6.2
+Beyond the Lights,71.0,6.9
+A Single Man,281.0,7.6
+The Last Temptation of Christ,114.0,7.6
+Outside Providence,72.0,6.4
+Bride & Prejudice,119.0,6.2
+Rabbit-Proof Fence,74.0,7.5
+Who's Your Caddy?,25.0,2.0
+Split Second,39.0,6.2
+The Other Side of Heaven,27.0,6.5
+Veer-Zaara,29.0,7.9
+Redbelt,158.0,6.8
+Cyrus,223.0,6.3
+A Dog of Flanders,25.0,6.3
+Auto Focus,97.0,6.6
+Factory Girl,117.0,6.4
+We Need to Talk About Kevin,389.0,7.5
+The Christmas Candle,9.0,5.8
+The Mighty Macs,34.0,6.5
+Losin' It,7.0,4.8
+Mother and Child,161.0,7.2
+March or Die,6.0,6.3
+Les visiteurs,16.0,7.0
+Somewhere,301.0,6.3
+I Hope They Serve Beer in Hell,52.0,5.3
+Chairman of the Board,12.0,2.3
+Hesher,134.0,7.1
+Dom Hemingway,151.0,6.2
+The Heart of Me,39.0,6.7
+Freeheld,133.0,6.5
+The Extra Man,104.0,5.9
+Hard to Be a God,121.0,6.7
+Ca$h,27.0,6.0
+Wah-Wah,49.0,6.9
+The Boondock Saints,100.0,7.9
+Z Storm,12.0,5.3
+Twixt,112.0,4.8
+Snow Queen,10.0,5.3
+Alpha and Omega 4: The Legend of the Saw Toothed Cave,2.0,6.0
+Pale Rider,38.0,7.3
+Stargate: The Ark of Truth,18.0,7.4
+Dazed and Confused,152.0,7.7
+High School Musical 2,44.0,4.8
+Two Lovers and a Bear,6.0,7.2
+Criminal Activities,46.0,5.8
+Aimee & Jaguar,63.0,7.3
+The Chumscrubber,74.0,7.0
+Shade,25.0,6.4
+House at the End of the Street,224.0,5.6
+Incendies,226.0,8.2
+"Remember Me, My Love",36.0,6.5
+Perrier's Bounty,54.0,6.4
+Elite Squad,142.0,8.1
+Annabelle,271.0,5.4
+Bran Nue Dae,33.0,6.3
+Boyz n the Hood,64.0,7.8
+La Bamba,18.0,6.8
+The Four Seasons,6.0,7.2
+Dressed to Kill,121.0,7.1
+The Adventures of Huck Finn,14.0,6.2
+Go,137.0,7.3
+Friends with Money,111.0,5.9
+The Andromeda Strain,57.0,7.2
+Bats,97.0,3.6
+Nowhere in Africa,73.0,7.7
+Shame,486.0,7.3
+Layer Cake,149.0,7.4
+The Work and the Glory II: American Zion,4.0,6.6
+The East,200.0,6.9
+A Home at the End of the World,84.0,6.8
+Aberdeen,28.0,7.3
+The Messenger,217.0,7.2
+Tracker,12.0,6.5
+Control,183.0,7.7
+The Terminator,204.0,8.1
+Good Bye Lenin!,153.0,7.7
+The Damned United,145.0,7.6
+The Return of the Living Dead,203.0,7.3
+Mallrats,93.0,7.2
+Grease,124.0,7.2
+Platoon,120.0,8.1
+Fahrenheit 9/11,288.0,7.5
+Butch Cassidy and the Sundance Kid,130.0,8.1
+Mary Poppins,145.0,7.8
+Ordinary People,62.0,7.8
+Around the World in 80 Days,188.0,5.8
+West Side Story,120.0,7.6
+Caddyshack,71.0,7.4
+The Brothers,52.0,6.3
+The Wood,18.0,6.9
+The Usual Suspects,162.0,8.6
+A Nightmare on Elm Street 5: The Dream Child,88.0,5.1
+Van Wilder: Party Liaison,96.0,6.4
+The Wrestler,391.0,7.9
+Duel in the Sun,32.0,6.9
+Best in Show,119.0,7.5
+Escape from New York,201.0,7.2
+School Daze,22.0,5.8
+Daddy Day Camp,52.0,2.9
+Mr. Nice Guy,63.0,6.2
+A Mighty Wind,97.0,7.3
+Mystic Pizza,34.0,6.2
+Sliding Doors,88.0,6.8
+Tales from the Hood,25.0,6.1
+The Last King of Scotland,252.0,7.7
+Halloween 5,137.0,5.2
+Bernie,231.0,6.8
+Pollock,115.0,7.0
+200 Cigarettes,67.0,5.9
+The Words,216.0,7.1
+Casa de mi Padre,133.0,5.5
+City Island,149.0,7.4
+The Guard,261.0,7.3
+College,42.0,4.6
+The Virgin Suicides,152.0,7.2
+Little Voice,64.0,7.0
+Miss March,76.0,5.1
+Wish I Was Here,149.0,6.7
+Simply Irresistible,35.0,5.3
+Hedwig and the Angry Inch,108.0,7.8
+Only the Strong,17.0,6.7
+Goddess of Love,12.0,5.4
+Shattered Glass,129.0,7.2
+Novocaine,84.0,5.8
+The Business of Strangers,61.0,6.4
+The Wild Bunch,147.0,8.0
+The Wackness,147.0,7.0
+The Great Train Robbery,23.0,7.0
+Morvern Callar,75.0,6.7
+Beastmaster 2: Through the Portal of Time,17.0,3.8
+The 5th Quarter,16.0,5.7
+The Flower of Evil,60.0,6.6
+The Greatest,63.0,6.7
+Snow Flower and the Secret Fan,56.0,6.1
+Come Early Morning,36.0,6.2
+Lucky Break,47.0,6.2
+Julia,38.0,7.4
+"Surfer, Dude",26.0,4.7
+Lake of Fire,47.0,8.3
+11:14,68.0,7.2
+Men of War,19.0,5.8
+Don McKay,39.0,5.9
+Deadfall,162.0,6.3
+A Shine of Rainbows,37.0,7.2
+The Hit List,26.0,5.4
+Videodrome,179.0,7.3
+L'auberge espagnole,88.0,7.3
+Song One,43.0,5.8
+Murder by Numbers,136.0,6.1
+Winter in Wartime,111.0,7.1
+Freaky Deaky,13.0,6.5
+The Train,64.0,7.9
+Trade of Innocents,6.0,5.4
+The Protector,112.0,7.1
+Stiff Upper Lips,12.0,6.4
+Bend It Like Beckham,161.0,6.7
+Sunshine State,68.0,6.9
+Crossover,25.0,2.1
+Khiladi 786,23.0,4.3
+[Rec] 2,222.0,6.6
+Standing Ovation,9.0,3.4
+The Sting,119.0,8.3
+Chariots of Fire,90.0,7.2
+Diary of a Mad Black Woman,62.0,5.6
+Shine,71.0,7.7
+Don Jon,364.0,6.6
+High Plains Drifter,72.0,7.6
+Ghost World,122.0,7.4
+Iris,100.0,7.1
+Galaxina,24.0,3.4
+The Chorus,112.0,7.9
+Mambo Italiano,67.0,6.7
+Wonderland,91.0,6.6
+Do the Right Thing,103.0,7.9
+Harvard Man,27.0,4.9
+Le Havre,205.0,7.2
+Irreversible,192.0,7.4
+R100,72.0,6.1
+Rang De Basanti,33.0,8.4
+Animals,22.0,6.2
+Salvation Boulevard,48.0,5.3
+The Ten,65.0,5.0
+A Room for Romeo Brass,29.0,7.7
+Headhunters,284.0,7.6
+Grabbers,187.0,6.3
+Saint Ralph,47.0,7.6
+Miss Julie,88.0,5.6
+Somewhere in Time,41.0,7.3
+Dum Maaro Dum,24.0,6.2
+Insidious: Chapter 2,318.0,6.6
+Saw II,250.0,6.6
+10 Cloverfield Lane,411.0,7.3
+Jackass: The Movie,106.0,6.6
+Lights Out,159.0,6.9
+Paranormal Activity 3,251.0,5.8
+Ouija,183.0,4.4
+A Nightmare on Elm Street 3: Dream Warriors,131.0,6.6
+The Gift,297.0,7.1
+Instructions Not Included,41.0,7.6
+Paranormal Activity 4,248.0,4.6
+The Robe,42.0,6.8
+The Return of the Pink Panther,33.0,7.1
+Freddy's Dead: The Final Nightmare,91.0,4.9
+Monster,185.0,7.3
+"20,000 Leagues Under the Sea",69.0,7.2
+Paranormal Activity: The Marked Ones,220.0,5.0
+The Elephant Man,117.0,8.2
+Dallas Buyers Club,471.0,8.0
+The Lazarus Effect,152.0,5.2
+Memento,274.0,8.5
+Oculus,336.0,6.5
+Clerks II,174.0,7.4
+Billy Elliot,151.0,7.7
+The Way Way Back,276.0,7.4
+House Party 2,12.0,5.1
+The Man from Snowy River,18.0,7.3
+Doug's 1st Movie,28.0,5.0
+The Apostle,95.0,7.2
+Mommie Dearest,74.0,6.7
+Our Idiot Brother,179.0,6.4
+Race,125.0,7.1
+The Players Club,22.0,5.6
+O,92.0,6.2
+"As Above, So Below",196.0,6.1
+Addicted,9.0,5.2
+Eve's Bayou,31.0,7.3
+Still Alice,309.0,7.5
+The Egyptian,15.0,6.6
+Nighthawks,36.0,6.4
+Friday the 13th Part VIII: Jason Takes Manhattan,129.0,4.5
+My Big Fat Greek Wedding,168.0,6.6
+Spring Breakers,444.0,5.3
+Halloween: The Curse of Michael Myers,123.0,4.9
+Y Tu Mamá También,173.0,7.7
+Shaun of the Dead,246.0,8.0
+The Haunting of Molly Hartley,74.0,3.8
+Lone Star,68.0,7.6
+Halloween 4: The Return of Michael Myers,144.0,5.9
+April Fool's Day,96.0,6.2
+Diner,42.0,7.2
+Lone Wolf McQuade,29.0,6.3
+Apollo 18,228.0,5.2
+Sunshine Cleaning,195.0,6.9
+No Escape,203.0,6.8
+The Beastmaster,44.0,6.2
+Solomon and Sheba,14.0,6.2
+Fifty Shades of Black,59.0,3.5
+Not Easily Broken,45.0,6.1
+A Farewell to Arms,42.0,6.6
+The Perfect Match,12.0,4.5
+Digimon: The Movie,29.0,5.9
+Saved!,121.0,6.9
+The Barbarian Invasions,135.0,7.7
+Robin and Marian,27.0,6.6
+The Forsaken,56.0,5.3
+Force 10 from Navarone,22.0,6.3
+UHF,59.0,7.0
+Grandma's Boy,61.0,7.0
+Slums of Beverly Hills,60.0,6.6
+Once Upon a Time in the West,164.0,8.6
+Made,81.0,6.4
+Moon,415.0,7.9
+Keeping Up with the Steins,43.0,5.4
+Sea Rex 3D: Journey to a Prehistoric World,7.0,6.9
+The Sweet Hereafter,120.0,7.7
+Of Gods and Men,195.0,7.2
+Bottle Shock,109.0,6.8
+Jekyll and Hyde... Together Again,21.0,6.2
+Heavenly Creatures,93.0,7.4
+90 Minutes in Heaven,12.0,4.6
+Everything Must Go,155.0,6.4
+Zero Effect,81.0,7.0
+The Machinist,204.0,7.7
+Light Sleeper,19.0,6.8
+Kill the Messenger,163.0,7.0
+Rabbit Hole,248.0,7.0
+Party Monster,39.0,6.3
+Green Room,322.0,7.1
+The Oh in Ohio,50.0,5.6
+Atlas Shrugged: Who Is John Galt?,12.0,4.4
+Bottle Rocket,83.0,7.1
+Albino Alligator,37.0,6.1
+"Gandhi, My Father",16.0,7.4
+Standard Operating Procedure,121.0,7.5
+Out of the Blue,24.0,7.2
+Tucker and Dale vs Evil,324.0,7.6
+"Lovely, Still",27.0,7.3
+Tycoon,9.0,6.2
+Desert Blue,31.0,6.2
+Decoys,35.0,4.6
+The Visit,371.0,6.2
+Redacted,133.0,6.2
+Fascination,13.0,3.3
+Area 51,56.0,4.2
+Sleep Tight,191.0,7.2
+The Cottage,80.0,6.2
+Dead Like Me: Life After Death,19.0,6.1
+Farce of the Penguins,19.0,4.2
+Flying By,,4.5
+Rudderless,44.0,7.5
+Henry & Me,3.0,6.7
+Christmas Eve,6.0,5.1
+We Have Your Husband,,5.5
+Dying of the Light,64.0,4.4
+Born of War,8.0,4.4
+Capricorn One,64.0,6.8
+Should've Been Romeo,2.0,6.7
+Running Forever,,8.6
+Yoga Hosers,35.0,4.8
+Navy Seals vs. Zombies,21.0,3.4
+I Served the King of England,99.0,7.4
+Soul Kitchen,115.0,7.3
+Sling Blade,104.0,8.0
+The Awakening,195.0,6.5
+Hostel,303.0,5.9
+Tristram Shandy: A Cock and Bull Story,122.0,6.8
+Take Shelter,359.0,7.4
+Lady in White,130.0,6.7
+Driving Lessons,64.0,6.8
+Let's Kill Ward's Wife,13.0,5.4
+The Texas Chainsaw Massacre 2,159.0,5.5
+Pat Garrett & Billy the Kid,54.0,7.4
+Only God Forgives,440.0,5.7
+Camping sauvage,7.0,5.4
+Without Men,4.0,3.2
+Barfi,1.0,7.1
+Dear Frankie,96.0,7.8
+All Hat,8.0,5.3
+The Names of Love,87.0,7.2
+Treading Water,10.0,6.2
+Savage Grace,121.0,5.9
+Out of the Blue,43.0,7.3
+Police Academy,45.0,6.7
+The Blue Lagoon,36.0,5.7
+Four Weddings and a Funeral,84.0,7.1
+Fast Times at Ridgemont High,118.0,7.2
+Moby Dick,42.0,7.4
+25th Hour,202.0,7.7
+Bound,120.0,7.4
+Requiem for a Dream,234.0,8.4
+State Fair,17.0,7.1
+Tango,35.0,7.2
+Salvador,48.0,7.5
+Moms' Night Out,49.0,5.4
+Donnie Darko,283.0,8.1
+Saving Private Perez,16.0,6.0
+Character,54.0,7.8
+Spun,92.0,6.8
+Life During Wartime,159.0,6.5
+Lady Vengeance,202.0,7.7
+Mozart's Sister,50.0,6.4
+Mean Machine,54.0,6.5
+Exiled,98.0,7.3
+Blackthorn,92.0,6.6
+Lilya 4-Ever,112.0,7.9
+After.Life,138.0,5.9
+Fugly,9.0,4.7
+One Flew Over the Cuckoo's Nest,149.0,8.7
+R.L. Stine's Monsterville: The Cabinet of Souls,5.0,5.9
+Silent Movie,39.0,6.7
+Airlift,39.0,8.5
+Falcon Rising,29.0,5.8
+The Sweeney,111.0,6.1
+Sexy Beast,149.0,7.3
+Easy Money,90.0,6.7
+Whale Rider,149.0,7.6
+Paa,12.0,7.2
+Cargo,64.0,6.2
+Pan,256.0,5.8
+High School Musical,57.0,5.2
+Love and Death on Long Island,50.0,7.1
+Night Watch,232.0,6.5
+The Crying Game,63.0,7.3
+Porky's,75.0,6.2
+Survival of the Dead,274.0,5.0
+Night of the Living Dead,284.0,8.0
+Lost in Translation,265.0,7.8
+Annie Hall,154.0,8.1
+The Greatest Show on Earth,44.0,6.7
+Exodus: Gods and Kings,314.0,6.1
+Monster's Ball,153.0,7.1
+Maggie,256.0,5.6
+Leaving Las Vegas,123.0,7.6
+Hansel & Gretel Get Baked,46.0,4.3
+The Return of the Living Dead,203.0,7.3
+The Front Page,34.0,7.3
+The Boy Next Door,149.0,4.6
+Trapeze,20.0,6.8
+The Kids Are All Right,323.0,7.1
+They Live,172.0,7.3
+The Great Escape,111.0,8.3
+What the #$*! Do We (K)now!?,74.0,5.4
+The Last Exorcism Part II,161.0,4.0
+Boyhood,548.0,8.0
+Scoop,177.0,6.7
+Planet of the Apes,230.0,5.7
+The Wash,27.0,4.6
+3 Strikes,22.0,4.0
+The Cooler,157.0,7.0
+The Misfits,70.0,7.4
+The Night Listener,125.0,5.9
+The Jerky Boys,10.0,4.6
+My Soul to Take,160.0,4.8
+The Orphanage,300.0,7.5
+A Haunted House 2,69.0,4.7
+The Rules of Attraction,143.0,6.7
+Topaz,50.0,6.3
+Let's Go to Prison,46.0,6.0
+Four Rooms,51.0,6.7
+Secretary,163.0,7.1
+The Real Cancun,52.0,2.7
+Talk Radio,40.0,7.3
+Waiting for Guffman,50.0,7.6
+Love Stinks,45.0,5.8
+You Kill Me,121.0,6.5
+Thumbsucker,114.0,6.6
+Red State,270.0,6.2
+Mirrormask,116.0,6.9
+Samsara,115.0,8.5
+The Barbarians,15.0,4.8
+The Art of Getting By,122.0,6.6
+Zipper,35.0,5.7
+Poolhall Junkies,41.0,7.0
+The Loss of Sexual Innocence,31.0,5.4
+Holy Motors,332.0,7.1
+Joe,232.0,6.9
+Shooting Fish,43.0,6.6
+Prison,68.0,5.9
+Psycho Beach Party,51.0,6.3
+The Big Tease,33.0,6.3
+"Buen Día, Ramón",26.0,7.7
+Trust,109.0,7.0
+An Everlasting Piece,34.0,6.3
+Among Giants,31.0,5.9
+Adore,141.0,6.2
+The Velocity of Gary,19.0,5.0
+Mondays in the Sun,64.0,7.7
+Stake Land,215.0,6.5
+The Last Time I Committed Suicide,12.0,5.8
+Futuro Beach,70.0,6.1
+Another Happy Day,46.0,6.0
+A Lonely Place to Die,135.0,6.3
+Nothing,38.0,6.3
+The Geographer Drank His Globe Away,8.0,7.5
+1776,34.0,7.6
+Inescapable,36.0,5.2
+Hell's Angels,35.0,7.8
+Purple Violets,6.0,6.6
+The Veil,39.0,4.7
+The Loved Ones,182.0,6.7
+No Vacancy,14.0,4.2
+How to Fall in Love,3.0,6.3
+The Perfect Wave,3.0,4.7
+Ben-Hur,1.0,6.0
+A Man for All Seasons,62.0,7.9
+Network,161.0,8.1
+Gone with the Wind,157.0,8.2
+Desert Dancer,31.0,6.0
+Major Dundee,53.0,6.8
+Down for Life,1.0,7.3
+Annie Get Your Gun,21.0,7.0
+Four Lions,246.0,7.3
+House of Sand,42.0,7.5
+Defendor,78.0,6.8
+The Pirate,41.0,7.1
+The Good Heart,61.0,6.9
+The History Boys,112.0,6.9
+Unknown,349.0,6.9
+Midnight Cowboy,88.0,7.9
+The Full Monty,122.0,7.2
+Airplane!,134.0,7.8
+Chain of Command,11.0,3.5
+Friday,20.0,7.3
+Menace II Society,28.0,7.5
+Creepshow 2,95.0,6.0
+The Ballad of Cable Hogue,31.0,7.3
+In Cold Blood,79.0,8.0
+The Nun's Story,25.0,7.6
+Harper,22.0,7.0
+Frenzy,110.0,7.5
+The Witch,425.0,6.8
+I Got the Hook Up,19.0,3.9
+She's the One,43.0,6.1
+Gods and Monsters,127.0,7.5
+The Secret in Their Eyes,262.0,8.2
+Day of the Dead,184.0,7.2
+Train,33.0,4.8
+Evil Dead II,252.0,7.8
+Pootie Tang,31.0,5.2
+Sharknado,139.0,3.3
+La otra conquista,39.0,6.8
+Trollhunter,337.0,7.0
+Ira & Abby,30.0,6.5
+The Watch,265.0,5.7
+Winter Passing,50.0,6.4
+D.E.B.S.,50.0,5.3
+The Masked Saint,9.0,4.7
+The Betrayed,15.0,6.1
+Taxman,5.0,5.5
+2:13,4.0,4.8
+"Batman: The Dark Knight Returns, Part 2",44.0,8.4
+Time to Choose,6.0,7.0
+In the Name of the King: The Last Job,17.0,3.3
+Wicked Blood,7.0,5.4
+Dawn Patrol,9.0,4.8
+Lords of London,3.0,3.1
+High Anxiety,55.0,6.7
+March of the Penguins,169.0,7.6
+Margin Call,290.0,7.1
+August,10.0,6.1
+Choke,159.0,6.5
+Whiplash,535.0,8.5
+City of God,214.0,8.7
+Human Traffic,47.0,7.1
+Day One,17.0,6.6
+The Dead Girl,85.0,6.7
+The Hunt,349.0,8.3
+A Christmas Story,109.0,8.1
+Bella,60.0,7.4
+Class of 1984,101.0,6.6
+The Opposite Sex,1.0,4.5
+Dreaming of Joseph Lees,16.0,6.4
+The Class,212.0,7.5
+Rosemary's Baby,215.0,8.0
+The Man Who Shot Liberty Valance,107.0,8.1
+Adam,122.0,7.2
+Maria Full of Grace,155.0,7.5
+Beginners,261.0,7.2
+Feast,130.0,6.4
+Animal House,94.0,7.6
+Goldfinger,164.0,7.8
+Antiviral,188.0,5.7
+It's a Wonderful Life,206.0,8.6
+Trainspotting,134.0,8.2
+The Original Kings of Comedy,53.0,6.6
+Paranormal Activity 2,264.0,5.7
+Waking Ned Devine,94.0,7.4
+Bowling for Columbine,215.0,8.0
+Coming Home,85.0,7.3
+A Nightmare on Elm Street 2: Freddy's Revenge,138.0,5.4
+A Room with a View,55.0,7.4
+The Purge,361.0,5.7
+Sinister,411.0,6.8
+Martin Lawrence Live: Runteldat,24.0,5.4
+Cat on a Hot Tin Roof,70.0,8.1
+Beneath the Planet of the Apes,78.0,6.1
+Air Bud,35.0,5.1
+Pokémon 3: The Movie,39.0,5.6
+Jason Lives: Friday the 13th Part VI,158.0,5.9
+The Bridge on the River Kwai,122.0,8.2
+Spaced Invaders,16.0,5.3
+Family Plot,67.0,6.8
+The Apartment,183.0,8.3
+Jason Goes to Hell: The Final Friday,112.0,4.3
+Torn Curtain,64.0,6.7
+Dave Chappelle's Block Party,114.0,7.2
+Slow West,246.0,6.9
+Krush Groove,7.0,6.6
+Next Day Air,49.0,5.9
+Elmer Gantry,42.0,7.9
+Judgment at Nuremberg,73.0,8.3
+Trippin',16.0,5.2
+Red River,91.0,7.8
+Phat Girlz,37.0,3.0
+Before Midnight,405.0,7.9
+Teen Wolf Too,29.0,3.2
+Phantasm II,81.0,6.5
+Woman Thou Art Loosed,17.0,6.9
+Real Women Have Curves,75.0,7.0
+Water,91.0,7.8
+East Is East,82.0,6.9
+Whipped,48.0,4.4
+Kama Sutra: A Tale of Love,33.0,6.0
+Please Give,133.0,6.6
+Willy Wonka & the Chocolate Factory,104.0,7.8
+Warlock: The Armageddon,22.0,5.3
+8 Heads in a Duffel Bag,30.0,5.3
+Days of Heaven,112.0,8.0
+Thirteen Conversations About One Thing,79.0,7.1
+Jawbreaker,49.0,5.4
+Basquiat,42.0,6.9
+Frances Ha,345.0,7.4
+Tsotsi,152.0,7.3
+Happiness,148.0,7.8
+DysFunktional Family,23.0,6.6
+Tusk,254.0,5.4
+Oldboy,305.0,8.4
+Letters to God,19.0,6.3
+Hobo with a Shotgun,272.0,6.1
+Compadres,5.0,5.0
+Freeway,65.0,6.9
+Love's Abiding Joy,5.0,7.2
+Fish Tank,248.0,7.3
+Damsels in Distress,152.0,5.7
+Bachelorette,156.0,5.3
+Brave New Girl,1.0,5.0
+Tim and Eric's Billion Dollar Movie,82.0,5.3
+The Gambler,175.0,6.0
+Summer Storm,40.0,7.4
+Fort McCoy,8.0,5.9
+Chain Letter,63.0,4.1
+Just Looking,20.0,6.7
+The Divide,174.0,5.8
+The Eclipse,90.0,6.2
+Demonic,58.0,5.3
+My Big Fat Independent Movie,14.0,3.3
+Alice in Wonderland,451.0,6.5
+The Deported,,6.2
+Tanner Hall,21.0,5.9
+Open Road,9.0,5.5
+They Came Together,98.0,5.5
+30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo,29.0,2.6
+Never Back Down 2: The Beatdown,23.0,5.8
+Point Blank,87.0,7.4
+Four Single Fathers,2.0,5.1
+Enter the Dangerous Mind,17.0,5.2
+Something Wicked,7.0,4.8
+AWOL-72,6.0,3.9
+Iguana,9.0,6.2
+Cinderella,343.0,7.0
+Chicago Overcoat,11.0,6.2
+Barry Munday,34.0,5.9
+Central Station,71.0,8.0
+Pocketful of Miracles,21.0,7.3
+Close Range,28.0,4.9
+Boynton Beach Club,35.0,6.5
+Amnesiac,30.0,4.3
+Freakonomics,73.0,6.4
+The Omen,154.0,7.6
+High Tension,251.0,6.8
+Griff the Invisible,57.0,6.1
+Unnatural,14.0,4.0
+Hustle & Flow,159.0,7.4
+Some Like It Hot,181.0,8.3
+Friday the 13th Part VII: The New Blood,110.0,5.3
+The Wizard of Oz,213.0,8.1
+Young Frankenstein,129.0,8.0
+Diary of the Dead,280.0,5.7
+Lage Raho Munna Bhai,15.0,8.2
+Ulee's Gold,61.0,7.1
+The Black Stallion,33.0,7.4
+Sardaar Ji,1.0,6.6
+Journey to Saturn,2.0,5.7
+Donovan's Reef,27.0,6.9
+The Dress,19.0,7.0
+A Guy Named Joe,9.0,7.0
+Blazing Saddles,121.0,7.8
+Friday the 13th: The Final Chapter,166.0,5.9
+Ida,269.0,7.4
+Maurice,29.0,7.8
+Beer League,20.0,6.0
+The Astronaut's Wife,107.0,5.3
+Riding Giants,74.0,7.9
+Timecrimes,173.0,7.2
+Silver Medallist,5.0,7.4
+Timber Falls,66.0,5.3
+Singin' in the Rain,169.0,8.3
+"Fat, Sick & Nearly Dead",13.0,7.6
+A Haunted House,129.0,5.1
+2016: Obama's America,30.0,5.1
+Halloween II,220.0,4.9
+That Thing You Do!,75.0,6.9
+Halloween III: Season of the Witch,162.0,4.6
+Escape from the Planet of the Apes,74.0,6.3
+Hud,65.0,7.9
+Kevin Hart: Let Me Explain,26.0,6.7
+My Own Private Idaho,63.0,7.1
+Garden State,205.0,7.6
+Before Sunrise,121.0,8.1
+Sur le seuil,9.0,6.6
+Jesus' Son,74.0,7.0
+Saving Face,54.0,7.6
+Brick Lane,80.0,6.7
+Robot & Frank,252.0,7.1
+My Life Without Me,72.0,7.6
+The Spectacular Now,220.0,7.1
+Marilyn Hotchkiss' Ballroom Dancing and Charm School,1.0,7.1
+Religulous,197.0,7.7
+Fuel,14.0,7.6
+Valley of the Heart's Delight,3.0,6.6
+Dodgeball: A True Underdog Story,191.0,6.7
+Eye of the Dolphin,18.0,5.7
+8: The Mormon Proposition,28.0,7.1
+The Other End of the Line,22.0,6.2
+Anatomy,62.0,6.1
+Sleep Dealer,47.0,5.9
+Super,238.0,6.8
+Christmas Mail,2.0,5.8
+Stung,95.0,5.0
+Antibirth,10.0,6.3
+Get on the Bus,28.0,6.8
+Thr3e,25.0,5.1
+Idiocracy,121.0,6.6
+The Rise of the Krays,10.0,5.0
+This Is England,172.0,7.7
+Alien Uprising,20.0,3.1
+Bathing Beauty,8.0,6.5
+Go for It!,8.0,3.9
+"Dancer, Texas Pop. 81",15.0,6.8
+Show Boat,14.0,7.0
+Redemption Road,12.0,5.9
+The Calling,48.0,5.8
+The Brave Little Toaster,17.0,7.3
+The French Connection,138.0,7.8
+8 Days,,6.9
+Friday the 13th Part III,235.0,5.7
+Friday the 13th: A New Beginning,160.0,4.7
+The Last Sin Eater,18.0,5.9
+Do You Believe?,11.0,5.9
+Impact Point,11.0,4.3
+The Valley of Decision,7.0,7.5
+Eden,5.0,4.8
+Chicken Tikka Masala,10.0,5.8
+Always Woodstock,5.0,5.3
+Jack Brooks: Monster Slayer,95.0,6.0
+The Best Years of Our Lives,97.0,8.1
+Bully,76.0,7.0
+Elling,67.0,7.6
+Mi America,4.0,7.2
+[Rec],252.0,7.5
+Lies in Plain Sight,,6.3
+Sharkskin,1.0,6.7
+Containment,33.0,4.8
+The Timber,19.0,5.5
+From Russia with Love,167.0,7.5
+The Toxic Avenger Part II,49.0,5.1
+Sleeper,66.0,7.3
+It Follows,533.0,6.9
+Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,50.0,6.8
+To Kill a Mockingbird,127.0,8.4
+Mad Max 2: The Road Warrior,177.0,7.6
+The Legend of Drunken Master,77.0,7.6
+Lolita,103.0,7.7
+Boys Don't Cry,123.0,7.6
+Silent House,218.0,5.3
+The Lives of Others,215.0,8.5
+Courageous,34.0,7.0
+The Hustler,100.0,8.0
+Boom Town,12.0,7.1
+The Triplets of Belleville,167.0,7.8
+Smoke Signals,56.0,7.2
+American Splendor,180.0,7.5
+Before Sunset,211.0,8.0
+Amores Perros,157.0,8.1
+Thirteen,126.0,6.8
+Gentleman's Agreement,61.0,7.4
+Winter's Bone,365.0,7.2
+Touching the Void,121.0,8.1
+Alexander's Ragtime Band,10.0,7.0
+Me and You and Everyone We Know,151.0,7.4
+Inside Job,171.0,8.3
+We Are Your Friends,158.0,6.1
+Ghost Dog: The Way of the Samurai,167.0,7.5
+Harsh Times,118.0,7.0
+Captive,39.0,5.3
+Full Frontal,108.0,4.7
+Witchboard,65.0,5.7
+Hamlet,85.0,7.8
+Shortbus,160.0,6.5
+Waltz with Bashir,231.0,8.0
+"The Book of Mormon Movie, Volume 1: The Journey",7.0,3.3
+No End in Sight,79.0,8.3
+The Diary of a Teenage Girl,168.0,6.9
+In the Shadow of the Moon,107.0,8.1
+Meek's Cutoff,200.0,6.5
+Inside Deep Throat,123.0,6.8
+Dinner Rush,39.0,7.3
+Clockwatchers,41.0,6.4
+The Virginity Hit,46.0,4.6
+Subway,30.0,6.5
+House of D,46.0,7.0
+Teeth,221.0,5.4
+Six-String Samurai,51.0,6.7
+Hum To Mohabbat Karega,1.0,2.8
+It's All Gone Pete Tong,58.0,7.4
+Saint John of Las Vegas,45.0,5.8
+24 7: Twenty Four Seven,44.0,7.1
+Stonewall,74.0,4.5
+Roadside Romeo,6.0,5.3
+This Thing of Ours,5.0,5.4
+The Lost Medallion: The Adventures of Billy Stone,10.0,4.8
+The Last Five Years,81.0,5.9
+The Missing Person,66.0,6.2
+Return of the Living Dead III,46.0,5.9
+London,34.0,6.6
+Sherrybaby,78.0,6.6
+Stealing Harvard,52.0,5.1
+Circle,29.0,6.0
+Eden Lake,161.0,6.8
+Plush,18.0,5.4
+Vampire Killers,107.0,5.2
+Gangster's Paradise: Jerusalema,30.0,7.8
+Freeze Frame,24.0,6.4
+Grave Encounters,116.0,6.1
+Stitches,98.0,5.7
+Nine Dead,25.0,5.5
+"To Be Frank, Sinatra at 100",,7.4
+Bananas,40.0,7.1
+Supercapitalist,20.0,3.9
+Rockaway,8.0,4.6
+The Lady from Shanghai,90.0,7.7
+No Man's Land: The Rise of Reeker,21.0,4.9
+Highway,12.0,6.3
+Small Apartments,33.0,6.1
+Coffee Town,9.0,6.6
+The Ghastly Love of Johnny X,94.0,5.7
+All Is Bright,41.0,5.6
+The Torture Chamber of Dr. Sadism,38.0,6.0
+Straight A's,12.0,5.7
+A Funny Thing Happened on the Way to the Forum,25.0,7.0
+Slacker Uprising,27.0,5.3
+The Legend of Hell's Gate: An American Conspiracy,2.0,4.4
+The Walking Deceased,23.0,3.4
+The Curse of Downers Grove,32.0,4.5
+Shark Lake,18.0,3.4
+River's Edge,45.0,7.1
+Northfork,60.0,6.4
+The Marine 4: Moving Target,23.0,5.2
+Buried,363.0,7.0
+Submarine,249.0,7.3
+The Square,68.0,8.1
+One to Another,14.0,5.8
+Carrie,359.0,5.9
+ABCD (Any Body Can Dance),15.0,6.4
+A Nightmare on Elm Street,256.0,7.5
+Man on Wire,194.0,7.8
+Abandoned,,6.3
+Brotherly Love,10.0,7.2
+The Last Exorcism,311.0,5.6
+Nowhere Boy,205.0,7.2
+A Streetcar Named Desire,94.0,8.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,192.0,8.5
+El crimen del padre Amaro,85.0,6.8
+Beasts of the Southern Wild,663.0,7.3
+Battle for the Planet of the Apes,62.0,5.5
+Songcatcher,39.0,7.3
+Higher Ground,68.0,6.3
+Vaalu,3.0,5.1
+The Greatest Movie Ever Sold,130.0,6.6
+Ed and His Dead Mother,13.0,6.1
+Travelers and Magicians,44.0,7.5
+Hang 'Em High,26.0,7.0
+Deadline - U.S.A.,27.0,7.2
+Sublime,53.0,5.3
+A Beginner's Guide to Snuff,,8.7
+Independence Daysaster,10.0,3.4
+Dysfunctional Friends,4.0,5.4
+Run Lola Run,181.0,7.8
+May,114.0,6.7
+Against the Wild,11.0,4.7
+Living Dark: The Story of Ted the Caver,1.0,6.3
+Under the Same Moon,75.0,7.4
+Conquest of the Planet of the Apes,80.0,6.1
+In the Bedroom,179.0,7.5
+I Spit on Your Grave,225.0,6.3
+"Happy, Texas",77.0,6.3
+My Summer of Love,124.0,6.8
+The Lunchbox,195.0,7.8
+Yes,76.0,6.9
+You Can't Take It with You,51.0,8.0
+From Here to Eternity,101.0,7.8
+She Wore a Yellow Ribbon,55.0,7.4
+Grace Unplugged,15.0,6.1
+Foolish,16.0,4.3
+N-Secure,5.0,3.5
+Caramel,109.0,7.2
+Out of the Dark,40.0,4.7
+The Bubble,51.0,7.3
+The Conversation,149.0,7.9
+Dil Jo Bhi Kahey...,4.0,5.1
+Mississippi Mermaid,35.0,7.2
+I Love Your Work,22.0,5.4
+Cabin Fever,68.0,3.7
+Dawn of the Dead,287.0,7.4
+Waitress,173.0,7.1
+Bloodsport,61.0,6.8
+Mr. Smith Goes to Washington,96.0,8.2
+Kids,71.0,7.0
+The Squid and the Whale,110.0,7.4
+Kissing Jessica Stein,110.0,6.7
+"A Woman, a Gun and a Noodle Shop",101.0,5.7
+Kickboxer: Vengeance,2.0,9.1
+Spellbound,97.0,7.6
+Exotica,53.0,7.2
+Buffalo '66,106.0,7.5
+Insidious,445.0,6.8
+Repo Man,131.0,6.9
+Nine Queens,94.0,7.9
+The Gatekeepers,105.0,7.6
+The Ballad of Jack and Rose,75.0,6.7
+The To Do List,97.0,5.8
+Killing Zoe,37.0,6.5
+The Believer,84.0,7.2
+Snow Angels,88.0,6.9
+Unsullied,6.0,5.5
+Session 9,127.0,6.5
+I Want Someone to Eat Cheese With,32.0,6.2
+Mooz-Lum,8.0,6.7
+Hatchet,229.0,5.7
+Modern Times,120.0,8.6
+Stolen Summer,31.0,6.5
+My Name Is Bruce,100.0,6.3
+The Salon,14.0,4.3
+Road Hard,14.0,6.1
+Forty Shades of Blue,39.0,6.0
+Amigo,35.0,5.8
+Pontypool,178.0,6.7
+Trucker,46.0,6.7
+Me You and Five Bucks,,7.6
+The Lords of Salem,234.0,5.1
+Housebound,166.0,6.8
+Wal-Mart: The High Cost of Low Price,56.0,6.8
+Fetching Cody,16.0,6.8
+Once Upon a Time in Queens,9.0,6.3
+Closer to the Moon,18.0,7.1
+Mutant World,4.0,2.8
+Growing Up Smith,,8.2
+Checkmate,6.0,3.1
+Jack Reacher,387.0,7.0
+#Horror,35.0,3.3
+Wind Walkers,27.0,3.6
+Snow White and the Seven Dwarfs,145.0,7.7
+The Holy Girl,78.0,6.7
+Shalako,10.0,5.5
+Incident at Loch Ness,60.0,6.6
+The Dog Lover,9.0,4.8
+Girl House,63.0,5.5
+The Blue Room,92.0,6.3
+House at the End of the Drive,4.0,6.9
+Batman: The Movie,53.0,6.5
+"Lock, Stock and Two Smoking Barrels",116.0,8.2
+The Ballad of Gregorio Cortez,,7.1
+The Celebration,98.0,8.1
+Trees Lounge,43.0,7.2
+Journey from the Fall,15.0,7.4
+The Basket,14.0,6.5
+Eddie: The Sleepwalking Cannibal,56.0,5.7
+Mercury Rising,79.0,6.1
+Queen of the Mountains,16.0,8.7
+Def-Con 4,18.0,4.3
+The Hebrew Hammer,35.0,6.2
+Neal 'N' Nikki,5.0,3.3
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,16.0,2.7
+Forget Me Not,24.0,5.2
+Rebecca,144.0,8.2
+Friday the 13th Part 2,242.0,6.1
+The Lost Weekend,97.0,8.0
+C.H.U.D.,77.0,5.5
+Filly Brown,16.0,5.7
+The Lion of Judah,7.0,3.7
+Niagara,74.0,7.1
+How Green Was My Valley,74.0,7.8
+Da Sweet Blood of Jesus,46.0,4.1
+"Sex, Lies, and Videotape",58.0,7.2
+Saw,287.0,7.7
+Super Troopers,100.0,7.1
+The Algerian,5.0,7.6
+The Amazing Catfish,50.0,7.0
+The Day the Earth Stood Still,276.0,5.5
+Monsoon Wedding,137.0,7.4
+You Can Count on Me,122.0,7.7
+The Trouble with Harry,73.0,7.2
+Lucky Number Slevin,202.0,7.8
+But I'm a Cheerleader,99.0,6.6
+Home Run,10.0,6.0
+Reservoir Dogs,173.0,8.4
+The Blue Bird,7.0,6.5
+"The Good, the Bad and the Ugly",181.0,8.9
+The Second Mother,111.0,7.9
+Blue Like Jazz,38.0,6.0
+Down and Out with the Dolls,12.0,6.1
+Certifiably Jonathan,17.0,6.2
+Q,9.0,5.6
+The Knife of Don Juan,1.0,7.2
+Grand Theft Parsons,51.0,6.1
+Extreme Movie,14.0,3.8
+The Charge of the Light Brigade,24.0,7.1
+Below Zero,18.0,4.5
+Crowsnest,22.0,3.8
+Airborne,9.0,6.2
+Cotton Comes to Harlem,30.0,6.6
+The Wicked Within,9.0,4.6
+Bleeding Hearts,7.0,4.2
+Waiting...,91.0,6.8
+Dead Man's Shoes,99.0,7.7
+From a Whisper to a Scream,57.0,5.9
+Dracula: Pages from a Virgin's Diary,58.0,7.0
+Faith Like Potatoes,5.0,6.9
+Beyond the Black Rainbow,97.0,6.1
+The Raid: Redemption,481.0,7.6
+The Dead Undead,17.0,3.0
+The Vatican Exorcisms,9.0,2.6
+Casablanca,242.0,8.6
+Lake Mungo,95.0,6.1
+Rocket Singh: Salesman of the Year,14.0,7.5
+Silent Running,87.0,6.7
+Rocky,141.0,8.1
+The Sleepwalker,16.0,4.9
+The Fog,212.0,6.8
+Tom Jones,30.0,6.8
+Unfriended,270.0,5.7
+Taxi Driver,211.0,8.3
+The Howling,161.0,6.6
+Dr. No,184.0,7.3
+Chernobyl Diaries,270.0,5.0
+Hellraiser,203.0,7.0
+God's Not Dead 2,29.0,3.4
+Cry_Wolf,137.0,5.9
+Godzilla 2000,107.0,6.0
+Blue Valentine,377.0,7.4
+Transamerica,169.0,7.4
+The Devil Inside,225.0,4.2
+Beyond the Valley of the Dolls,101.0,6.2
+Love Me Tender,39.0,6.2
+Sands of Iwo Jima,40.0,7.2
+Shine a Light,129.0,7.2
+The Green Inferno,285.0,5.4
+Departure,29.0,7.0
+The Sessions,337.0,7.2
+"Food, Inc.",120.0,7.9
+October Baby,40.0,6.8
+Next Stop Wonderland,38.0,6.7
+Juno,387.0,7.5
+The Skeleton Twins,185.0,6.8
+Martha Marcy May Marlene,348.0,6.9
+Obvious Child,155.0,6.8
+Frozen River,181.0,7.2
+20 Feet from Stardom,149.0,7.4
+Two Girls and a Guy,54.0,5.6
+Walking and Talking,18.0,6.8
+The Full Monty,122.0,7.2
+Who Killed the Electric Car?,87.0,7.7
+The Broken Hearts Club: A Romantic Comedy,51.0,7.0
+Bubba Ho-Tep,260.0,7.2
+Goosebumps,218.0,6.4
+Slam,16.0,7.2
+Brigham City,12.0,7.2
+Fiza,1.0,6.2
+History of the World: Part I,48.0,6.9
+Orgazmo,59.0,6.2
+All the Real Girls,88.0,6.9
+Dream with the Fishes,28.0,7.0
+Blue Car,44.0,6.7
+Luminarias,13.0,3.6
+Palo Alto,117.0,6.3
+Ajami,100.0,7.4
+Wristcutters: A Love Story,117.0,7.4
+I Origins,140.0,7.3
+The Battle of Shaker Heights,29.0,6.1
+The Lovely Bones,308.0,6.7
+The Act of Killing,248.0,8.2
+Taxi to the Dark Side,84.0,7.7
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,40.0,7.3
+Guiana 1838,,7.4
+Lisa Picard Is Famous,13.0,5.7
+Antarctica: A Year on Ice,31.0,7.6
+A Lego Brickumentary,43.0,6.8
+Hardflip,2.0,5.6
+Chocolate: Deep Dark Secrets,4.0,4.8
+The House of the Devil,238.0,6.4
+The Perfect Host,112.0,6.8
+Safe Men,33.0,6.1
+Speedway Junky,8.0,5.2
+The Last Big Thing,95.0,6.9
+The Specials,29.0,6.0
+16 to Life,3.0,6.3
+Alone with Her,71.0,6.1
+Creative Control,36.0,5.5
+Special,56.0,6.9
+Sparkler,8.0,5.6
+The Helix... Loaded,3.0,1.9
+In Her Line of Fire,8.0,4.1
+The Jimmy Show,9.0,5.4
+Heli,87.0,6.8
+Karachi se Lahore,6.0,7.0
+Loving Annabelle,14.0,6.7
+Hits,20.0,5.8
+Jimmy and Judy,23.0,6.2
+Frat Party,6.0,2.8
+The Party's Over,12.0,7.3
+Proud,2.0,5.8
+The Poker House,12.0,6.5
+Childless,,6.1
+ZMD: Zombies of Mass Destruction,64.0,5.1
+Snow White: A Deadly Summer,7.0,2.2
+Hidden Away,9.0,7.2
+My Last Day Without You,21.0,5.7
+Steppin: The Movie,,3.4
+Doc Holliday's Revenge,1.0,3.8
+Black Rock,95.0,4.7
+Truth or Die,40.0,5.6
+The Pet,6.0,3.9
+Bang Bang Baby,16.0,5.4
+Fear Clinic,39.0,5.2
+Zombie Hunter,150.0,3.5
+A Fine Step,1.0,5.3
+Trance,393.0,7.0
+Charly,32.0,7.1
+Banshee Chapter,78.0,5.5
+Ask Me Anything,8.0,6.0
+And Then Came Love,6.0,4.8
+Food Chains,9.0,7.1
+On the Waterfront,134.0,8.2
+L!fe Happens,18.0,5.7
+"4 Months, 3 Weeks and 2 Days",233.0,7.9
+The Horror Network Vol. 1,10.0,7.3
+Hard Candy,231.0,7.1
+The Quiet,65.0,6.4
+Circumstance,76.0,5.9
+Fruitvale Station,327.0,7.5
+The Brass Teapot,62.0,6.4
+Bambi,116.0,7.4
+The Hammer,73.0,7.3
+Snitch,238.0,6.5
+Latter Days,35.0,7.2
+Elza,2.0,6.7
+1982,6.0,7.1
+"For a Good Time, Call...",115.0,6.0
+Celeste & Jesse Forever,193.0,6.7
+Time Changer,16.0,5.6
+London to Brighton,68.0,7.0
+American Hero,16.0,4.9
+Windsor Drive,7.0,3.2
+A Separation,354.0,8.4
+Crying with Laughter,16.0,6.9
+Welcome to the Dollhouse,74.0,7.5
+Ruby in Paradise,11.0,7.2
+Raising Victor Vargas,59.0,7.2
+Pandora's Box,71.0,8.0
+Harrison Montgomery,5.0,7.4
+Live-In Maid,25.0,7.2
+Deterrence,29.0,6.5
+The Mudge Boy,17.0,7.2
+The Young Unknowns,13.0,4.2
+Not Cool,6.0,5.1
+Dead Snow,224.0,6.4
+Saints and Soldiers,33.0,6.8
+Vessel,1.0,6.2
+American Graffiti,100.0,7.5
+Iraq for Sale: The War Profiteers,21.0,7.7
+Aqua Teen Hunger Force Colon Movie Film for Theaters,82.0,6.9
+Safety Not Guaranteed,271.0,7.0
+Kevin Hart: Laugh at My Pain,5.0,7.5
+Kill List,255.0,6.3
+The Innkeepers,292.0,5.5
+The Unborn,178.0,4.8
+The Conformist,120.0,8.1
+Interview with the Assassin,31.0,6.6
+Donkey Punch,114.0,5.2
+All the Boys Love Mandy Lane,233.0,5.6
+Bled,8.0,3.1
+High Noon,153.0,8.1
+Hoop Dreams,53.0,8.3
+Rize,49.0,7.1
+Destiny,4.0,8.1
+L.I.E.,64.0,7.2
+The Sisterhood of Night,23.0,6.3
+B-Girl,8.0,4.0
+King Kong,446.0,7.2
+House of Wax,228.0,5.3
+Half Nelson,208.0,7.2
+Naturally Native,2.0,6.5
+Hav Plenty,25.0,6.5
+Adulterers,8.0,4.9
+Escape from Tomorrow,143.0,5.2
+Starsuckers,21.0,7.4
+The Hadza: Last of the First,1.0,7.4
+After,34.0,5.4
+Treachery,5.0,3.9
+Walter,10.0,5.3
+Top Hat,66.0,7.8
+The Blair Witch Project,360.0,6.4
+Woodstock,53.0,8.1
+The Kentucky Fried Movie,82.0,6.5
+Mercy Streets,15.0,5.6
+Arnolds Park,,5.6
+Broken Vessels,18.0,6.6
+Water & Power,,6.3
+They Will Have to Kill Us First,22.0,7.7
+Crop Circles: Quest for Truth,15.0,7.0
+Light from the Darkroom,,8.0
+Irreplaceable,18.0,7.2
+The Maid's Room,8.0,4.5
+A Hard Day's Night,105.0,7.7
+Love Letters,4.0,6.1
+Julija in alfa Romeo,2.0,6.4
+Fireproof,50.0,6.5
+Faith Connections,19.0,7.0
+Benji,5.0,6.1
+Open Water,235.0,5.7
+High Road,8.0,5.4
+Kingdom of the Spiders,95.0,5.9
+Mad Hot Ballroom,84.0,7.5
+The Station Agent,154.0,7.7
+To Save a Life,20.0,7.1
+Wordplay,88.0,7.4
+Beyond the Mat,70.0,7.6
+The Singles Ward,5.0,6.4
+Osama,105.0,7.4
+Sholem Aleichem: Laughing in the Darkness,29.0,6.8
+Groove,46.0,6.5
+The R.M.,3.0,6.0
+Twin Falls Idaho,54.0,7.3
+Mean Creek,126.0,7.3
+Hurricane Streets,17.0,6.5
+Never Again,25.0,6.0
+Civil Brand,11.0,5.3
+Lonesome Jim,81.0,6.6
+Drinking Buddies,155.0,6.1
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay,39.0,7.1
+Seven Samurai,153.0,8.7
+The Other Dream Team,26.0,8.4
+Johnny Suede,10.0,5.8
+Finishing the Game: The Search for a New Bruce Lee,35.0,6.2
+Rubber,230.0,5.8
+Home,165.0,6.7
+Kiss the Bride,9.0,5.7
+The Slaughter Rule,17.0,6.1
+Monsters,344.0,6.4
+The Californians,2.0,5.0
+The Living Wake,28.0,6.5
+Detention of the Dead,29.0,4.6
+Crazy Stone,11.0,7.7
+Scott Walker: 30 Century Man,48.0,7.3
+Everything Put Together,24.0,6.6
+Good Kill,166.0,6.4
+Insomnia Manica,,5.8
+The Outrageous Sophie Tucker,9.0,7.2
+Now Is Good,48.0,7.2
+Girls Gone Dead,64.0,3.5
+America Is Still the Place,,7.5
+Subconscious,1.0,2.2
+Crossroads,111.0,3.3
+Enter Nowhere,26.0,6.6
+The King of Najayo,1.0,6.9
+Fight to the Finish,3.0,4.0
+Alleluia! The Devil's Carnival,10.0,7.4
+The Sound and the Shadow,1.0,8.3
+Rodeo Girl,1.0,5.7
+Born to Fly: Elizabeth Streb vs. Gravity,10.0,6.8
+The Little Ponderosa Zoo,1.0,5.2
+Oz the Great and Powerful,525.0,6.4
+The Toxic Avenger,96.0,6.2
+Straight Out of Brooklyn,8.0,5.9
+Bloody Sunday,92.0,7.7
+Diamond Ruff,1.0,4.3
+Conversations with Other Women,365.0,7.1
+Poultrygeist: Night of the Chicken Dead,88.0,6.2
+Mutual Friends,3.0,6.8
+42nd Street,65.0,7.7
+Rise of the Entrepreneur: The Search for a Better Way,,8.2
+Metropolitan,71.0,7.5
+As It Is in Heaven,34.0,7.6
+Roadside,15.0,4.1
+Napoleon Dynamite,220.0,6.9
+Blue Ruin,279.0,7.1
+Paranormal Activity,409.0,6.3
+Dogtown and Z-Boys,86.0,7.7
+Monty Python and the Holy Grail,131.0,8.3
+Quinceañera,69.0,7.1
+Gory Gory Hallelujah,8.0,4.7
+Tarnation,72.0,7.2
+I Want Your Money,4.0,5.1
+Love in the Time of Monsters,9.0,5.4
+The Beyond,203.0,6.9
+What Happens in Vegas,148.0,6.1
+The Dark Hours,80.0,6.1
+My Beautiful Laundrette,46.0,6.9
+Fabled,8.0,5.8
+Show Me,10.0,6.0
+Cries & Whispers,76.0,8.2
+Intolerance: Love's Struggle Throughout the Ages,69.0,8.0
+Trekkies,43.0,7.0
+The Broadway Melody,36.0,6.3
+The Evil Dead,304.0,7.6
+Maniac,279.0,6.1
+Murderball,110.0,7.8
+American Ninja 2: The Confrontation,40.0,4.7
+51 Birch Street,45.0,7.5
+Rotor DR1,4.0,3.4
+Halloween,318.0,7.9
+12 Angry Men,177.0,8.9
+My Dog Tulip,51.0,6.9
+It Happened One Night,124.0,8.2
+Dogtooth,211.0,7.3
+Tupac: Resurrection,26.0,8.0
+Tumbleweeds,64.0,6.7
+The Prophecy,56.0,6.6
+When the Cat's Away,29.0,6.9
+Pieces of April,131.0,7.1
+The Big Swap,4.0,5.6
+Old Joy,88.0,6.7
+Wendy and Lucy,189.0,7.1
+3 Backyards,20.0,5.2
+Pierrot le Fou,96.0,7.7
+Nothing But a Man,24.0,8.1
+"First Love, Last Rites",16.0,5.5
+Fighting Tommy Riley,13.0,6.6
+Royal Kill,8.0,3.2
+Across the Universe,156.0,7.4
+The Looking Glass,4.0,6.6
+Death Race 2000,164.0,6.2
+Locker 13,10.0,4.8
+Midnight Cabaret,1.0,4.5
+Anderson's Cross,8.0,7.2
+Bizarre,9.0,4.3
+Graduation Day,78.0,4.5
+Some Guy Who Kills People,131.0,6.4
+Compliance,286.0,6.4
+Chasing Amy,147.0,7.3
+Lovely & Amazing,71.0,6.9
+Death Calls,,4.3
+Better Luck Tomorrow,51.0,7.2
+The Incredibly True Adventure of Two Girls in Love,23.0,6.5
+Chuck & Buck,59.0,6.6
+American Desi,9.0,6.7
+Amidst the Devil's Wings,,4.3
+Cube,99.0,7.3
+Love and Other Catastrophes,21.0,6.4
+I Married a Strange Person!,19.0,7.0
+November,43.0,5.5
+Like Crazy,206.0,6.7
+Teeth and Blood,,4.3
+Sugar Town,29.0,6.1
+The Motel,27.0,6.8
+The Canyons,162.0,3.9
+On the Outs,26.0,6.9
+Shotgun Stories,85.0,7.3
+Exam,77.0,6.9
+The Sticky Fingers of Time,8.0,6.3
+Sunday School Musical,5.0,2.5
+Rust,3.0,5.7
+Ink,66.0,7.0
+The Christmas Bunny,4.0,6.2
+Jesus People,,6.9
+Butterfly,15.0,4.5
+UnDivided,1.0,7.8
+The Frozen,12.0,4.4
+The Love Letter,,7.4
+Horse Camp,1.0,6.6
+Give Me Shelter,6.0,8.0
+The Big Parade,48.0,8.3
+Little Big Top,2.0,6.5
+Along the Roadside,17.0,7.1
+Bronson,225.0,7.1
+Western Religion,5.0,4.0
+Burn,22.0,7.5
+Urbania,38.0,7.0
+The Stewardesses,21.0,4.0
+"The Beast from 20,000 Fathoms",67.0,6.7
+"20,000 Leagues Under the Sea",69.0,7.2
+Mad Max,208.0,7.0
+Swingers,77.0,7.4
+A Fistful of Dollars,122.0,8.0
+She Done Him Wrong,35.0,6.5
+Short Cut to Nirvana: Kumbh Mela,15.0,7.2
+The Grace Card,25.0,6.4
+Middle of Nowhere,37.0,6.5
+3,76.0,6.8
+The Business of Fancydancing,12.0,6.9
+Call + Response,7.0,7.5
+Side Effects,450.0,7.1
+Malevolence,60.0,5.1
+Shooting the Warwicks,4.0,6.2
+Super Hybrid,42.0,3.9
+Baghead,93.0,6.0
+Solitude,1.0,6.8
+The Case of the Grinning Cat,16.0,7.4
+Ordet,54.0,8.1
+Good Dick,38.0,6.5
+The Man from Earth,66.0,8.0
+The Trials of Darryl Hunt,11.0,7.7
+An American Girl Holiday,6.0,7.2
+Yesterday Was a Lie,25.0,5.4
+Theresa Is a Mother,13.0,6.7
+H.,18.0,6.3
+Archaeology of a Woman,3.0,8.1
+Children of Heaven,46.0,8.5
+Weekend,143.0,7.7
+She's Gotta Have It,26.0,6.5
+Butterfly Girl,,8.7
+The World Is Mine,5.0,6.5
+Another Earth,242.0,7.0
+The Calling,48.0,5.8
+Sweet Sweetback's Baadasssss Song,38.0,5.5
+Perfect Cowboy,,7.0
+Tadpole,91.0,6.3
+Once,232.0,7.9
+The Woman Chaser,18.0,7.3
+The Horse Boy,29.0,7.4
+When the Lights Went Out,44.0,5.4
+Heroes of Dirt,2.0,7.1
+The Texas Chain Saw Massacre,277.0,7.5
+A Charlie Brown Christmas,43.0,8.4
+Antarctic Edge: 70° South,5.0,7.0
+Aroused,16.0,5.3
+Top Spin,18.0,7.1
+Roger & Me,40.0,7.5
+Cat People,130.0,6.1
+An American in Hollywood,3.0,7.2
+Sound of My Voice,136.0,6.7
+Your Sister's Sister,171.0,6.7
+A Dog's Breakfast,8.0,7.0
+A Dog's Breakfast,8.0,7.0
+Night of the Living Dead,284.0,8.0
+Une Femme Mariée,36.0,7.4
+The Birth of a Nation,21.0,5.4
+The Work and the Story,1.0,5.7
+Facing the Giants,31.0,6.7
+The Gallows,159.0,4.2
+Eraserhead,152.0,7.4
+Over the Hill to the Poorhouse,1.0,4.8
+Hollywood Shuffle,21.0,7.0
+The Mighty,57.0,7.3
+Penitentiary,23.0,5.8
+The Lost Skeleton of Cadavra,88.0,7.0
+"Dude, Where's My Dog?!",2.0,3.2
+Cheap Thrills,193.0,6.8
+Indie Game: The Movie,50.0,7.7
+Closure,61.0,5.6
+Open Secret,1.0,7.1
+Echo Dr.,5.0,3.6
+The Night Visitor,14.0,6.8
+The Past is a Grotesque Animal,5.0,7.6
+The Last House on the Left,241.0,6.6
+"Peace, Propaganda & the Promised Land",16.0,8.3
+Pi,138.0,7.5
+"I Love You, Don't Touch Me!",5.0,5.4
+20 Dates,32.0,5.3
+Queen Crab,18.0,4.5
+Super Size Me,193.0,7.3
+The FP,66.0,5.6
+Happy Christmas,65.0,5.6
+The Brain That Wouldn't Die,95.0,4.1
+Tiger Orange,13.0,6.8
+Supporting Characters,15.0,6.3
+Absentia,125.0,5.8
+The Brothers McMullen,36.0,6.6
+The Dirties,73.0,6.7
+Gabriela,1.0,6.4
+Tiny Furniture,113.0,6.3
+Hayride,13.0,3.4
+The Naked Ape,,4.7
+The Call of Cthulhu,60.0,7.3
+The Signal,161.0,6.1
+The Image Revolution,7.0,7.4
+This Is Martin Bonner,34.0,6.6
+A True Story,,5.5
+George Washington,75.0,7.5
+Smiling Fish & Goat on Fire,21.0,7.6
+Dawn of the Crescent Moon,3.0,5.0
+Raymond Did It,2.0,3.2
+The Last Waltz,71.0,8.2
+"Run, Hide, Die",7.0,3.7
+The Exploding Girl,61.0,6.3
+The Legend of God's Gun,3.0,4.1
+Mutual Appreciation,52.0,6.9
+Her Cry: La Llorona Investigation,,5.4
+Down Terrace,53.0,6.5
+Clerks,136.0,7.8
+Funny Ha Ha,43.0,6.4
+In the Company of Men,80.0,7.3
+Sabotage,233.0,5.7
+Manito,28.0,7.0
+Rampage,58.0,6.3
+Slacker,61.0,7.1
+Dutch Kills,,4.8
+Dry Spell,1.0,3.3
+Flywheel,5.0,6.9
+Exeter,43.0,4.6
+The Ridges,,3.0
+The Puffy Chair,51.0,6.6
+Stories of Our Lives,6.0,7.4
+Breaking Upwards,22.0,6.2
+All Superheroes Must Die,42.0,4.0
+Pink Flamingos,73.0,6.1
+Clean,81.0,6.9
+The Circle,64.0,7.5
+Tin Can Man,12.0,6.7
+The Cure,78.0,7.4
+On the Downlow,,6.1
+Sanctuary; Quite a Conundrum,13.0,5.4
+Bang,10.0,6.4
+Primer,143.0,7.0
+Cavite,35.0,6.3
+El Mariachi,56.0,6.9
+The Mongol King,,7.8
+Newlyweds,14.0,6.4
+Signed Sealed Delivered,1.0,7.7
+A Plague So Pleasant,13.0,6.3
+Shanghai Calling,14.0,6.3
+My Date with Drew,43.0,6.6
