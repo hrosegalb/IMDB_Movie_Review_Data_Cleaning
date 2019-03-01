@@ -130,23 +130,23 @@ def create_actor_csv(dataframe):
 
 df = read_in_csv()
 
-#director_df = create_director_csv(df)
-#director_csv = director_df.to_csv (r'directors.csv', index=False, header=True)
+director_df = create_director_csv(df)
+director_csv = director_df.to_csv (r'directors.csv', index=False, header=True)
 
-#genre_df = create_genre_csv(df)
-#genre_csv = genre_df.to_csv (r'genres.csv', index=False, header=True)
+genre_df = create_genre_csv(df)
+genre_csv = genre_df.to_csv (r'genres.csv', index=False, header=True)
 
-#actor_df = create_actor_csv(df)
-#actor_csv = actor_df.to_csv(r'actors.csv', index=False, header=True)
+actor_df = create_actor_csv(df)
+actor_csv = actor_df.to_csv(r'actors.csv', index=False, header=True)
 
-#acted_in_df = create_acted_in_csv(df)
-#acted_in_csv = acted_in_df.to_csv(r'acted_in.csv', index=False, header=True)
+acted_in_df = create_acted_in_csv(df)
+acted_in_csv = acted_in_df.to_csv(r'acted_in.csv', index=False, header=True)
 
-#directed_by_df = create_directed_by_csv(df)
-#directed_by_csv = directed_by_df.to_csv(r'directed_by.csv', index=False, header=True)
+directed_by_df = create_directed_by_csv(df)
+directed_by_csv = directed_by_df.to_csv(r'directed_by.csv', index=False, header=True)
 
-#score_df = create_score_csv(df)
-#score_csv = score_df.to_csv(r'scores.csv', index=False, header=True)
+score_df = create_score_csv(df)
+score_csv = score_df.to_csv(r'scores.csv', index=False, header=True)
 
 movie_df = create_movie_csv(df)
 movie_csv = movie_df.to_csv(r'movies.csv', index=False, header=True)
