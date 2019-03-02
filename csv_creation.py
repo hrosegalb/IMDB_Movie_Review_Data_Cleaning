@@ -3,6 +3,7 @@ import pandas as pd
 def create_directed_by_csv(dataframe):
     directed_by_df = dataframe[['director_name', 'movie_title']]
     directed_by_df = directed_by_df.rename(columns={'director_name': 'name'})
+    directed_by_df['movie_title'] = directed_by_df['movie_title'].str.strip()
     return directed_by_df
 
 
