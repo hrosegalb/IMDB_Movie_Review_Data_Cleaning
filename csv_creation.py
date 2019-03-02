@@ -97,6 +97,8 @@ def read_in_csv():
 
     bool_series = pd.notnull(df['actor_3_name'])
     df = df[bool_series]
+
+    df = df.drop_duplicates(subset='movie_title', keep="first")
     return df
 
 
