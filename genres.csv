@@ -498,10 +498,6 @@ The Wolfman,Drama
 The Wolfman,Fantasy
 The Wolfman,Horror
 The Wolfman,Thriller
-The Legend of Tarzan,Action
-The Legend of Tarzan,Adventure
-The Legend of Tarzan,Drama
-The Legend of Tarzan,Romance
 Bee Movie,Adventure
 Bee Movie,Animation
 Bee Movie,Comedy
@@ -688,10 +684,6 @@ Ant-Man,Sci-Fi
 The Hunger Games: Catching Fire,Adventure
 The Hunger Games: Catching Fire,Sci-Fi
 The Hunger Games: Catching Fire,Thriller
-The Twilight Saga: Breaking Dawn - Part 2,Adventure
-The Twilight Saga: Breaking Dawn - Part 2,Drama
-The Twilight Saga: Breaking Dawn - Part 2,Fantasy
-The Twilight Saga: Breaking Dawn - Part 2,Romance
 Home,Adventure
 Home,Animation
 Home,Comedy
@@ -754,11 +746,6 @@ Harry Potter and the Sorcerer's Stone,Fantasy
 R.I.P.D.,Action
 R.I.P.D.,Comedy
 R.I.P.D.,Fantasy
-Godzilla Resurgence,Action
-Godzilla Resurgence,Adventure
-Godzilla Resurgence,Drama
-Godzilla Resurgence,Horror
-Godzilla Resurgence,Sci-Fi
 Pirates of the Caribbean: The Curse of the Black Pearl,Action
 Pirates of the Caribbean: The Curse of the Black Pearl,Adventure
 Pirates of the Caribbean: The Curse of the Black Pearl,Fantasy
@@ -1106,9 +1093,6 @@ Where the Wild Things Are,Adventure
 Where the Wild Things Are,Drama
 Where the Wild Things Are,Family
 Where the Wild Things Are,Fantasy
-Pan,Adventure
-Pan,Family
-Pan,Fantasy
 Epic,Adventure
 Epic,Animation
 Epic,Family
@@ -1428,9 +1412,6 @@ K-19: The Widowmaker,Drama
 K-19: The Widowmaker,History
 K-19: The Widowmaker,Thriller
 K-19: The Widowmaker,War
-Fantastic Four,Action
-Fantastic Four,Adventure
-Fantastic Four,Sci-Fi
 Conan the Barbarian,Adventure
 Conan the Barbarian,Fantasy
 Cinderella Man,Biography
@@ -1447,9 +1428,6 @@ Twister,Action
 Twister,Adventure
 Twister,Drama
 Twister,Thriller
-The Fast and the Furious,Action
-The Fast and the Furious,Crime
-The Fast and the Furious,Thriller
 Cast Away,Adventure
 Cast Away,Drama
 Cast Away,Romance
@@ -2124,8 +2102,6 @@ Hook,Adventure
 Hook,Comedy
 Hook,Family
 Hook,Fantasy
-Hercules,Action
-Hercules,Adventure
 Die Hard 2,Action
 Die Hard 2,Thriller
 S.W.A.T.,Action
@@ -2346,8 +2322,6 @@ The Matrix,Sci-Fi
 Apollo 13,Adventure
 Apollo 13,Drama
 Apollo 13,History
-Total Recall,Action
-Total Recall,Sci-Fi
 The Santa Clause 2,Comedy
 The Santa Clause 2,Family
 The Santa Clause 2,Fantasy
@@ -2808,9 +2782,6 @@ Sinbad: Legend of the Seven Seas,Romance
 Event Horizon,Horror
 Event Horizon,Sci-Fi
 Event Horizon,Thriller
-The Avengers,Action
-The Avengers,Adventure
-The Avengers,Sci-Fi
 Dragonfly,Drama
 Dragonfly,Fantasy
 Dragonfly,Mystery
@@ -3865,8 +3836,6 @@ The Pledge,Mystery
 The Pledge,Thriller
 The Producers,Comedy
 The Producers,Musical
-Dredd,Action
-Dredd,Sci-Fi
 The Phantom,Action
 The Phantom,Adventure
 The Phantom,Comedy
@@ -4160,10 +4129,6 @@ The Mexican,Adventure
 The Mexican,Comedy
 The Mexican,Crime
 The Mexican,Romance
-Unbroken,Biography
-Unbroken,Drama
-Unbroken,Sport
-Unbroken,War
 17 Again,Comedy
 17 Again,Drama
 17 Again,Family
@@ -4416,10 +4381,6 @@ Cirque du Freak: The Vampire's Assistant,Action
 Cirque du Freak: The Vampire's Assistant,Adventure
 Cirque du Freak: The Vampire's Assistant,Fantasy
 Cirque du Freak: The Vampire's Assistant,Thriller
-Victor Frankenstein,Drama
-Victor Frankenstein,Horror
-Victor Frankenstein,Sci-Fi
-Victor Frankenstein,Thriller
 Duplex,Comedy
 Soul Men,Comedy
 Soul Men,Drama
@@ -4512,9 +4473,6 @@ The Time Traveler's Wife,Romance
 The Time Traveler's Wife,Sci-Fi
 Because I Said So,Comedy
 Because I Said So,Romance
-The Fast and the Furious,Action
-The Fast and the Furious,Crime
-The Fast and the Furious,Thriller
 Frankenweenie,Animation
 Frankenweenie,Comedy
 Frankenweenie,Family
@@ -4858,9 +4816,6 @@ Street Fighter,Thriller
 The Pianist,Biography
 The Pianist,Drama
 The Pianist,War
-From Hell,Horror
-From Hell,Mystery
-From Hell,Thriller
 The Nativity Story,Drama
 The Nativity Story,Family
 The Nativity Story,Fantasy
@@ -5037,10 +4992,6 @@ Ride with the Devil,Romance
 Ride with the Devil,War
 Ride with the Devil,Western
 Biutiful,Drama
-The Lovers,Action
-The Lovers,Adventure
-The Lovers,Romance
-The Lovers,Sci-Fi
 Bandidas,Action
 Bandidas,Comedy
 Bandidas,Crime
@@ -5269,10 +5220,6 @@ Frequency,Drama
 Frequency,Mystery
 Frequency,Sci-Fi
 Frequency,Thriller
-Ghostbusters,Action
-Ghostbusters,Comedy
-Ghostbusters,Fantasy
-Ghostbusters,Sci-Fi
 Vacation,Adventure
 Vacation,Comedy
 Get Shorty,Comedy
@@ -5932,10 +5879,6 @@ Star Trek VI: The Undiscovered Country,Adventure
 Star Trek VI: The Undiscovered Country,Sci-Fi
 Star Trek VI: The Undiscovered Country,Thriller
 Divine Secrets of the Ya-Ya Sisterhood,Drama
-The Jungle Book,Adventure
-The Jungle Book,Drama
-The Jungle Book,Family
-The Jungle Book,Fantasy
 Kiss the Girls,Crime
 Kiss the Girls,Drama
 Kiss the Girls,Mystery
@@ -6503,11 +6446,6 @@ Say It Isn't So,Romance
 The World's Fastest Indian,Biography
 The World's Fastest Indian,Drama
 The World's Fastest Indian,Sport
-Snakes on a Plane,Action
-Snakes on a Plane,Adventure
-Snakes on a Plane,Crime
-Snakes on a Plane,Drama
-Snakes on a Plane,Thriller
 Tank Girl,Action
 Tank Girl,Comedy
 Tank Girl,Sci-Fi
@@ -6578,10 +6516,6 @@ Star Trek IV: The Voyage Home,Comedy
 Star Trek IV: The Voyage Home,Sci-Fi
 Rocky Balboa,Drama
 Rocky Balboa,Sport
-Point Break,Action
-Point Break,Crime
-Point Break,Sport
-Point Break,Thriller
 Scream 2,Horror
 Scream 2,Mystery
 Jane Got a Gun,Action
@@ -6663,10 +6597,6 @@ Zombieland,Adventure
 Zombieland,Comedy
 Zombieland,Horror
 Zombieland,Sci-Fi
-King Kong,Action
-King Kong,Adventure
-King Kong,Drama
-King Kong,Romance
 The Waterboy,Comedy
 The Waterboy,Sport
 Star Wars: Episode V - The Empire Strikes Back,Action
@@ -6690,10 +6620,6 @@ Someone Like You...,Romance
 Her,Drama
 Her,Romance
 Her,Sci-Fi
-Eddie the Eagle,Biography
-Eddie the Eagle,Comedy
-Eddie the Eagle,Drama
-Eddie the Eagle,Sport
 Joy Ride,Mystery
 Joy Ride,Thriller
 The Adventurer: The Curse of the Midas Box,Adventure
@@ -6701,8 +6627,6 @@ The Adventurer: The Curse of the Midas Box,Family
 The Adventurer: The Curse of the Midas Box,Fantasy
 Anywhere But Here,Comedy
 Anywhere But Here,Drama
-Chasing Liberty,Comedy
-Chasing Liberty,Romance
 The Crew,Comedy
 The Crew,Crime
 Haywire,Action
@@ -6794,10 +6718,6 @@ Shadowlands,Romance
 Deuce Bigalow: European Gigolo,Comedy
 Delivery Man,Comedy
 Delivery Man,Drama
-Victor Frankenstein,Drama
-Victor Frankenstein,Horror
-Victor Frankenstein,Sci-Fi
-Victor Frankenstein,Thriller
 Our Kind of Traitor,Thriller
 Saving Silverman,Comedy
 Saving Silverman,Crime
@@ -6809,11 +6729,6 @@ Summer of Sam,Drama
 Summer of Sam,Romance
 Summer of Sam,Thriller
 Jay and Silent Bob Strike Back,Comedy
-The Island,Action
-The Island,Adventure
-The Island,Romance
-The Island,Sci-Fi
-The Island,Thriller
 The Glass House,Crime
 The Glass House,Drama
 The Glass House,Mystery
@@ -6987,9 +6902,6 @@ Are We There Yet?,Comedy
 Are We There Yet?,Family
 Are We There Yet?,Romance
 Tammy,Comedy
-Disturbia,Drama
-Disturbia,Mystery
-Disturbia,Thriller
 School of Rock,Comedy
 School of Rock,Music
 Mortal Kombat,Action
@@ -6997,10 +6909,6 @@ Mortal Kombat,Adventure
 Mortal Kombat,Fantasy
 Mortal Kombat,Sci-Fi
 Mortal Kombat,Thriller
-Wicker Park,Drama
-Wicker Park,Mystery
-Wicker Park,Romance
-Wicker Park,Thriller
 White Chicks,Comedy
 White Chicks,Crime
 The Descendants,Comedy
@@ -7068,8 +6976,6 @@ Max,Adventure
 Max,Family
 Epic Movie,Adventure
 Epic Movie,Comedy
-Conan the Barbarian,Adventure
-Conan the Barbarian,Fantasy
 Spotlight,Biography
 Spotlight,Crime
 Spotlight,Drama
@@ -7267,9 +7173,6 @@ Paparazzi,Action
 Paparazzi,Crime
 Paparazzi,Drama
 Paparazzi,Thriller
-Twilight,Drama
-Twilight,Fantasy
-Twilight,Romance
 A Guy Thing,Comedy
 A Guy Thing,Romance
 Loser,Comedy
@@ -7352,7 +7255,6 @@ We're No Angels,Crime
 Everyone Says I Love You,Comedy
 Everyone Says I Love You,Musical
 Everyone Says I Love You,Romance
-Death at a Funeral,Comedy
 Death Sentence,Action
 Death Sentence,Crime
 Death Sentence,Thriller
@@ -7725,9 +7627,6 @@ United 93,Thriller
 Honey,Drama
 Honey,Music
 Honey,Romance
-Glory,Drama
-Glory,History
-Glory,War
 Spy Hard,Action
 Spy Hard,Comedy
 The Fog,Fantasy
@@ -7866,8 +7765,6 @@ Renaissance,Action
 Renaissance,Animation
 Renaissance,Sci-Fi
 Renaissance,Thriller
-Forsaken,Drama
-Forsaken,Western
 Red Sonja,Action
 Red Sonja,Adventure
 Red Sonja,Fantasy
@@ -7927,9 +7824,6 @@ Sideways,Romance
 Beerfest,Comedy
 Halloween,Horror
 Halloween,Thriller
-Hero,Action
-Hero,Adventure
-Hero,History
 Good Boy!,Comedy
 Good Boy!,Drama
 Good Boy!,Family
@@ -7945,9 +7839,6 @@ Saw 3D: The Final Chapter,Horror
 Saw 3D: The Final Chapter,Mystery
 40 Days and 40 Nights,Comedy
 40 Days and 40 Nights,Romance
-TRON: Legacy,Action
-TRON: Legacy,Adventure
-TRON: Legacy,Sci-Fi
 A Night at the Roxbury,Comedy
 A Night at the Roxbury,Music
 A Night at the Roxbury,Romance
@@ -8048,10 +7939,6 @@ My Girl,Romance
 Fur: An Imaginary Portrait of Diane Arbus,Biography
 Fur: An Imaginary Portrait of Diane Arbus,Drama
 Fur: An Imaginary Portrait of Diane Arbus,Romance
-The Illusionist,Drama
-The Illusionist,Mystery
-The Illusionist,Romance
-The Illusionist,Thriller
 Wall Street,Crime
 Wall Street,Drama
 Sense and Sensibility,Drama
@@ -8121,7 +8008,6 @@ Arn: The Knight Templar,Adventure
 Arn: The Knight Templar,Drama
 Arn: The Knight Templar,Romance
 Arn: The Knight Templar,War
-Bad Moms,Comedy
 Boys and Girls,Comedy
 Boys and Girls,Drama
 Boys and Girls,Romance
@@ -8133,11 +8019,6 @@ Drowning Mona,Comedy
 Drowning Mona,Crime
 Drowning Mona,Mystery
 Radio Days,Comedy
-Left Behind,Action
-Left Behind,Drama
-Left Behind,Fantasy
-Left Behind,Mystery
-Left Behind,Thriller
 Remember Me,Drama
 Remember Me,Romance
 How to Deal,Comedy
@@ -8247,9 +8128,6 @@ Tidal Wave,Action
 Tidal Wave,Comedy
 Tidal Wave,Drama
 Tidal Wave,Thriller
-Ben-Hur,Adventure
-Ben-Hur,Drama
-Ben-Hur,History
 The Imitation Game,Biography
 The Imitation Game,Drama
 The Imitation Game,Thriller
@@ -8264,8 +8142,6 @@ Diary of a Wimpy Kid,Comedy
 Diary of a Wimpy Kid,Family
 Mama,Fantasy
 Mama,Horror
-Halloween,Horror
-Halloween,Thriller
 National Lampoon's Vacation,Adventure
 National Lampoon's Vacation,Comedy
 Bad Grandpa,Comedy
@@ -8315,9 +8191,6 @@ Not Another Teen Movie,Comedy
 End of Watch,Crime
 End of Watch,Drama
 End of Watch,Thriller
-Aloha,Comedy
-Aloha,Drama
-Aloha,Romance
 The Skulls,Action
 The Skulls,Crime
 The Skulls,Drama
@@ -8347,9 +8220,6 @@ The Wedding Date,Romance
 Halloween: Resurrection,Comedy
 Halloween: Resurrection,Horror
 Halloween: Resurrection,Thriller
-Clash of the Titans,Action
-Clash of the Titans,Adventure
-Clash of the Titans,Fantasy
 The Princess Bride,Adventure
 The Princess Bride,Family
 The Princess Bride,Fantasy
@@ -8688,11 +8558,6 @@ Cool Runnings,Family
 Cool Runnings,Sport
 My Bloody Valentine,Horror
 My Bloody Valentine,Thriller
-The Possession,Horror
-The Possession,Thriller
-First Blood,Action
-First Blood,Adventure
-First Blood,Drama
 Stomp the Yard,Drama
 Stomp the Yard,Music
 Stomp the Yard,Romance
@@ -8703,8 +8568,6 @@ The Spy Who Loved Me,Thriller
 Urban Legend,Horror
 Urban Legend,Mystery
 Urban Legend,Thriller
-Dangerous Liaisons,Drama
-Dangerous Liaisons,Romance
 Good Deeds,Comedy
 Good Deeds,Drama
 Good Deeds,Romance
@@ -8761,9 +8624,6 @@ Jason X,Action
 Jason X,Horror
 Jason X,Sci-Fi
 Jason X,Thriller
-Big Fat Liar,Adventure
-Big Fat Liar,Comedy
-Big Fat Liar,Family
 Bobby,Drama
 Bobby,History
 Head Over Heels,Comedy
@@ -8816,10 +8676,6 @@ Flipped,Drama
 Flipped,Romance
 Brokeback Mountain,Drama
 Brokeback Mountain,Romance
-Teenage Mutant Ninja Turtles,Action
-Teenage Mutant Ninja Turtles,Adventure
-Teenage Mutant Ninja Turtles,Comedy
-Teenage Mutant Ninja Turtles,Sci-Fi
 Clueless,Comedy
 Clueless,Romance
 Far from Heaven,Drama
@@ -8855,10 +8711,6 @@ Justin Bieber: Never Say Never,Documentary
 Justin Bieber: Never Say Never,Music
 Black Swan,Drama
 Black Swan,Thriller
-RoboCop,Action
-RoboCop,Crime
-RoboCop,Sci-Fi
-RoboCop,Thriller
 The Godfather: Part II,Crime
 The Godfather: Part II,Drama
 Save the Last Dance,Drama
@@ -8970,8 +8822,6 @@ Chloe,Thriller
 Faithful,Comedy
 Faithful,Crime
 Faithful,Drama
-Brothers,Drama
-Brothers,Thriller
 Find Me Guilty,Biography
 Find Me Guilty,Comedy
 Find Me Guilty,Crime
@@ -9147,9 +8997,6 @@ The Muppet Christmas Carol,Drama
 The Muppet Christmas Carol,Family
 The Muppet Christmas Carol,Fantasy
 The Muppet Christmas Carol,Musical
-Casino Royale,Action
-Casino Royale,Adventure
-Casino Royale,Thriller
 Frida,Biography
 Frida,Drama
 Frida,Romance
@@ -9215,10 +9062,6 @@ Das Boot,Adventure
 Das Boot,Drama
 Das Boot,Thriller
 Das Boot,War
-The Alamo,Drama
-The Alamo,History
-The Alamo,War
-The Alamo,Western
 Sorority Boys,Comedy
 About Time,Drama
 About Time,Fantasy
@@ -9255,10 +9098,6 @@ In the Cut,Thriller
 Two Lovers,Drama
 Two Lovers,Romance
 Last Orders,Drama
-The Host,Comedy
-The Host,Drama
-The Host,Horror
-The Host,Sci-Fi
 The Pursuit of D.B. Cooper,Adventure
 The Pursuit of D.B. Cooper,Crime
 The Pursuit of D.B. Cooper,Thriller
@@ -9314,12 +9153,6 @@ Cypher,Thriller
 City of Life and Death,Drama
 City of Life and Death,History
 City of Life and Death,War
-Home,Adventure
-Home,Animation
-Home,Comedy
-Home,Family
-Home,Fantasy
-Home,Sci-Fi
 Legend of Kung Fu Rabbit,Action
 Legend of Kung Fu Rabbit,Adventure
 Legend of Kung Fu Rabbit,Animation
@@ -9462,8 +9295,6 @@ Romance & Cigarettes,Romance
 Copying Beethoven,Biography
 Copying Beethoven,Drama
 Copying Beethoven,Music
-Poltergeist,Fantasy
-Poltergeist,Horror
 Brighton Rock,Crime
 Brighton Rock,Drama
 Brighton Rock,Thriller
@@ -9525,7 +9356,6 @@ The Purge: Election Year,Sci-Fi
 The Purge: Election Year,Thriller
 She's All That,Comedy
 She's All That,Romance
-Precious,Drama
 Saw IV,Horror
 Saw IV,Mystery
 White Noise,Drama
@@ -9588,8 +9418,6 @@ The Last Dragon,Action
 The Last Dragon,Comedy
 The Last Dragon,Drama
 The Last Dragon,Music
-Snatch,Comedy
-Snatch,Crime
 The Lawnmower Man,Horror
 The Lawnmower Man,Sci-Fi
 Nick and Norah's Infinite Playlist,Comedy
@@ -9720,9 +9548,6 @@ Dirty Pretty Things,Crime
 Dirty Pretty Things,Drama
 Dirty Pretty Things,Thriller
 Movie 43,Comedy
-The Tourist,Action
-The Tourist,Romance
-The Tourist,Thriller
 Over Her Dead Body,Comedy
 Over Her Dead Body,Fantasy
 Over Her Dead Body,Romance
@@ -10097,9 +9922,6 @@ All or Nothing,Drama
 Princess Kaiulani,Drama
 Opal Dream,Drama
 Opal Dream,Family
-Heist,Action
-Heist,Crime
-Heist,Thriller
 Flame and Citron,Drama
 Flame and Citron,History
 Flame and Citron,Thriller
@@ -10172,9 +9994,6 @@ Bright Star,Romance
 My Name Is Khan,Adventure
 My Name Is Khan,Drama
 My Name Is Khan,Thriller
-Footloose,Drama
-Footloose,Music
-Footloose,Romance
 Limbo,Adventure
 Limbo,Drama
 Limbo,Thriller
@@ -10187,10 +10006,6 @@ Yeh Jawaani Hai Deewani,Comedy
 Yeh Jawaani Hai Deewani,Drama
 Yeh Jawaani Hai Deewani,Musical
 Yeh Jawaani Hai Deewani,Romance
-The Karate Kid,Action
-The Karate Kid,Drama
-The Karate Kid,Family
-The Karate Kid,Sport
 Quo Vadis,Biography
 Quo Vadis,Drama
 Quo Vadis,History
@@ -10248,9 +10063,6 @@ A Thin Line Between Love and Hate,Thriller
 Shutter,Horror
 Shutter,Mystery
 Shutter,Thriller
-Creepshow,Comedy
-Creepshow,Fantasy
-Creepshow,Horror
 That Awkward Moment,Comedy
 That Awkward Moment,Romance
 Modern Problems,Comedy
@@ -10275,8 +10087,6 @@ Half Baked,Comedy
 Half Baked,Crime
 New in Town,Comedy
 New in Town,Romance
-Syriana,Drama
-Syriana,Thriller
 American Psycho,Crime
 American Psycho,Drama
 The Good Girl,Drama
@@ -10460,9 +10270,6 @@ Code 46,Romance
 Code 46,Sci-Fi
 Code 46,Thriller
 Outside Bet,Comedy
-Crash,Crime
-Crash,Drama
-Crash,Thriller
 Albert Nobbs,Drama
 Black November,Action
 Black November,Crime
@@ -10486,9 +10293,6 @@ Harry Brown,Action
 Harry Brown,Crime
 Harry Brown,Drama
 Harry Brown,Thriller
-Spider-Man 3,Action
-Spider-Man 3,Adventure
-Spider-Man 3,Romance
 The Omega Code,Action
 The Omega Code,Adventure
 The Omega Code,Fantasy
@@ -10529,8 +10333,6 @@ My Dog Skip,Sport
 "Definitely, Maybe",Romance
 Jumping the Broom,Comedy
 Jumping the Broom,Drama
-The Great Gatsby,Drama
-The Great Gatsby,Romance
 "Good Night, and Good Luck.",Biography
 "Good Night, and Good Luck.",Drama
 "Good Night, and Good Luck.",History
@@ -10540,9 +10342,6 @@ Capote,Drama
 Desperado,Action
 Desperado,Crime
 Desperado,Thriller
-The Claim,Drama
-The Claim,Romance
-The Claim,Western
 Logan's Run,Action
 Logan's Run,Adventure
 Logan's Run,Sci-Fi
@@ -10569,9 +10368,6 @@ Dope,Drama
 In Too Deep,Crime
 In Too Deep,Drama
 In Too Deep,Thriller
-Skyfall,Action
-Skyfall,Adventure
-Skyfall,Thriller
 House of 1000 Corpses,Horror
 Alien Zone,Horror
 A Serious Man,Comedy
@@ -10806,9 +10602,6 @@ Mary Poppins,Family
 Mary Poppins,Fantasy
 Mary Poppins,Musical
 Ordinary People,Drama
-Around the World in 80 Days,Action
-Around the World in 80 Days,Adventure
-Around the World in 80 Days,Comedy
 West Side Story,Crime
 West Side Story,Drama
 West Side Story,Musical
@@ -10972,9 +10765,6 @@ L'auberge espagnole,Comedy
 L'auberge espagnole,Drama
 Song One,Drama
 Song One,Music
-Murder by Numbers,Crime
-Murder by Numbers,Mystery
-Murder by Numbers,Thriller
 Winter in Wartime,Drama
 Winter in Wartime,History
 Winter in Wartime,War
@@ -11101,8 +10891,6 @@ A Nightmare on Elm Street 3: Dream Warriors,Action
 A Nightmare on Elm Street 3: Dream Warriors,Fantasy
 A Nightmare on Elm Street 3: Dream Warriors,Horror
 A Nightmare on Elm Street 3: Dream Warriors,Thriller
-The Gift,Mystery
-The Gift,Thriller
 Instructions Not Included,Comedy
 Instructions Not Included,Drama
 Paranormal Activity 4,Horror
@@ -11165,9 +10953,6 @@ Race,Drama
 Race,Sport
 The Players Club,Comedy
 The Players Club,Drama
-O,Drama
-O,Romance
-O,Thriller
 "As Above, So Below",Horror
 "As Above, So Below",Mystery
 "As Above, So Below",Thriller
@@ -11433,8 +11218,6 @@ The Names of Love,Romance
 Treading Water,Comedy
 Treading Water,Drama
 Savage Grace,Drama
-Out of the Blue,Crime
-Out of the Blue,Drama
 Police Academy,Comedy
 The Blue Lagoon,Adventure
 The Blue Lagoon,Drama
@@ -11525,9 +11308,6 @@ Paa,Drama
 Cargo,Mystery
 Cargo,Sci-Fi
 Cargo,Thriller
-Pan,Adventure
-Pan,Family
-Pan,Fantasy
 High School Musical,Comedy
 High School Musical,Drama
 High School Musical,Family
@@ -11553,9 +11333,6 @@ Annie Hall,Romance
 The Greatest Show on Earth,Drama
 The Greatest Show on Earth,Family
 The Greatest Show on Earth,Romance
-Exodus: Gods and Kings,Action
-Exodus: Gods and Kings,Adventure
-Exodus: Gods and Kings,Drama
 Monster's Ball,Drama
 Monster's Ball,Romance
 Maggie,Drama
@@ -11564,9 +11341,6 @@ Leaving Las Vegas,Drama
 Leaving Las Vegas,Romance
 Hansel & Gretel Get Baked,Comedy
 Hansel & Gretel Get Baked,Horror
-The Return of the Living Dead,Comedy
-The Return of the Living Dead,Horror
-The Return of the Living Dead,Sci-Fi
 The Front Page,Comedy
 The Front Page,Drama
 The Front Page,Romance
@@ -11597,10 +11371,6 @@ Boyhood,Drama
 Scoop,Comedy
 Scoop,Crime
 Scoop,Mystery
-Planet of the Apes,Action
-Planet of the Apes,Adventure
-Planet of the Apes,Sci-Fi
-Planet of the Apes,Thriller
 The Wash,Comedy
 3 Strikes,Comedy
 The Cooler,Crime
@@ -11615,9 +11385,6 @@ The Night Listener,Mystery
 The Night Listener,Thriller
 The Jerky Boys,Comedy
 The Jerky Boys,Crime
-My Soul to Take,Horror
-My Soul to Take,Mystery
-My Soul to Take,Thriller
 The Orphanage,Drama
 The Orphanage,Mystery
 The Orphanage,Thriller
@@ -11729,9 +11496,6 @@ The Perfect Wave,Adventure
 The Perfect Wave,Biography
 The Perfect Wave,Drama
 The Perfect Wave,Romance
-Ben-Hur,Adventure
-Ben-Hur,Drama
-Ben-Hur,History
 A Man for All Seasons,Biography
 A Man for All Seasons,Drama
 A Man for All Seasons,History
@@ -11766,9 +11530,6 @@ The Pirate,Romance
 The Good Heart,Drama
 The History Boys,Comedy
 The History Boys,Drama
-Unknown,Action
-Unknown,Mystery
-Unknown,Thriller
 Midnight Cowboy,Drama
 The Full Monty,Comedy
 The Full Monty,Drama
@@ -11811,7 +11572,6 @@ Gods and Monsters,Drama
 The Secret in Their Eyes,Drama
 The Secret in Their Eyes,Mystery
 The Secret in Their Eyes,Thriller
-Day of the Dead,Horror
 Train,Horror
 Train,Thriller
 Evil Dead II,Comedy
@@ -11831,9 +11591,6 @@ Trollhunter,Fantasy
 Trollhunter,Horror
 Ira & Abby,Comedy
 Ira & Abby,Romance
-The Watch,Action
-The Watch,Comedy
-The Watch,Sci-Fi
 Winter Passing,Comedy
 Winter Passing,Drama
 D.E.B.S.,Action
@@ -12084,9 +11841,6 @@ Brave New Girl,Drama
 Brave New Girl,Family
 Brave New Girl,Music
 Tim and Eric's Billion Dollar Movie,Comedy
-The Gambler,Crime
-The Gambler,Drama
-The Gambler,Thriller
 Summer Storm,Comedy
 Summer Storm,Drama
 Summer Storm,Romance
@@ -12107,9 +11861,6 @@ The Eclipse,Romance
 Demonic,Horror
 Demonic,Thriller
 My Big Fat Independent Movie,Comedy
-Alice in Wonderland,Adventure
-Alice in Wonderland,Family
-Alice in Wonderland,Fantasy
 The Deported,Comedy
 Tanner Hall,Drama
 Open Road,Action
@@ -12132,10 +11883,6 @@ AWOL-72,Thriller
 Iguana,Adventure
 Iguana,Crime
 Iguana,Drama
-Cinderella,Drama
-Cinderella,Family
-Cinderella,Fantasy
-Cinderella,Romance
 Chicago Overcoat,Action
 Chicago Overcoat,Adventure
 Chicago Overcoat,Crime
@@ -12155,9 +11902,6 @@ Amnesiac,Horror
 Amnesiac,Mystery
 Amnesiac,Thriller
 Freakonomics,Documentary
-The Omen,Fantasy
-The Omen,Horror
-The Omen,Mystery
 High Tension,Horror
 Griff the Invisible,Comedy
 Griff the Invisible,Drama
@@ -12210,9 +11954,6 @@ Maurice,Drama
 Maurice,Romance
 Beer League,Comedy
 Beer League,Sport
-The Astronaut's Wife,Drama
-The Astronaut's Wife,Sci-Fi
-The Astronaut's Wife,Thriller
 Riding Giants,Documentary
 Riding Giants,History
 Riding Giants,Sport
@@ -12232,7 +11973,6 @@ Singin' in the Rain,Romance
 A Haunted House,Comedy
 A Haunted House,Fantasy
 2016: Obama's America,Documentary
-Halloween II,Horror
 That Thing You Do!,Comedy
 That Thing You Do!,Drama
 That Thing You Do!,Music
@@ -12278,8 +12018,6 @@ Religulous,Documentary
 Religulous,War
 Fuel,Documentary
 Valley of the Heart's Delight,Drama
-Dodgeball: A True Underdog Story,Comedy
-Dodgeball: A True Underdog Story,Sport
 Eye of the Dolphin,Comedy
 Eye of the Dolphin,Drama
 Eye of the Dolphin,Family
@@ -12337,10 +12075,6 @@ The Brave Little Toaster,Comedy
 The Brave Little Toaster,Family
 The Brave Little Toaster,Fantasy
 The Brave Little Toaster,Musical
-The French Connection,Action
-The French Connection,Crime
-The French Connection,Drama
-The French Connection,Thriller
 8 Days,Drama
 8 Days,Thriller
 Friday the 13th Part III,Horror
@@ -12406,9 +12140,6 @@ Mad Max 2: The Road Warrior,Sci-Fi
 Mad Max 2: The Road Warrior,Thriller
 The Legend of Drunken Master,Action
 The Legend of Drunken Master,Comedy
-Lolita,Crime
-Lolita,Drama
-Lolita,Romance
 Boys Don't Cry,Biography
 Boys Don't Cry,Crime
 Boys Don't Cry,Drama
@@ -12472,7 +12203,6 @@ Full Frontal,Romance
 Witchboard,Horror
 Witchboard,Mystery
 Witchboard,Thriller
-Hamlet,Drama
 Shortbus,Comedy
 Shortbus,Drama
 Shortbus,Romance
@@ -12550,8 +12280,6 @@ Return of the Living Dead III,Sci-Fi
 London,Drama
 London,Romance
 Sherrybaby,Drama
-Stealing Harvard,Comedy
-Stealing Harvard,Crime
 Circle,Drama
 Circle,Horror
 Circle,Mystery
@@ -12639,12 +12367,8 @@ The Square,Drama
 The Square,History
 The Square,News
 One to Another,Drama
-Carrie,Drama
-Carrie,Fantasy
-Carrie,Horror
 ABCD (Any Body Can Dance),Drama
 ABCD (Any Body Can Dance),Musical
-A Nightmare on Elm Street,Horror
 Man on Wire,Biography
 Man on Wire,Crime
 Man on Wire,Documentary
@@ -12746,9 +12470,6 @@ Mississippi Mermaid,Romance
 I Love Your Work,Drama
 I Love Your Work,Mystery
 Cabin Fever,Horror
-Dawn of the Dead,Action
-Dawn of the Dead,Horror
-Dawn of the Dead,Thriller
 Waitress,Comedy
 Waitress,Drama
 Waitress,Romance
@@ -12764,8 +12485,6 @@ The Squid and the Whale,Drama
 Kissing Jessica Stein,Comedy
 Kissing Jessica Stein,Drama
 Kissing Jessica Stein,Romance
-"A Woman, a Gun and a Noodle Shop",Comedy
-"A Woman, a Gun and a Noodle Shop",Drama
 Kickboxer: Vengeance,Action
 Spellbound,Film-Noir
 Spellbound,Mystery
@@ -12853,10 +12572,6 @@ Growing Up Smith,Family
 Checkmate,Action
 Checkmate,Crime
 Checkmate,Thriller
-Jack Reacher,Action
-Jack Reacher,Crime
-Jack Reacher,Mystery
-Jack Reacher,Thriller
 #Horror,Drama
 #Horror,Horror
 #Horror,Mystery
@@ -12894,10 +12609,6 @@ Journey from the Fall,Drama
 The Basket,Drama
 Eddie: The Sleepwalking Cannibal,Comedy
 Eddie: The Sleepwalking Cannibal,Horror
-Mercury Rising,Action
-Mercury Rising,Crime
-Mercury Rising,Drama
-Mercury Rising,Thriller
 Queen of the Mountains,Action
 Queen of the Mountains,Biography
 Queen of the Mountains,Drama
@@ -12946,9 +12657,6 @@ The Algerian,Romance
 The Algerian,Thriller
 The Amazing Catfish,Comedy
 The Amazing Catfish,Drama
-The Day the Earth Stood Still,Drama
-The Day the Earth Stood Still,Sci-Fi
-The Day the Earth Stood Still,Thriller
 Monsoon Wedding,Comedy
 Monsoon Wedding,Drama
 Monsoon Wedding,Romance
@@ -12956,10 +12664,6 @@ You Can Count on Me,Drama
 The Trouble with Harry,Comedy
 The Trouble with Harry,Mystery
 The Trouble with Harry,Romance
-Lucky Number Slevin,Crime
-Lucky Number Slevin,Drama
-Lucky Number Slevin,Mystery
-Lucky Number Slevin,Thriller
 But I'm a Cheerleader,Comedy
 But I'm a Cheerleader,Drama
 Home Run,Drama
@@ -13037,8 +12741,6 @@ Silent Running,Sci-Fi
 Rocky,Drama
 Rocky,Sport
 The Sleepwalker,Drama
-The Fog,Fantasy
-The Fog,Horror
 Tom Jones,Adventure
 Tom Jones,Comedy
 Tom Jones,History
@@ -13100,9 +12802,6 @@ October Baby,Drama
 Next Stop Wonderland,Comedy
 Next Stop Wonderland,Drama
 Next Stop Wonderland,Romance
-Juno,Comedy
-Juno,Drama
-Juno,Romance
 The Skeleton Twins,Comedy
 The Skeleton Twins,Drama
 Martha Marcy May Marlene,Drama
@@ -13119,9 +12818,6 @@ Two Girls and a Guy,Drama
 Walking and Talking,Comedy
 Walking and Talking,Drama
 Walking and Talking,Romance
-The Full Monty,Comedy
-The Full Monty,Drama
-The Full Monty,Music
 Who Killed the Electric Car?,Documentary
 The Broken Hearts Club: A Romantic Comedy,Comedy
 The Broken Hearts Club: A Romantic Comedy,Drama
@@ -13130,18 +12826,12 @@ The Broken Hearts Club: A Romantic Comedy,Sport
 Bubba Ho-Tep,Comedy
 Bubba Ho-Tep,Fantasy
 Bubba Ho-Tep,Mystery
-Goosebumps,Adventure
-Goosebumps,Comedy
-Goosebumps,Family
-Goosebumps,Fantasy
-Goosebumps,Horror
 Slam,Drama
 Brigham City,Crime
 Brigham City,Drama
 Brigham City,Mystery
 Fiza,Drama
 Fiza,Romance
-History of the World: Part I,Comedy
 Orgazmo,Comedy
 Orgazmo,Sci-Fi
 All the Real Girls,Drama
@@ -13164,9 +12854,6 @@ I Origins,Sci-Fi
 The Battle of Shaker Heights,Comedy
 The Battle of Shaker Heights,Drama
 The Battle of Shaker Heights,Romance
-The Lovely Bones,Drama
-The Lovely Bones,Fantasy
-The Lovely Bones,Thriller
 The Act of Killing,Biography
 The Act of Killing,Crime
 The Act of Killing,Documentary
@@ -13266,10 +12953,6 @@ Zombie Hunter,Action
 Zombie Hunter,Comedy
 Zombie Hunter,Horror
 A Fine Step,Drama
-Trance,Crime
-Trance,Drama
-Trance,Mystery
-Trance,Thriller
 Charly,Drama
 Charly,Romance
 Charly,Sci-Fi
@@ -13304,9 +12987,6 @@ Bambi,Family
 The Hammer,Comedy
 The Hammer,Romance
 The Hammer,Sport
-Snitch,Action
-Snitch,Drama
-Snitch,Thriller
 Latter Days,Comedy
 Latter Days,Drama
 Latter Days,Romance
@@ -13379,11 +13059,6 @@ Kill List,Crime
 Kill List,Horror
 Kill List,Thriller
 The Innkeepers,Horror
-The Unborn,Drama
-The Unborn,Fantasy
-The Unborn,Horror
-The Unborn,Mystery
-The Unborn,Thriller
 The Conformist,Drama
 Interview with the Assassin,Drama
 Donkey Punch,Crime
@@ -13411,11 +13086,6 @@ The Sisterhood of Night,Thriller
 B-Girl,Drama
 B-Girl,Music
 B-Girl,Romance
-King Kong,Action
-King Kong,Adventure
-King Kong,Drama
-King Kong,Romance
-House of Wax,Horror
 Half Nelson,Drama
 Naturally Native,Drama
 Hav Plenty,Comedy
@@ -13528,12 +13198,6 @@ Finishing the Game: The Search for a New Bruce Lee,Comedy
 Rubber,Comedy
 Rubber,Fantasy
 Rubber,Horror
-Home,Adventure
-Home,Animation
-Home,Comedy
-Home,Family
-Home,Fantasy
-Home,Sci-Fi
 Kiss the Bride,Comedy
 Kiss the Bride,Romance
 The Slaughter Rule,Drama
@@ -13563,8 +13227,6 @@ America Is Still the Place,History
 Subconscious,Action
 Subconscious,Mystery
 Subconscious,Thriller
-Crossroads,Comedy
-Crossroads,Drama
 Enter Nowhere,Mystery
 Enter Nowhere,Thriller
 The King of Najayo,Crime
@@ -13583,9 +13245,6 @@ Born to Fly: Elizabeth Streb vs. Gravity,Biography
 Born to Fly: Elizabeth Streb vs. Gravity,Documentary
 Born to Fly: Elizabeth Streb vs. Gravity,Sport
 The Little Ponderosa Zoo,Family
-Oz the Great and Powerful,Adventure
-Oz the Great and Powerful,Family
-Oz the Great and Powerful,Fantasy
 The Toxic Avenger,Action
 The Toxic Avenger,Comedy
 The Toxic Avenger,Horror
@@ -13671,8 +13330,6 @@ American Ninja 2: The Confrontation,Drama
 51 Birch Street,Documentary
 Rotor DR1,Family
 Rotor DR1,Sci-Fi
-Halloween,Horror
-Halloween,Thriller
 12 Angry Men,Crime
 12 Angry Men,Drama
 My Dog Tulip,Animation
@@ -13710,10 +13367,6 @@ Fighting Tommy Riley,Drama
 Fighting Tommy Riley,Sport
 Royal Kill,Action
 Royal Kill,Thriller
-Across the Universe,Drama
-Across the Universe,Fantasy
-Across the Universe,Musical
-Across the Universe,Romance
 The Looking Glass,Drama
 The Looking Glass,Music
 Death Race 2000,Action
@@ -13809,8 +13462,6 @@ Butterfly,Drama
 UnDivided,Documentary
 The Frozen,Horror
 The Frozen,Thriller
-The Love Letter,Fantasy
-The Love Letter,Romance
 Horse Camp,Family
 Give Me Shelter,Documentary
 The Big Parade,Drama
@@ -13836,11 +13487,6 @@ The Stewardesses,Drama
 "The Beast from 20,000 Fathoms",Adventure
 "The Beast from 20,000 Fathoms",Horror
 "The Beast from 20,000 Fathoms",Sci-Fi
-"20,000 Leagues Under the Sea",Adventure
-"20,000 Leagues Under the Sea",Drama
-"20,000 Leagues Under the Sea",Family
-"20,000 Leagues Under the Sea",Fantasy
-"20,000 Leagues Under the Sea",Sci-Fi
 Mad Max,Action
 Mad Max,Adventure
 Mad Max,Sci-Fi
@@ -13866,9 +13512,6 @@ The Business of Fancydancing,Music
 Call + Response,Documentary
 Call + Response,History
 Call + Response,Music
-Side Effects,Crime
-Side Effects,Drama
-Side Effects,Thriller
 Malevolence,Crime
 Malevolence,Horror
 Malevolence,Mystery
@@ -13922,7 +13565,6 @@ The World Is Mine,Drama
 Another Earth,Drama
 Another Earth,Romance
 Another Earth,Sci-Fi
-The Calling,Thriller
 Sweet Sweetback's Baadasssss Song,Crime
 Sweet Sweetback's Baadasssss Song,Drama
 Sweet Sweetback's Baadasssss Song,Thriller
@@ -13939,8 +13581,6 @@ When the Lights Went Out,Horror
 Heroes of Dirt,Action
 Heroes of Dirt,Drama
 Heroes of Dirt,Sport
-The Texas Chain Saw Massacre,Horror
-The Texas Chain Saw Massacre,Thriller
 A Charlie Brown Christmas,Animation
 A Charlie Brown Christmas,Comedy
 A Charlie Brown Christmas,Family
@@ -13949,9 +13589,6 @@ Antarctic Edge: 70° South,Documentary
 Aroused,Documentary
 Top Spin,Documentary
 Roger & Me,Documentary
-Cat People,Fantasy
-Cat People,Horror
-Cat People,Thriller
 An American in Hollywood,Drama
 Sound of My Voice,Drama
 Sound of My Voice,Mystery
@@ -13960,10 +13597,6 @@ Sound of My Voice,Thriller
 Your Sister's Sister,Comedy
 Your Sister's Sister,Drama
 A Dog's Breakfast,Comedy
-A Dog's Breakfast,Comedy
-Night of the Living Dead,Drama
-Night of the Living Dead,Horror
-Night of the Living Dead,Mystery
 Une Femme Mariée,Drama
 The Birth of a Nation,Biography
 The Birth of a Nation,Drama
@@ -14006,9 +13639,6 @@ The Night Visitor,Thriller
 The Past is a Grotesque Animal,Biography
 The Past is a Grotesque Animal,Documentary
 The Past is a Grotesque Animal,Music
-The Last House on the Left,Crime
-The Last House on the Left,Horror
-The Last House on the Left,Thriller
 "Peace, Propaganda & the Promised Land",Documentary
 Pi,Drama
 Pi,Mystery
@@ -14084,10 +13714,6 @@ Funny Ha Ha,Comedy
 Funny Ha Ha,Drama
 In the Company of Men,Comedy
 In the Company of Men,Drama
-Sabotage,Action
-Sabotage,Crime
-Sabotage,Drama
-Sabotage,Thriller
 Manito,Drama
 Manito,Family
 Rampage,Action
